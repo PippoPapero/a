@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 
 #EXTINF:-1 group-title="RSI" player-buffer="15" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png" group-title="DTT", RSI La1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd

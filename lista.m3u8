@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Cinema_Uno.png" group-title="Cinema" tvg-name="Sky Cinema Uno",Sky Cinema Uno
+https://calcionew.newkso.ru/calcio/calcioX2skycinemauno/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Cinema_Due.png" group-title="Cinema" tvg-name="Sky Cinema Due",Sky Cinema Due
+https://calcionew.newkso.ru/calcio/calcioX2skycinemadue/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Cinema_Action.png" group-title="Cinema" tvg-name="Sky Cinema Action",Sky Cinema Action
+https://calcionew.newkso.ru/calcio/calcioX2ac/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Cinema_Comedy.png" group-title="Cinema" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
+https://calcionew.newkso.ru/calcio/calcioX2skycinemacomedy/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Cinema_Family.png" group-title="Cinema" tvg-name="Sky Cinema Family",Sky Cinema Family
+https://calcionew.newkso.ru/calcio/calcioX2skycinemafamily/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Cinema_Suspense.png" group-title="Cinema" tvg-name="Sky Cinema Suspense",Sky Cinema Suspense
+https://calcionew.newkso.ru/calcio/calcioX2skycinemasuspence/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Cinema_Drama.png" group-title="Cinema" tvg-name="Sky Cinema Drama",Sky Cinema Drama
+https://calcionew.newkso.ru/calcio/calcioX2skycinemadrama/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Cinema_Romance.png" group-title="Cinema" tvg-name="Sky Cinema Romance",Sky Cinema Romance
+https://calcionew.newkso.ru/calcio/calcioX2skycinemaromance/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_Uno.png" group-title="Sport" tvg-name="Sky Sport Uno",Sky Sport Uno
+https://calcionew.newkso.ru/calcio/calcioX2serie/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Eurosport_1.png" group-title="Sport" tvg-name="Eurosport 1",Eurosport 1
+https://calcionew.newkso.ru/calcio/calcioX2eurosport1/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Eurosport_2.png" group-title="Sport" tvg-name="Eurosport 2",Eurosport 2
+https://calcionew.newkso.ru/calcio/calcioX2eurosport2/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Dazn1.png" group-title="Sport" tvg-name="Dazn1",Dazn1
+https://calcionew.newkso.ru/calcio/Dazn1/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Zona_DAZN.png" group-title="Sport" tvg-name="Zona DAZN",Zona DAZN
+https://calcionew.newkso.ru/calcio/calcioX2zona/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Formula_1.png" group-title="Sport" tvg-name="Sky Formula 1",Sky Formula 1
+https://calcionew.newkso.ru/calcio/calcioX2formula/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_Calcio.png" group-title="Sport" tvg-name="Sky Sport Calcio",Sky Sport Calcio
+https://calcionew.newkso.ru/calcio/calcioX2skysportcalcio/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_Nba.png" group-title="Sport" tvg-name="Sky Sport Nba",Sky Sport Nba
+https://calcionew.newkso.ru/calcio/calcioX2skysportnba/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_MotoGP.png" group-title="Sport" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
+https://calcionew.newkso.ru/calcio/calcioX2skysportmotogp/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_Golf.png" group-title="Sport" tvg-name="Sky Sport Golf",Sky Sport Golf
+https://calcionew.newkso.ru/calcio/calcioX2skysportgolf/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_Tennis.png" group-title="Sport" tvg-name="Sky Sport Tennis",Sky Sport Tennis
+https://calcionew.newkso.ru/calcio/calcioX2skysporttennis/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_24.png" group-title="Sport" tvg-name="Sky Sport 24",Sky Sport 24
+https://calcionew.newkso.ru/calcio/calcioX2skysport24/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/default.png" group-title="Sport" tvg-name="Solo Calcio",Solo Calcio
+https://calcionew.newkso.ru/calcio/calcioX2solocalcio/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sport_Italia.png" group-title="Sport" tvg-name="Sport Italia",Sport Italia
+https://calcionew.newkso.ru/calcio/calcioX2sportitalia/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Serie_A.png" group-title="Sport" tvg-name="Sky Serie A",Sky Serie A
+https://calcionew.newkso.ru/calcio/calcioX2skyserie/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/La_Liga.png" group-title="Sport" tvg-name="La Liga",La Liga
+https://calcionew.newkso.ru/calcio/calcioX2laliga/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Ligue.png" group-title="Sport" tvg-name="Ligue",Ligue
+https://calcionew.newkso.ru/calcio/calcioX2ligue1/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_251.png" group-title="Sport" tvg-name="Sky Sport 251",Sky Sport 251
+https://calcionew.newkso.ru/calcio/calcioX2skysport251/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_252.png" group-title="Sport" tvg-name="Sky Sport 252",Sky Sport 252
+https://calcionew.newkso.ru/calcio/calcioX2skysport252/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_253.png" group-title="Sport" tvg-name="Sky Sport 253",Sky Sport 253
+https://calcionew.newkso.ru/calcio/calcioX2skysport253/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_254.png" group-title="Sport" tvg-name="Sky Sport 254",Sky Sport 254
+https://calcionew.newkso.ru/calcio/calcioX2skysport254/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_255.png" group-title="Sport" tvg-name="Sky Sport 255",Sky Sport 255
+https://calcionew.newkso.ru/calcio/calcioX2skysport255/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_256.png" group-title="Sport" tvg-name="Sky Sport 256",Sky Sport 256
+https://calcionew.newkso.ru/calcio/calcioX2skysport256/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_257.png" group-title="Sport" tvg-name="Sky Sport 257",Sky Sport 257
+https://calcionew.newkso.ru/calcio/calcioX2skysport257/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_258.png" group-title="Sport" tvg-name="Sky Sport 258",Sky Sport 258
+https://calcionew.newkso.ru/calcio/calcioX2sky258/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Sport_259.png" group-title="Sport" tvg-name="Sky Sport 259",Sky Sport 259
+https://calcionew.newkso.ru/calcio/calcioX2sky259/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Crime.png" group-title="Intrattenimento" tvg-name="Sky Crime",Sky Crime
+https://calcionew.newkso.ru/calcio/calcioX2skycrime/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Investigation.png" group-title="Intrattenimento" tvg-name="Sky Investigation",Sky Investigation
+https://calcionew.newkso.ru/calcio/calcioX2skyinvestigation/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_History.png" group-title="Intrattenimento" tvg-name="Sky History",Sky History
+https://calcionew.newkso.ru/calcio/calcioX2history/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Uno.png" group-title="Intrattenimento" tvg-name="Sky Uno",Sky Uno
+https://calcionew.newkso.ru/calcio/calcioX2skyuno/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Atlantic.png" group-title="Intrattenimento" tvg-name="Sky Atlantic",Sky Atlantic
+https://calcionew.newkso.ru/calcio/calcioX2skyatlantic/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Comedy_Central.png" group-title="Intrattenimento" tvg-name="Comedy Central",Comedy Central
+https://calcionew.newkso.ru/calcio/calcioX2comedycentral/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Nature.png" group-title="Intrattenimento" tvg-name="Sky Nature",Sky Nature
+https://calcionew.newkso.ru/calcio/calcioX2skynature/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Documentaries.png" group-title="Intrattenimento" tvg-name="Sky Documentaries",Sky Documentaries
+https://calcionew.newkso.ru/calcio/calcioX2skydocumentaries/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi2/Sky_Arte.png" group-title="Intrattenimento" tvg-name="Sky Arte",Sky Arte
+https://calcionew.newkso.ru/calcio/calcioX2skyarte/mono.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 1 (6)", SKY PRIMAFILA 1 (6)
+https://vavoo.to//play/1944682394/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 1 (7)", SKY PRIMAFILA 1 (7)
+https://vavoo.to//play/1492183364/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 2 (6)", SKY PRIMAFILA 2 (6)
+https://vavoo.to//play/877200714/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 2 (7)", SKY PRIMAFILA 2 (7)
+https://vavoo.to//play/525374356/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 3 (6)", SKY PRIMAFILA 3 (6)
+https://vavoo.to//play/153693434/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 3 (7)", SKY PRIMAFILA 3 (7)
+https://vavoo.to//play/573618724/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 4 (6)", SKY PRIMAFILA 4 (6)
+https://vavoo.to//play/3137990890/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 4 (7)", SKY PRIMAFILA 4 (7)
+https://vavoo.to//play/2416993844/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 5 (6)", SKY PRIMAFILA 5 (6)
+https://vavoo.to//play/2255083866/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 5 (7)", SKY PRIMAFILA 5 (7)
+https://vavoo.to//play/2909818756/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 6 (6)", SKY PRIMAFILA 6 (6)
+https://vavoo.to//play/3251217290/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 6 (7)", SKY PRIMAFILA 6 (7)
+https://vavoo.to//play/3939513684/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 7 (6)", SKY PRIMAFILA 7 (6)
+https://vavoo.to//play/4238969402/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 7 (7)", SKY PRIMAFILA 7 (7)
+https://vavoo.to//play/3618643172/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 8 (6)", SKY PRIMAFILA 8 (6)
+https://vavoo.to//play/2130255339/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 8 (7)", SKY PRIMAFILA 8 (7)
+https://vavoo.to//play/1440779061/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 9 (6)", SKY PRIMAFILA 9 (6)
+https://vavoo.to//play/1134113883/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 9 (7)", SKY PRIMAFILA 9 (7)
+https://vavoo.to//play/1753260677/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 10 (6)", SKY PRIMAFILA 10 (6)
+https://vavoo.to//play/4272937805/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 10 (7)", SKY PRIMAFILA 10 (7)
+https://vavoo.to//play/2268489342/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 12 (6)", SKY PRIMAFILA 12 (6)
+https://vavoo.to//play/2221901869/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 14 (6)", SKY PRIMAFILA 14 (6)
+https://vavoo.to//play/187661709/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 15 (6)", SKY PRIMAFILA 15 (6)
+https://vavoo.to//play/911168573/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 16 (6)", SKY PRIMAFILA 16 (6)
+https://vavoo.to//play/1911500525/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 17 (6)", SKY PRIMAFILA 17 (6)
+https://vavoo.to//play/1284441949/index.m3u8
+#EXTINF: -1 tvg-id="None" tvg-logo="https://raw.githubusercontent.com/nero081/loghi/main/loghi3/primafila2.jpg" group-title="Primafila" tvg-name=" SKY PRIMAFILA 18 (6)", SKY PRIMAFILA 18 (6)
+https://vavoo.to//play/3470758028/index.m3u8

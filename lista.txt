@@ -132,6 +132,11 @@ amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25
 #KODIPROP:inputstream.adaptive.license_key=
 amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChib29tZXJhbmcpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1Y2M0MWEwZGFmNTdhMjJjMWM4MWJkMTM5YjU1OTozMTM0N2Y5YmJjOTA3MTNlOTcyMjQ5YjU0ZWM4ODJiMg==
 
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=11153aff5496be1a206a178ab3c1c078:806eb5923c951bd205257282de834740
+https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmotogp)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 24",Sky Sport 24
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
@@ -162,11 +167,6 @@ amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
 #KODIPROP:inputstream.adaptive.license_key=
 amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydGYxKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTU1MjJiNzllODI1ZjhjZGZkNzk2N2EzMWRhNGM6NTQ5MTkwZDE5NGE2NTU1NjFmNTA5OTQyN2E4MDk4MTI=
-#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
-#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydG1vdG9ncCkvbWFzdGVyXzJoci1hYWMubXBkfDExMTUzYWZmNTQ5NmJlMWEyMDZhMTc4YWIzYzFjMDc4OjgwNmViNTkyM2M5NTFiZDIwNTI1NzI4MmRlODM0NzQw
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport NBA",Sky Sport NBA
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
@@ -227,18 +227,3 @@ amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
 #KODIPROP:inputstream.adaptive.license_key=
 amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1OSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTU4NjI3Mjk0ZmNiZDVlNzI0ZTJiNTIxYzg3YWViOmMyNmJjNmUzM2U4ZjM5ZGM3NDhmNjY4ODU5MzVhNjNm
-#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="EuroSport 1",EuroSport 1
-#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChldXJvc3BvcnQxKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNThiYzRlZjMxMTk1Y2MwZTlmOTNiY2I5OWI4ZTA6MWUzMTY5NDgzMzM3ZTczZDNkNDY0NjkzMTE5N2IwNjI=
-#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="EuroSport 2",EuroSport 2
-#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChldXJvc3BvcnQyKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTA5N2E2YjVhMmNjNTVjMmY2ZTljNjUwNDNlZDc6MmY4MmJjNmE3MWZhZDBhMDY0NjkzNmMyYjAwOTljNzM=
-#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="DAZN 1",DAZN 1
-#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9hYmU2Zmp4YWFhYWFhYWFtYzRwZzU1ZWtjeXF6NC5vdHRlLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZHViLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9sZ2s4a3BwY2xjL291dC92MS9mNTExNzNiNmIwNjI0YTQzODYzNThhYjhkZmVlMjU3Zi9jZW5jLm1wZHw4MjcyYmY2YmE0NmYyM2Y5ZGE1MjcwMDU3YjZlMDI4YTo3NGFlNzBkZDEwYjRiYjM4ZWQ2ZmZlODQzZjNlMmNjZA==

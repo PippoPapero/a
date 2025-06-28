@@ -1,0 +1,244 @@
+#EXTM3U
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky TG24",Sky TG24
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=1115df8d6727807787e98c0ceae1ee6c:f4b9e52e3f31f1fa41850de4799ca4e3
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(tg24)/master_2hr-aac.mpd
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Uno",Sky Uno
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=1115002b32ddb67077a31b31cc1b03c1:bc1a933a25b36aeed12a60f149157a3d
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Atlantic",Sky Atlantic
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lhdGxhbnRpYykvbWFzdGVyXzJoci1hYWMubXBkfDExMTVmMDI4NjI1NzZiMzRiNDY3YWQ0YzU0YTA5Y2ZjOmJhYzQyZTgwMGE1YzQzN2I2MDZlMmFmNWIyOTFjNjA3
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Serie",Sky Serie
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzZXJpZSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTViZjAxYWVhZGNlMzJmY2VjNmEyMjAzNzVhM2ZhOjlkZjM2MGEyYTIyNDExODk3Y2Q4YjFiYzQ4YzBhZmMw
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Investigation",Sky Investigation
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lpbnZlc3RpZ2F0aW9uKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTNkZDhkZTYzZjk3NDgyNTIxMDRhZmQ2Yjc0MDU6MjU1ZTBjNWJiODFiZGU5NjAyZDg3NDYwODA0OTZlMDQ=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Crime",Sky Crime
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljcmltZSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTVhYTQ3Y2ZhMThjZjczY2I2ZjkzNmNmZjFmOGVlOmEyN2U3MzgzZDQ4MTU5NmNjMzQzMzQzMzZkM2U3MjE5
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky History",Sky History
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChoaXN0b3J5Y2hhbm5lbCkvbWFzdGVyXzJoci1hYWMubXBkfDExMTU4ZGI5YTI1MjI2NDJjOGRhNTY0MTZkOTRjNmEzOmVkYjZhNTYyNjZkZGU1M2YwMTNkMTcwZDQ2YjBiMjY1
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Documentaries",Sky Documentaries
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lkb2N1bWVudGFyaWVzKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTU2YWZhM2FjMzYyYmJmNmQ2MjM3YTAwOTY3OTM6YjgwNjI3NTUwNTIxZTg1ZDA5OTdlMzQ0NzI0NWY3ZmY=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Comedy Central",Comedy Central
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChjb21lZHljZW50cmFsKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTU3NzhkYzliN2RkZTFlMzk2YTkxMTBmMDkyMDg6YzAzMGNmOTc4Y2JkYzRhNGM4NGZjNjhhYjQ2Nzk0MmI=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Nature",Sky Nature
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3luYXR1cmUpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1NTNhMmZmNzRlZmYyMzBjOGJiNzJlZmMwNTA0Yzo4MGVjMmM3ZjY0Yjk3MDk4ZjRmNjVhMTVkODI4Y2U2YQ==
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Arte",Sky Arte
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lhcnRlKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNThkNjExNTc4OTNjNjY1YzVlYzk0MjUyOGQwMjA6MmQ0YjczNDNkZDkyOWFmYmJkNjFlZjBhYTM3MzY2ZDk=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="MTV",MTV
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChtdHYpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1NTliNWU1MGE0YmUxMjkwMWU0NTYwMzQyODVhMzoyZmVkZDRjOWMzYmUxYjdmOTBlODZjN2JjNDQxMzFmOA==
+
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Uno",Sky Cinema Uno
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWF1bm8pL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1NzE2NzVkODE4M2VkMTY5NzI1NTY0Y2RlZDZkOTplMDc3ZGVkZjM4M2M4YWVkNzNkMzg1NjdhOGU2YTA0Ng==
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Due",Sky Cinema Due
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFkdWUpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1MmM0ZWExYTNiZmZkZDI3N2NlMzMzZTU0NjMxYToxN2YwYzAyODgwMGRiY2IyOTRiOWFlYmJhZTFmN2UwYw==
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Collection",Sky Cinema Collection
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFjb2xsZWN0aW9uKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTVkOGExZmUwYjIxMTEzN2MyMDYzNTRlMTZkMmE6N2YwN2QwZWY2OTM4OTNhODQxNjJkNTFjMWM3MjU5ZjM=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Family",Sky Cinema Family
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFmYW1pbHkpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1MDc0MDY1ODMyZjc0YWY3ZTI3OWUxMjAzYWRjZToyMGVjZTQxMzFmYmVjODJhYzdmZjA1NjgzODUxMjE0Mw==
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Action",Sky Cinema Action
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFhY3Rpb24pL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1MDQ0Mzg4M2RhNGRmMjdlMjUxMTBkMTBmY2EzMTo4M2I2MzkwNDcxYTA4M2UwMGY4ZjNhZmYyYTI3MWJlOQ==
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFjb21lZHkpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1Njc2ZWNhNzkyMzNmMjkxOWI1M2YxYTE3MDliODo3MjI5OGEzMWIxYjAxNWI1MmFkYzAzYWIyMjI0OTRjMg==
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Drama",Sky Cinema Drama
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFkcmFtYSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTU1YWQ4MDdiOTBiOTU3MGZiOGNjZTA2N2Y2MTY2Ojc0YzQ0MzBlZDgxNDIxOTBlNTJkNGIzMDMyODY2OTZm
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Romance",Sky Cinema Romance
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFyb21hbmNlKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNWRiZWVhNTdkMmZhZGVkYzI3ODk1NmJjYmZiMDI6M2VlZTIzZjk3YWU0OWE4MWMwMzM1NjU5OWE2MTRmY2E=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Suspence",Sky Cinema Suspence
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFzdXNwZW5zZSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTVkMDQ1NjJhMWMzMjhhODRiMmRhYjQxMjQ0Y2JhOjVjZjhjNjVkNDE3NzM0OTMwOGQ3MDQzMzg0ODgwNjU5
+
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="KIDS" tvg-name="Dea Kids",Dea Kids
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChkZWFraWRzKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNWE2NGU1NTIyOGExMjRhZWExZjBmMjc1Y2JiNzI6ZWZiMGQ2MzI3ZGM4NTY2NjA0ZjQwMWFlZjczYjU0ZTc=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="KIDS" tvg-name="Sky Cinema Collection",Sky Cinema Collection
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChjYXJ0b29ubmV0d29yaykvbWFzdGVyXzJoci1hYWMubXBkfDExMTU3Njk0MTZmM2RjMjUyYTEwNWU5YjZiYWE4NGU3OjQ0YjEzNTZiOWQ2MDk0NDhiOGMxMDJiMDliY2M0Y2Nh
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="KIDS" tvg-name="Nickelodeon",Nickelodeon
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChuaWNrZWxvZGVvbikvbWFzdGVyXzJoci1hYWMubXBkfDExMTUwMmFiNmQ4ODc1NDcyN2Q1OGYwOTUyOTc3YTgzOjUzNmQ0MmRhNDc4ODMyNGU3YzdhYWY3MmNlYjA2MWMy
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="KIDS" tvg-name="Nick Jr.",Nick Jr.
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChuaWNranVuaW9yKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTljMDNiMWI4MWEzNzA1NjQxZjc4ZmZkZWRkNzg6MDRmYjI0ODRiNDIxYzM1YWFjOWIyZDVjZWExYzVjYjk=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="KIDS" tvg-name="Boomerang",Boomerang
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChib29tZXJhbmcpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1Y2M0MWEwZGFmNTdhMjJjMWM4MWJkMTM5YjU1OTozMTM0N2Y5YmJjOTA3MTNlOTcyMjQ5YjU0ZWM4ODJiMg==
+
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 24",Sky Sport 24
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI0KS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTE0NDdhNjViMzFkNmNiNzhkZDAyMmNiNjdlOGQ6MWQ2YmU0NTNiZTFlNjA3YzEzM2EyODgyNmQ1MDlhODY=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport Uno",Sky Sport Uno
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydHVubykvbWFzdGVyXzJoci1hYWMubXBkfDExMTVjYTdiYWUwOWJiZjQzNjRlYmEyNzI5MWI4OGExOmEzODYyNGEzYjM3M2E3OWU4MTBmM2IyMGNjMjk1MDk2
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport Arena",Sky Sport Arena
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydGFyZW5hKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNWY5MGE2ODMxZmE3Y2EwNThhMzAzODNjYjA2NTI6NmMwODZjMmEwYThkZThjMWY0MTNlNDEyODI0NmFiZGQ=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport Max",Sky Sport Max
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydG1heCkvbWFzdGVyXzJoci1hYWMubXBkfDExMTU1NjU2MTkxZjFjNjBhZjEzZGViNmEyMGYwMzU0Ojk1NDQ4YjYyNGM4M2Q5YTk3MTkzNDJjZjFhYjNlMTU3
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport Tennis",Sky Sport Tennis
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydHRlbm5pcykvbWFzdGVyXzJoci1hYWMubXBkfDExMTU4N2ZlZGFmMTFjMDNmMjE0MGIzZTUzZmY1YTViOjQxOTJjNDEwOGJiODg3Y2JkMzNkYzY5YWZhYmM4MDk2
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport F1",Sky Sport F1
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydGYxKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTU1MjJiNzllODI1ZjhjZGZkNzk2N2EzMWRhNGM6NTQ5MTkwZDE5NGE2NTU1NjFmNTA5OTQyN2E4MDk4MTI=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydG1vdG9ncCkvbWFzdGVyXzJoci1hYWMubXBkfDExMTUzYWZmNTQ5NmJlMWEyMDZhMTc4YWIzYzFjMDc4OjgwNmViNTkyM2M5NTFiZDIwNTI1NzI4MmRlODM0NzQw
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport NBA",Sky Sport NBA
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydG5iYSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTUwOWFkNWQxNjkxODE5MGQ4Y2ViMWFmYTNjMmMyOjUzNjlkZjNlZTM4YWQ5NjVkYTU1NTg0NmJmYTYxYTM3
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport Golf",Sky Sport Golf
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydGdvbGYpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1ZGRjNDE0ZjAyMGU0ZDkzODZmNjhmYzllYjAxMTpiMjdiZGU5ZDUyZmU4ODVhY2JiMDZjMjYwZjAxZmIwMg==
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport Calcio",Sky Sport Calcio
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydGNhbGNpbykvbWFzdGVyXzJoci1hYWMubXBkfDExMTU4ZDhlNjAzMTg4OGMxNmVmYWMyNWM2MDFmNjRiOjBmM2JmYWI1YTY0MDM3YWM4NzExZTU4YWFjMjRhMjky
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 251",Sky Sport 251
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1MSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTUxYmUzNDI4NDgwODY4MjUwZjM4ZmQxYjdmMzcyOjQzYzhiZjg2ZGMyZjZjYmE4Nzc4ZTdjZGZmMDQ5NmNk
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 252",Sky Sport 252
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1MikvbWFzdGVyXzJoci1hYWMubXBkfDExMTVlZjdhNzFhNzAwYThhMDBkMDI4ZmQ3MGRjNGJlOjg3NDJhZGRkYzMwNGE1ZTNhYTUzNzY4NzliMDI4ODhj
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 253",Sky Sport 253
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1MykvbWFzdGVyXzJoci1hYWMubXBkfDExMTUxODQ4ZjI2MmI0M2EyMWQ3YTYxYmM5NThjNmFhOjQwMGY1YTM5MmM2YzU4OTM2NDNiOGRmNzRhMGUxZWVj
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 254",Sky Sport 254
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1NCkvbWFzdGVyXzJoci1hYWMubXBkfDExMTU5ODYyYzY5Mzk4OWNiMjM1ZjUzNzFkZDExZmJhOjI1ZTE1YjM3NjJhMmNmYzI2ZDQ3MTMyNGYxOTdhZmY2
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 255",Sky Sport 255
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1NSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTU0NTQ3M2EzNGYxZmUwNWFhZTBlMTA3MDBhN2UzOmZkZWU3YzU1Y2IyNTc5N2VhOTkxODY0NGYzZGI0ZWY1
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 256",Sky Sport 256
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1NikvbWFzdGVyXzJoci1hYWMubXBkfDExMTVlMzAyNzJiNDhiMzI3YTY2NjQxNDcyOGY4OWMwOmUxN2ZkNjljZjE1Y2Q4ZTlhNTdiM2IyMTI3ZjdlMGJj
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 257",Sky Sport 257
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1NykvbWFzdGVyXzJoci1hYWMubXBkfDExMTU1MGU3YmE5ODZiMzY1YmNjNjdkZDAxY2RkMjdlOmMyOTJmZTdlOTcwODQxYWE3OTVlODgzMjQxNGM1YjJl
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 258",Sky Sport 258
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1OCkvbWFzdGVyXzJoci1hYWMubXBkfDExMTViYjAwNDBjNmQwNGI4MjJkYTlhZTFhZjg5NzdkOmM4MGJhNTZmZGVlNzc4MjMxM2EzMzY5MWU5Y2MyMTQ2
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="SPORT" tvg-name="Sky Sport 259",Sky Sport 259
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzcG9ydDI1OSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTU4NjI3Mjk0ZmNiZDVlNzI0ZTJiNTIxYzg3YWViOmMyNmJjNmUzM2U4ZjM5ZGM3NDhmNjY4ODU5MzVhNjNm
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="EuroSport 1",EuroSport 1
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1jZi5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChldXJvc3BvcnQxKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNThiYzRlZjMxMTk1Y2MwZTlmOTNiY2I5OWI4ZTA6MWUzMTY5NDgzMzM3ZTczZDNkNDY0NjkzMTE5N2IwNjI=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="EuroSport 2",EuroSport 2
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChldXJvc3BvcnQyKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTA5N2E2YjVhMmNjNTVjMmY2ZTljNjUwNDNlZDc6MmY4MmJjNmE3MWZhZDBhMDY0NjkzNmMyYjAwOTljNzM=
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="DAZN 1",DAZN 1
+#KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=ClearKey
+#KODIPROP:inputstream.adaptive.license_key=
+amstaff@@aHR0cHM6Ly9hYmU2Zmp4YWFhYWFhYWFtYzRwZzU1ZWtjeXF6NC5vdHRlLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZHViLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9sZ2s4a3BwY2xjL291dC92MS9mNTExNzNiNmIwNjI0YTQzODYzNThhYjhkZmVlMjU3Zi9jZW5jLm1wZHw4MjcyYmY2YmE0NmYyM2Y5ZGE1MjcwMDU3YjZlMDI4YTo3NGFlNzBkZDEwYjRiYjM4ZWQ2ZmZlODQzZjNlMmNjZA==

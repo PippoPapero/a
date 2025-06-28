@@ -12,53 +12,53 @@ https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Atlantic",Sky Atlantic
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lhdGxhbnRpYykvbWFzdGVyXzJoci1hYWMubXBkfDExMTVmMDI4NjI1NzZiMzRiNDY3YWQ0YzU0YTA5Y2ZjOmJhYzQyZTgwMGE1YzQzN2I2MDZlMmFmNWIyOTFjNjA3
+#KODIPROP:inputstream.adaptive.license_key=1115f02862576b34b467ad4c54a09cfc:bac42e800a5c437b606e2af5b291c607
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyatlantic)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Serie",Sky Serie
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lzZXJpZSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTViZjAxYWVhZGNlMzJmY2VjNmEyMjAzNzVhM2ZhOjlkZjM2MGEyYTIyNDExODk3Y2Q4YjFiYzQ4YzBhZmMw
+#KODIPROP:inputstream.adaptive.license_key=1115bf01aeadce32fcec6a220375a3fa:9df360a2a22411897cd8b1bc48c0afc0
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyserie)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Investigation",Sky Investigation
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lpbnZlc3RpZ2F0aW9uKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTNkZDhkZTYzZjk3NDgyNTIxMDRhZmQ2Yjc0MDU6MjU1ZTBjNWJiODFiZGU5NjAyZDg3NDYwODA0OTZlMDQ=
+#KODIPROP:inputstream.adaptive.license_key=11153dd8de63f9748252104afd6b7405:255e0c5bb81bde9602d8746080496e04
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyinvestigation)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Crime",Sky Crime
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljcmltZSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTVhYTQ3Y2ZhMThjZjczY2I2ZjkzNmNmZjFmOGVlOmEyN2U3MzgzZDQ4MTU5NmNjMzQzMzQzMzZkM2U3MjE5
-#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky History",Sky History
+#KODIPROP:inputstream.adaptive.license_key=1115aa47cfa18cf73cb6f936cff1f8ee:a27e7383d481596cc34334336d3e7219
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycrime)/master_2hr-aac.mpd
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="History",History
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChoaXN0b3J5Y2hhbm5lbCkvbWFzdGVyXzJoci1hYWMubXBkfDExMTU4ZGI5YTI1MjI2NDJjOGRhNTY0MTZkOTRjNmEzOmVkYjZhNTYyNjZkZGU1M2YwMTNkMTcwZDQ2YjBiMjY1
+#KODIPROP:inputstream.adaptive.license_key=11158db9a2522642c8da56416d94c6a3:edb6a56266dde53f013d170d46b0b265
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(historychannel)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Documentaries",Sky Documentaries
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lkb2N1bWVudGFyaWVzKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTU2YWZhM2FjMzYyYmJmNmQ2MjM3YTAwOTY3OTM6YjgwNjI3NTUwNTIxZTg1ZDA5OTdlMzQ0NzI0NWY3ZmY=
+#KODIPROP:inputstream.adaptive.license_key=111556afa3ac362bbf6d6237a0096793:b80627550521e85d0997e3447245f7ff
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skydocumentaries)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Comedy Central",Comedy Central
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChjb21lZHljZW50cmFsKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTU3NzhkYzliN2RkZTFlMzk2YTkxMTBmMDkyMDg6YzAzMGNmOTc4Y2JkYzRhNGM4NGZjNjhhYjQ2Nzk0MmI=
+#KODIPROP:inputstream.adaptive.license_key=11155778dc9b7dde1e396a9110f09208:c030cf978cbdc4a4c84fc68ab467942b
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(comedycentral)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Nature",Sky Nature
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3luYXR1cmUpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1NTNhMmZmNzRlZmYyMzBjOGJiNzJlZmMwNTA0Yzo4MGVjMmM3ZjY0Yjk3MDk4ZjRmNjVhMTVkODI4Y2U2YQ==
+#KODIPROP:inputstream.adaptive.license_key=111553a2ff74eff230c8bb72efc0504c:80ec2c7f64b97098f4f65a15d828ce6a
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skynature)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky Arte",Sky Arte
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3lhcnRlKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNThkNjExNTc4OTNjNjY1YzVlYzk0MjUyOGQwMjA6MmQ0YjczNDNkZDkyOWFmYmJkNjFlZjBhYTM3MzY2ZDk=
+#KODIPROP:inputstream.adaptive.license_key=11158d61157893c665c5ec942528d020:2d4b7343dd929afbbd61ef0aa37366d9
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyarte)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="MTV",MTV
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChtdHYpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1NTliNWU1MGE0YmUxMjkwMWU0NTYwMzQyODVhMzoyZmVkZDRjOWMzYmUxYjdmOTBlODZjN2JjNDQxMzFmOA==
+#KODIPROP:inputstream.adaptive.license_key=111559b5e50a4be12901e456034285a3:2fedd4c9c3be1b7f90e86c7bc44131f8
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(mtv)/master_2hr-aac.mpd
 
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Uno",Sky Cinema Uno
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"

@@ -63,48 +63,48 @@ https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Uno",Sky Cinema Uno
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWF1bm8pL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1NzE2NzVkODE4M2VkMTY5NzI1NTY0Y2RlZDZkOTplMDc3ZGVkZjM4M2M4YWVkNzNkMzg1NjdhOGU2YTA0Ng==
+#KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Due",Sky Cinema Due
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFkdWUpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1MmM0ZWExYTNiZmZkZDI3N2NlMzMzZTU0NjMxYToxN2YwYzAyODgwMGRiY2IyOTRiOWFlYmJhZTFmN2UwYw==
+#KODIPROP:inputstream.adaptive.license_key=11152c4ea1a3bffdd277ce333e54631a:17f0c028800dbcb294b9aebbae1f7e0c
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadue)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Collection",Sky Cinema Collection
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFjb2xsZWN0aW9uKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNTVkOGExZmUwYjIxMTEzN2MyMDYzNTRlMTZkMmE6N2YwN2QwZWY2OTM4OTNhODQxNjJkNTFjMWM3MjU5ZjM=
+#KODIPROP:inputstream.adaptive.license_key=11155d8a1fe0b211137c206354e16d2a:7f07d0ef693893a84162d51c1c7259f3
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Family",Sky Cinema Family
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFmYW1pbHkpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1MDc0MDY1ODMyZjc0YWY3ZTI3OWUxMjAzYWRjZToyMGVjZTQxMzFmYmVjODJhYzdmZjA1NjgzODUxMjE0Mw==
+#KODIPROP:inputstream.adaptive.license_key=1115074065832f74af7e279e1203adce:20ece4131fbec82ac7ff056838512143
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemafamily)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Action",Sky Cinema Action
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFhY3Rpb24pL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1MDQ0Mzg4M2RhNGRmMjdlMjUxMTBkMTBmY2EzMTo4M2I2MzkwNDcxYTA4M2UwMGY4ZjNhZmYyYTI3MWJlOQ==
+#KODIPROP:inputstream.adaptive.license_key=11150443883da4df27e25110d10fca31:83b6390471a083e00f8f3aff2a271be9
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFjb21lZHkpL21hc3Rlcl8yaHItYWFjLm1wZHwxMTE1Njc2ZWNhNzkyMzNmMjkxOWI1M2YxYTE3MDliODo3MjI5OGEzMWIxYjAxNWI1MmFkYzAzYWIyMjI0OTRjMg==
+#KODIPROP:inputstream.adaptive.license_key=1115676eca79233f2919b53f1a1709b8:72298a31b1b015b52adc03ab222494c2
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Drama",Sky Cinema Drama
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFkcmFtYSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTU1YWQ4MDdiOTBiOTU3MGZiOGNjZTA2N2Y2MTY2Ojc0YzQ0MzBlZDgxNDIxOTBlNTJkNGIzMDMyODY2OTZm
+#KODIPROP:inputstream.adaptive.license_key=11155ad807b90b9570fb8cce067f6166:74c4430ed8142190e52d4b303286696f
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadrama)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Romance",Sky Cinema Romance
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFyb21hbmNlKS9tYXN0ZXJfMmhyLWFhYy5tcGR8MTExNWRiZWVhNTdkMmZhZGVkYzI3ODk1NmJjYmZiMDI6M2VlZTIzZjk3YWU0OWE4MWMwMzM1NjU5OWE2MTRmY2E=
+#KODIPROP:inputstream.adaptive.license_key=1115dbeea57d2fadedc278956bcbfb02:3eee23f97ae49a81c03356599a614fca
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaromance)/master_2hr-aac.mpd
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Suspence",Sky Cinema Suspence
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
-#KODIPROP:inputstream.adaptive.license_key=
-amstaff@@aHR0cHM6Ly9nMDAzLWxpbi1pdC1jbWFmLXByZC1hay5wY2RuMDcuY3Nzb3R0MDIuY29tL25vd2l0bGluMS9Db250ZW50L0NNQUZfQ1RSX1MxL0xpdmUvY2hhbm5lbChza3ljaW5lbWFzdXNwZW5zZSkvbWFzdGVyXzJoci1hYWMubXBkfDExMTVkMDQ1NjJhMWMzMjhhODRiMmRhYjQxMjQ0Y2JhOjVjZjhjNjVkNDE3NzM0OTMwOGQ3MDQzMzg0ODgwNjU5
+#KODIPROP:inputstream.adaptive.license_key=1115d04562a1c328a84b2dab41244cba:5cf8c65d4177349308d7043384880659
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemasuspense)/master_2hr-aac.mpd
 
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="KIDS" tvg-name="Dea Kids",Dea Kids
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"

@@ -1,4 +1,4 @@
-A#EXTM3U
+#EXTM3U
 #EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="INTRATTENIMENTO" tvg-name="Sky TG24",Sky TG24
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -133,7 +133,7 @@ https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
 #KODIPROP:inputstream.adaptive.license_key=1115a64e55228a124aea1f0f275cbb72:efb0d6327dc8566604f401aef73b54e7
 https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(deakids)/master_2hr-aac.mpd
-#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="CINEMA" tvg-name="Sky Cinema Collection",Sky Cinema Collection
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="KIDS" tvg-name="Cartoon Network",Cartoon Network
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
@@ -273,13 +273,13 @@ https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S
 #KODIPROP:inputstream.adaptive.license_key=11158627294fcbd5e724e2b521c87aeb:c26bc6e33e8f39dc748f66885935a63f
 https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport259)/master_2hr-aac.mpd
 
-#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="EuroSport 1",EuroSport 1
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="EUROSPORT 1",EUROSPORT 1
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
 #KODIPROP:inputstream.adaptive.license_key=11158bc4ef31195cc0e9f93bcb99b8e0:1e3169483337e73d3d4646931197b062
 https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(eurosport1)/master_2hr-aac.mpd
-#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="EuroSport 2",EuroSport 2
+#EXTINF: -1 tvg-id="None" tvg-logo="None" group-title="DAZN" tvg-name="EUROSPORT 2",EUROSPORT 2
 #KODIPROP:inputstream.adaptive.stream_headers="Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.file_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
@@ -291,5 +291,3 @@ https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S
 #KODIPROP:inputstream.adaptive.license_type=ClearKey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
-
-

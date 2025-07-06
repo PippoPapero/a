@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 1",Daddy+1 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
-#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
-#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://forcedtoplay.xyz/&https://forcedtoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://forcedtoplay.xyz/&https://forcedtoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium501/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 2",Daddy+1 2

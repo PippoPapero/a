@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 1",Daddy+1 1
+https://zekonew.newkso.ru/zeko/premium501/mono.m3u8|Referer=https%3A%2F%2Fforcedtoplay.xyz/&Origin=https%3A%2F%2Fforcedtoplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+
+#EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 1a",Daddy+1 1a
 #KODIPROP:inputstream.adaptive.file_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://forcedtoplay.xyz/&https://forcedtoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://forcedtoplay.xyz/&https://forcedtoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36

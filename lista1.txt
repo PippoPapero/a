@@ -1,121 +1,120 @@
 #EXTM3U
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 1",Daddy+1 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium501/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium501/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 2",Daddy+1 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium502/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium502/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 3",Daddy+1 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium503/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium503/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 4",Daddy+1 4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium504/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium504/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 5",Daddy+1 5
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium505/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium505/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 6",Daddy+1 6
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium506/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium506/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 7",Daddy+1 7
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium507/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium507/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 8",Daddy+1 8
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium508/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium508/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 9",Daddy+1 9
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium509/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium509/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 10",Daddy+1 10
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium510/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium510/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 11",Daddy+1 11
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium511/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium511/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 12",Daddy+1 12
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium512/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium512/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 13",Daddy+1 13
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium513/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium513/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 14",Daddy+1 14
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium514/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium514/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 15",Daddy+1 15
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium515/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium515/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 16",Daddy+1 16
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium516/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium516/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 17",Daddy+1 17
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium517/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium517/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 18",Daddy+1 18
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium518/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium518/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 19",Daddy+1 19
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium519/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium519/mono.m3u8
 
 #EXTINF:-1 group-title="Daddy+18"  tvg-name="Daddy+1 10",Daddy+1 20
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0"
-#EXTVLCOPT:http-referrer="https://lewblivehdplay.ru/"
-#EXTVLCOPT:http-user-rigin="https://lewblivehdplay.ru"'
-https://webhdrunns.onlinehdhls.ru/lb/premium520/index.m3u8
-
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Mac OS X 10_15_7) AppleWebKit/537.36 HTML, like Gecko Chrome/136.0.0.0 Safari/537.36)"
+#EXTVLCOPT:http-referrer="https://forcedtoplay.xyz/"
+#EXTVLCOPT:http-user-rigin="https://forcedtoplay.xyz"
+https://zekonew.newkso.ru/zeko/premium520/mono.m3u8

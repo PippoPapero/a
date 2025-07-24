@@ -1,114 +1,115 @@
+#EXTM3U
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 501",daddy+ 501
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium501/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 502",daddy+ 502
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium502/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 503",daddy+ 503
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium503/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 504",daddy+ 504
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium504/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 505",daddy+ 505
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium505/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 506",daddy+ 506
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium506/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 507",daddy+ 507
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium507/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 508",daddy+ 508
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium508/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 509",daddy+ 509
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium509/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 510",daddy+ 510
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium510/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 511",daddy+ 511
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium511/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 512",daddy+ 512
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium512/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 513",daddy+ 513
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium513/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 514",daddy+ 514
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium514/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 515",daddy+ 515
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium515/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 516",daddy+ 516
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium516/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 517",daddy+ 517
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium517/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 518",daddy+ 518
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium518/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 519",daddy+ 519
 #KODIPROP:inputstream.adaptive.file_type=hls
-#KODIPROP:setMimeType=application/x-mpegURL
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0&Referer=https://lefttoplay.xyz/&Origin=https://lefttoplay.xyz
 https://zeconew.newkso.ru/zeco/premium519/mono.m3u8

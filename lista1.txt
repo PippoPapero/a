@@ -1,11 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 501",daddy+ 501
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium501/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://zeconew.newkso.ru/zeco/premium501/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 502",daddy+ 502
 #KODIPROP:inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL

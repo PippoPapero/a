@@ -1,141 +1,41 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 501",daddy+ 501
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium501/mono.m3u8
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium501/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 502",daddy+ 502
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium502/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium502/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 503",daddy+ 503
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium503/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium503/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 504",daddy+ 504
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium504/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium504/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 505",daddy+ 505
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium505/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium505/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 506",daddy+ 506
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium506/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium506/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 507",daddy+ 507
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium507/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium507/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 508",daddy+ 508
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium508/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium508/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 509",daddy+ 509
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium509/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium509/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 510",daddy+ 510
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium510/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium510/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 511",daddy+ 511
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium511/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium511/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 512",daddy+ 512
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium512/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium512/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 513",daddy+ 513
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium513/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium513/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 514",daddy+ 514
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium514/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium514/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 515",daddy+ 515
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium515/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium515/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 516",daddy+ 516
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium516/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium516/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 517",daddy+ 517
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium517/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium517/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 518",daddy+ 518
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium518/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium518/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 519",daddy+ 519
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium519/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium519/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 520",daddy+ 520
-#KODIPROP:inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-https://zeconew.newkso.ru/zeco/premium520/mono.m3u8|Referer=https://fnjplay.xyz/&Origin=https://fnjplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F136.0.0.0+Safari%2F537.36
+https://fnjplay.xyznew.newkso.ru/fnjplay.xyz/premium520/mono.m3u8

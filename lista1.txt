@@ -42,40 +42,40 @@ https://zekonew.newkso.ru/zeko/premium510/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 11",daddy+ 11
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium511/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium511/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 12",daddy+ 12
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium512/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium512/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 13",daddy+ 13
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium513/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium513/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 14",daddy+ 14
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium514/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium514/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 15",daddy+ 15
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium515/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium515/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 16",daddy+ 16
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium516/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium516/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 17",daddy+ 17
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium517/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium517/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 18",daddy+ 18
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium518/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium518/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 19",daddy+ 19
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium519/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium519/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 20",daddy+ 20
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
-https://zekonew.newkso.ru/zeko/premium520/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium520/mono.m3u8

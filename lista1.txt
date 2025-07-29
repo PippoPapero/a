@@ -79,3 +79,103 @@ https://ddy6new.newkso.ru/ddy6/premium519/mono.m3u8
 #EXTVLCOPT:http-origin=http://fnjplay.xyz
 #EXTVLCOPT:http-referrer=http://fnjplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium520/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="Sky Serie",Sky Serie
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium880/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="Rai 1",Rai 1
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium850/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="Rai 2",Rai 2
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="Rai 3",Rai 3
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium852/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="Rai 3",Rai 3
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium853/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="Rai Premium",Rai Premium
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium858/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="TV8",TV8
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium863/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="Italia 1",Italia 1
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium854/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="La7",La7
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium855/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="La7d",La7d
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium856/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="20 Mediaset",20 Mediaset
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium857/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy I" tvg-name="Sky UNO",Sky UNO
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium881/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy C" tvg-name="Sky Cinema Action",Sky Cinema Action
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium861/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy C" tvg-name="Sky Cinema Suspense",Sky Cinema Suspense
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy C" tvg-name="Sky Cinema Collection",Sky Cinema Collection
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium859/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy C" tvg-name="Sky Cinema Uno",Sky Cinema Uno
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium860/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy C" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium862/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy C" tvg-name="Sky Cinema Romance",Sky Cinema Romance
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium864/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy C" tvg-name="Sky Cinema Family",Sky Cinema Family
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium865/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy C" tvg-name="Sky Cinema Drama",Sky Cinema Drama
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium867/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy S" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy S" tvg-name="Rai Sport",Rai Sport
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://windnew.newkso.ru/wind/premium858/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy S" tvg-name="Sky Sport UNO",Sky Sport UNO
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy S" tvg-name="Sky Sport F1",Sky Sport F1
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="Daddy S" tvg-name="Sky Sport Arena",Sky Sport Arena
+#EXTVLCOPT:http-origin=http://fnjplay.xyz
+#EXTVLCOPT:http-referrer=http://fnjplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8

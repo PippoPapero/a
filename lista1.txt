@@ -39,3 +39,53 @@ https://ddy6new.newkso.ru/ddy6/premium518/mono.m3u8
 https://ddy6new.newkso.ru/ddy6/premium519/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 20",daddy+ 20
 https://ddy6new.newkso.ru/ddy6/premium520/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="Sky Serie",Sky Serie
+https://windnew.newkso.ru/wind/premium880/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="Rai 1",Rai 1
+https://ddy6new.newkso.ru/ddy6/premium850/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="Rai 2",Rai 2
+https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="Rai 3",Rai 3
+https://windnew.newkso.ru/wind/premium852/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="Rai 3",Rai 3
+https://windnew.newkso.ru/wind/premium853/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="Rai Premium",Rai Premium
+https://windnew.newkso.ru/wind/premium858/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="TV8",TV8
+https://windnew.newkso.ru/wind/premium863/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="Italia 1",Italia 1
+https://windnew.newkso.ru/wind/premium854/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="La7",La7
+https://windnew.newkso.ru/wind/premium855/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="La7d",La7d
+https://windnew.newkso.ru/wind/premium856/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="20 Mediaset",20 Mediaset
+https://windnew.newkso.ru/wind/premium857/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="Sky UNO",Sky UNO
+https://windnew.newkso.ru/wind/premium881/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Action",Sky Cinema Action
+https://windnew.newkso.ru/wind/premium861/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Suspense",Sky Cinema Suspense
+https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Collection",Sky Cinema Collection
+https://windnew.newkso.ru/wind/premium859/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Uno",Sky Cinema Uno
+https://windnew.newkso.ru/wind/premium860/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
+https://windnew.newkso.ru/wind/premium862/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Romance",Sky Cinema Romance
+https://windnew.newkso.ru/wind/premium864/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Family",Sky Cinema Family
+https://windnew.newkso.ru/wind/premium865/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Drama",Sky Cinema Drama
+https://windnew.newkso.ru/wind/premium867/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Rai Sport",Rai Sport
+https://windnew.newkso.ru/wind/premium858/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport UNO",Sky Sport UNO
+https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport F1",Sky Sport F1
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport Arena",Sky Sport Arena
+https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8

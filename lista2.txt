@@ -1,256 +1,354 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL (7)",COMEDY CENTRAL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/433893159.ts
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL (7)",COMEDY CENTRAL 2 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/433893159/index.m3u8
+
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="CRIME + INV (7)",CRIME + INV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1968339149.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL (7)",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3554841914.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO (7)",NAT GEO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/179844839.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD (7)",NAT GEO WILD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3229664409.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE (7)",SKY ARTE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1902695925.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC (7)",SKY ATLANTIC (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1482866609.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (7)",SKY CINEMA ACTION (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1144128726.ts
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (BACKUP) (7)",SKY CINEMA ACTION (BACKUP) (7)
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/live2/play/2242741766.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COLLECTION (7)",SKY CINEMA COLLECTION (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3525837057.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY (7)",SKY CINEMA COMEDY (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3131104474.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE (7)",SKY CINEMA DUE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2330574729.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE +24 (7)",SKY CINEMA DUE +24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1078650168.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY (7)",SKY CINEMA FAMILY (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3216516117.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE (7)",SKY CINEMA ROMANCE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1281264885.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE (7)",SKY CINEMA SUSPENSE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3060043751.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO (7)",SKY CINEMA UNO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1759625738.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO +24 (7)",SKY CINEMA UNO +24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1699876530.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 1 (7)",SKY PRIMAFILA 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1492183364.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 10 (7)",SKY PRIMAFILA 10 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2268489342.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 2 (7)",SKY PRIMAFILA 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/525374356.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 3 (7)",SKY PRIMAFILA 3 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/573618724.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 4 (7)",SKY PRIMAFILA 4 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2416993844.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 5 (7)",SKY PRIMAFILA 5 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2909818756.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 6 (7)",SKY PRIMAFILA 6 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3939513684.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 7 (7)",SKY PRIMAFILA 7 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3618643172.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 8 (7)",SKY PRIMAFILA 8 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1440779061.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 9 (7)",SKY PRIMAFILA 9 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1753260677.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT 24 [LIVE DURING EVENTS ONLY] (7)",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3445562519.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA (7)",SKY SPORT ARENA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2555960713.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO (7)",SKY SPORT CALCIO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/449990998.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (7)",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1989309231.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT GOLF (7)",SKY SPORT GOLF (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3897711086.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTOGP (7)",SKY SPORT MOTOGP (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2090703806.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA (7)",SKY SPORT NBA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/326825326.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT TENNIS (7)",SKY SPORT TENNIS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/78546677.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO (7)",SKY SPORT UNO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3192996672.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORTS F1 (7)",SKY SPORTS F1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2289038972.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY SUPER TENNIS (7)",SKY SUPER TENNIS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/558282118.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 (7)",SKY TG 24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/318057128.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO (7)",SKY UNO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/322024849.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL (6)",COMEDY CENTRAL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3658277450.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL (6)",DISCOVERY CHANNEL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1955739367.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO (6)",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1735702308.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD (6)",NAT GEO WILD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3428501495.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE (6)",SKY ARTE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1806815496.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC (6)",SKY ATLANTIC (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1421393119.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (6)",SKY CINEMA ACTION (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3812796171.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY (6)",SKY CINEMA COMEDY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/500203271.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DRAMA (6)",SKY CINEMA DRAMA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1235530177.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE (6)",SKY CINEMA DUE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1228534500.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY (6)",SKY CINEMA FAMILY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/415795144.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE (6)",SKY CINEMA ROMANCE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2890008905.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE (6)",SKY CINEMA SUSPENSE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1820997555.ts
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO (6)",SKY CINEMA UNO (6)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play/2872151911.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY DOCUMENTARIES (6)",SKY DOCUMENTARIES (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/464281981.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY NATURE (6)",SKY NATURE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3810188456.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 1 (6)",SKY PRIMAFILA 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1944682394.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 10 (6)",SKY PRIMAFILA 10 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/4272937805.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 12 (6)",SKY PRIMAFILA 12 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2221901869.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 14 (6)",SKY PRIMAFILA 14 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/187661709.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 15 (6)",SKY PRIMAFILA 15 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/911168573.ts
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 16 (6)",SKY PRIMAFILA 16 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/live2/play/1911500525.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 17 (6)",SKY PRIMAFILA 17 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1284441949.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 18 (6)",SKY PRIMAFILA 18 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3470758028.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 2 (6)",SKY PRIMAFILA 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/877200714.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 3 (6)",SKY PRIMAFILA 3 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/153693434.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 4 (6)",SKY PRIMAFILA 4 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3137990890.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 5 (6)",SKY PRIMAFILA 5 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2255083866.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 6 (6)",SKY PRIMAFILA 6 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3251217290.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 7 (6)",SKY PRIMAFILA 7 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/4238969402.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 8 (6)",SKY PRIMAFILA 8 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2130255339.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 9 (6)",SKY PRIMAFILA 9 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1134113883.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY SERIE (6)",SKY SERIE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/836680112.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT (6)",SKY SPORT (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/924661659.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT 24 (6)",SKY SPORT 24 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2775802255.ts
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA (6)",SKY SPORT ARENA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/live2/play/3007400791.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO (6)",SKY SPORT CALCIO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/1665920101.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT F1 (6)",SKY SPORT F1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/4246774056.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT FOOTBALL (6)",SKY SPORT FOOTBALL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3093535330.ts
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT GOLF (6)",SKY SPORT GOLF (6)
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/live2/play/729945219.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MAX (6)",SKY SPORT MAX (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2066326916.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTO GP (6)",SKY SPORT MOTO GP (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/3036316886.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA (6)",SKY SPORT NBA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2711959620.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT SERIE A (6)",SKY SPORT SERIE A (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2077387085.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT TENNIS (6)",SKY SPORT TENNIS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2100771782.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO (6)",SKY SPORT UNO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/210669162.ts
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 (6)",SKY TG 24 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-https://vavoo.to/live2/play/3376031355.ts
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO (6)",SKY UNO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/live2/play/2130523218.ts

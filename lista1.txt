@@ -1,431 +1,205 @@
 #EXTM3U
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL HD",COMEDY CENTRAL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/433893159/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY INVESTIGATION HD",SKY INVESTIGATION HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1968339149/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL HD",DISCOVERY CHANNEL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3554841914/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO HD",NAT GEO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/179844839/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD HD",NAT GEO WILD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3229664409/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE HD",SKY ARTE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1902695925/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC HD",SKY ATLANTIC HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1482866609/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION HD",SKY CINEMA ACTION HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1144128726/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (BACKUP) HD",SKY CINEMA ACTION (BACKUP) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2242741766/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COLLECTION HD",SKY CINEMA COLLECTION HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3525837057/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY HD",SKY CINEMA COMEDY HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3131104474/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE HD",SKY CINEMA DUE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2330574729/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE +24 HD",SKY CINEMA DUE +24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1078650168/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY HD",SKY CINEMA FAMILY HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3216516117/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE HD",SKY CINEMA ROMANCE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1281264885/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE HD",SKY CINEMA SUSPENSE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3060043751/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO HD",SKY CINEMA UNO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1759625738/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO +24 HD",SKY CINEMA UNO +24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1699876530/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 1 HD",SKY PRIMAFILA 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1492183364/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 10 HD",SKY PRIMAFILA 10 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2268489342/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 2 HD",SKY PRIMAFILA 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/525374356/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 3 HD",SKY PRIMAFILA 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/573618724/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 4 HD",SKY PRIMAFILA 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2416993844/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 5 HD",SKY PRIMAFILA 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2909818756/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 6 HD",SKY PRIMAFILA 6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3939513684/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 7 HD",SKY PRIMAFILA 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3618643172/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 8 HD",SKY PRIMAFILA 8 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1440779061/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 9 HD",SKY PRIMAFILA 9 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1753260677/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT 24 [LIVE DURING EVENTS ONLY] HD",SKY SPORT 24 [LIVE DURING EVENTS ONLY] HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3445562519/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA HD",SKY SPORT ARENA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2555960713/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO HD",SKY SPORT CALCIO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/449990998/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] HD",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1989309231/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT GOLF HD",SKY SPORT GOLF HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3897711086/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTOGP HD",SKY SPORT MOTOGP HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2090703806/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA HD",SKY SPORT NBA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/326825326/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT TENNIS HD",SKY SPORT TENNIS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/78546677/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO HD",SKY SPORT UNO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3192996672/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORTS F1 HD",SKY SPORTS F1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2289038972/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY SUPER TENNIS HD",SKY SUPER TENNIS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/558282118/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 HD",SKY TG 24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/318057128/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO HD",SKY UNO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/322024849/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL FHD",COMEDY CENTRAL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3658277450/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL FHD",DISCOVERY CHANNEL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1955739367/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO FHD",NAT GEO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1735702308/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD FHD",NAT GEO WILD FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3428501495/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE FHD",SKY ARTE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1806815496/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC FHD",SKY ATLANTIC FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1421393119/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION FHD",SKY CINEMA ACTION FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3812796171/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY FHD",SKY CINEMA COMEDY FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/500203271/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DRAMA FHD",SKY CINEMA DRAMA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1235530177/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE FHD",SKY CINEMA DUE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1228534500/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY FHD",SKY CINEMA FAMILY FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/415795144/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE FHD",SKY CINEMA ROMANCE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2890008905/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE FHD",SKY CINEMA SUSPENSE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1820997555/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO FHD",SKY CINEMA UNO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2872151911/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY NATURE FHD",SKY NATURE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3810188456/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 1 FHD",SKY PRIMAFILA 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1944682394/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 10 FHD",SKY PRIMAFILA 10 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/4272937805/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 12 FHD",SKY PRIMAFILA 12 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2221901869/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 14 FHD",SKY PRIMAFILA 14 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/187661709/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 15 FHD",SKY PRIMAFILA 15 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/911168573/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 16 FHD",SKY PRIMAFILA 16 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1911500525/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 17 FHD",SKY PRIMAFILA 17 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1284441949/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 18 FHD",SKY PRIMAFILA 18 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3470758028/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 2 FHD",SKY PRIMAFILA 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/877200714/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 3 FHD",SKY PRIMAFILA 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/153693434/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 4 FHD",SKY PRIMAFILA 4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3137990890/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 5 FHD",SKY PRIMAFILA 5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2255083866/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 6 FHD",SKY PRIMAFILA 6 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3251217290/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 7 FHD",SKY PRIMAFILA 7 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/4238969402/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 8 FHD",SKY PRIMAFILA 8 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2130255339/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="PRIMAFILA" tvg-name="SKY PRIMAFILA 9 FHD",SKY PRIMAFILA 9 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1134113883/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY SERIE FHD",SKY SERIE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/836680112/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT FHD",SKY SPORT FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/924661659/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT 24 FHD",SKY SPORT 24 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2775802255/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA FHD",SKY SPORT ARENA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3007400791/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO FHD",SKY SPORT CALCIO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1665920101/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT F1 FHD",SKY SPORT F1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/4246774056/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT FOOTBALL FHD",SKY SPORT FOOTBALL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3093535330/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MAX FHD",SKY SPORT MAX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2066326916/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTO GP FHD",SKY SPORT MOTO GP FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3036316886/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA FHD",SKY SPORT NBA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2711959620/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT TENNIS FHD",SKY SPORT TENNIS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2100771782/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO FHD",SKY SPORT UNO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/210669162/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 FHD",SKY TG 24 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3376031355/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO FHD",SKY UNO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2130523218/index.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 1",daddy+ 1
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium501/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 2",daddy+ 2
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium502/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 3",daddy+ 3
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium503/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 4",daddy+ 4
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium504/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 5",daddy+ 5
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium505/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 6",daddy+ 6
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium506/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 7",daddy+ 7
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium507/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 8",daddy+ 8
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium508/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 9",daddy+ 9
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium509/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 10",daddy+ 10
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium510/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 11",daddy+ 11
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium511/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 12",daddy+ 12
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium512/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 13",daddy+ 13
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium513/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 14",daddy+ 14
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium514/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 15",daddy+ 15
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium515/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 16",daddy+ 16
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium516/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 17",daddy+ 17
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium517/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 18",daddy+ 18
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium518/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 19",daddy+ 19
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium519/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 20",daddy+ 20
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium520/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Action",Sky Cinema Action
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium861/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Suspense",Sky Cinema Suspense
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Collection",Sky Cinema Collection
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium859/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Uno",Sky Cinema Uno
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium860/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Due",Sky Cinema Due
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium866/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Family",Sky Cinema Family
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium865/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium862/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Romance",Sky Cinema Romance
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium864/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Drama",Sky Cinema Drama
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium867/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport UNO",Sky Sport UNO
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport F1",Sky Sport F1
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport Arena",Sky Sport Arena
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8
+#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Rai Sport",Rai Sport
+#KODIPROP:MimeType=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.file_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium858/mono.m3u8

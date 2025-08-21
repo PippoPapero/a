@@ -99,51 +99,6 @@ https://ddy6new.newkso.ru/ddy6/premium519/mono.m3u8
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium520/mono.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Action",Sky Cinema Action
-#EXTVLCOPT:http-origin=http://jxoplay.xyz
-#EXTVLCOPT:http-referrer=http://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium861/mono.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Suspense",Sky Cinema Suspense
-#EXTVLCOPT:http-origin=http://jxoplay.xyz
-#EXTVLCOPT:http-referrer=http://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Collection",Sky Cinema Collection
-#EXTVLCOPT:http-origin=http://jxoplay.xyz
-#EXTVLCOPT:http-referrer=http://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium859/mono.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Uno",Sky Cinema Uno
-#EXTVLCOPT:http-origin=http://jxoplay.xyz
-#EXTVLCOPT:http-referrer=http://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium860/mono.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Due",Sky Cinema Due
-#EXTVLCOPT:http-origin=http://jxoplay.xyz
-#EXTVLCOPT:http-referrer=http://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium866/mono.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Family",Sky Cinema Family
-#EXTVLCOPT:http-origin=http://jxoplay.xyz
-#EXTVLCOPT:http-referrer=http://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium865/mono.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
-#EXTVLCOPT:http-origin=http://jxoplay.xyz
-#EXTVLCOPT:http-referrer=http://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium862/mono.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Romance",Sky Cinema Romance
-#EXTVLCOPT:http-origin=http://jxoplay.xyz
-#EXTVLCOPT:http-referrer=http://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium864/mono.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Drama",Sky Cinema Drama
-#EXTVLCOPT:http-origin=http://jxoplay.xyz
-#EXTVLCOPT:http-referrer=http://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium867/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/

@@ -1,170 +1,170 @@
 #EXTM3U
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 1",daddy+ 1
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 1",daddy+ 1
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium501/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 2",daddy+ 2
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 2",daddy+ 2
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium502/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 3",daddy+ 3
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 3",daddy+ 3
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium503/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 4",daddy+ 4
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 4",daddy+ 4
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium504/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 5",daddy+ 5
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 5",daddy+ 5
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium505/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 6",daddy+ 6
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 6",daddy+ 6
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium506/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 7",daddy+ 7
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 7",daddy+ 7
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium507/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 8",daddy+ 8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 8",daddy+ 8
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium508/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 9",daddy+ 9
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 9",daddy+ 9
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium509/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 10",daddy+ 10
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 10",daddy+ 10
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium510/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 11",daddy+ 11
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 11",daddy+ 11
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium511/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 12",daddy+ 12
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 12",daddy+ 12
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium512/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 13",daddy+ 13
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 13",daddy+ 13
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium513/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 14",daddy+ 14
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 14",daddy+ 14
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium514/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 15",daddy+ 15
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 15",daddy+ 15
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium515/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 16",daddy+ 16
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 16",daddy+ 16
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium516/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 17",daddy+ 17
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 17",daddy+ 17
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium517/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 18",daddy+ 18
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 18",daddy+ 18
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium518/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 19",daddy+ 19
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 19",daddy+ 19
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium519/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 20",daddy+ 20
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="daddy+" tvg-name="daddy+ 20",daddy+ 20
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium520/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Action",Sky Cinema Action
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Action",Sky Cinema Action
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium861/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Suspense",Sky Cinema Suspense
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Suspense",Sky Cinema Suspense
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Collection",Sky Cinema Collection
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Collection",Sky Cinema Collection
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium859/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Uno",Sky Cinema Uno
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Uno",Sky Cinema Uno
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium860/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Due",Sky Cinema Due
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Due",Sky Cinema Due
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium866/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Family",Sky Cinema Family
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Family",Sky Cinema Family
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium865/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium862/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Romance",Sky Cinema Romance
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Romance",Sky Cinema Romance
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium864/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Drama",Sky Cinema Drama
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Drama",Sky Cinema Drama
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium867/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport MotoGP",Sky Sport MotoGP
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport UNO",Sky Sport UNO
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport UNO",Sky Sport UNO
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport F1",Sky Sport F1
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport F1",Sky Sport F1
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport Arena",Sky Sport Arena
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Sky Sport Arena",Sky Sport Arena
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8
-#EXTINF: -1 player-buffer="15" tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Rai Sport",Rai Sport
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="Rai Sport",Rai Sport
 #EXTVLCOPT:http-origin=http://jxoplay.xyz
 #EXTVLCOPT:http-referrer=http://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36

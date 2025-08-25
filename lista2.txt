@@ -1,311 +1,266 @@
 #EXTM3U
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL .c",COMEDY CENTRAL .c
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL (6)",COMEDY CENTRAL (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/JTqoTk_orOq69vBY9laoqraJXezywfCDQpMB1m5mlmIZVnn4J6ukdt64Hd3nTqpeRr3q5z8fgObn2CQWFEMCuZEsmoyUdGUeQJU08N2Fa4fg3rHVeheDd1FwQx6qETRnwUG2YiF4tCU5uZx7qC2zlNS87Yv3HkX4q4gKJ2TU7vGgekjWu8Dlkox_6mjIyFEP_M2RWxx5Qp29obShVgErvMTK0s3FsVpxtmuOeGO04GQ/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL .s",COMEDY CENTRAL .s
+https://vavoo.to/play/3658277450/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL (7)",COMEDY CENTRAL (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/g0j02A5X5khbVC7Ye-L_BPnu6E9Go4-kvzmvQ-9O5omABgqagKpB0qcfA2kkKI50-ktujxtI4Ra_RxrsPRvEvZmBr2gU0ytXMbJJNCa2D17WtEjGQRvVNyD_50mlkI67kJPmFEgpcOidgu5pIYpKig60YMyU6tmY-NH1jQLHwovyFt84P52l_WGHJl5j1CNYRcJjCYku21EX4-DMWVjPw1yNE8CwgviZu5-s2J9T314/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY INVESTIGATION .s",SKY INVESTIGATION .s
+https://vavoo.to/play/433893159/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL (6)",DISCOVERY CHANNEL (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/yxn8NgluQgVn5MQio_duWwwzvSgsneIVhJ_Nx5IkYVRcb9NJPuse3IkFErKX0t82xI-mfFag7ZUmQ-l25p6HyZg2_OIl_cgsvb-8o8iq3KAahLTOrVK6Sd9Aid38uz5EEbgD_Dg-Rwwr3G7n2nXAq3CyH3crpBdb5qjeDYEj6R7qDo2Ych-EflGi-UGTflDQt2W_LtBtk3eeAK2GGo0mjh0_PMHZ734siHOPgXcqGfA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL .c",DISCOVERY CHANNEL .c
+https://vavoo.to/play/1955739367/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL (7)",DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/46WpLNrq0AuQKEBEUTFD52MBZK82NZh7d7lVfkI5eLSWznBTvG2DTUXwZOzqoKPucG610jfj9578PDjZA9ezvEKm2qlOz1gagrZpu-gOijcUqilieAAIt7cK5nLDFxVvo2yy2vDoPQ_Rlx6x73SngTKuSZJfq5PTfk_OJN97z-L4Em_ayg7UTniL0z1aiijrQqBfU_QBindrnhbuJCp8w-bVBKZ7Z8GPei__cT7ExcM/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL .s",DISCOVERY CHANNEL .s
+https://vavoo.to/play/3554841914/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO (6)",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/HV897UVa-ePPNnSH4bV7C_OsduDZU3QSZTKozf63gwhhisy8bm4BHzn6Yq_DjH1bQv0C6nNsO6Pez1r4APeGqZ0C6TEUPqGvoqmSoz2T45PLt7B4BNd-_ApfTP7-UJaJWcSCL-M-7aUaZPqFoLR1ROygwbI90i7UKCFbrsAGhpfxAKwXnzsLz5JVNt36SUfXyQs47QL7Huyh48-8IyeHTGLXEPQx18GnNgww9azfp84/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO .c",NAT GEO .c
+https://vavoo.to/play/1735702308/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO (7)",NAT GEO (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/eJ8486ac54MfT195LhY84tQJ7nZ3Mrqokme5C_ZsgxpGWEmUkTetqj1PuM2d7qfr1GVH5C6R7GNstIZTCDVClUoAsY9tia8f9v_g8iNdo-fXeNNALcC4YRlMF-gLO76x_xx0ALNLjXgAzN_TwqnXJ9aYNiJEnMjIZPH_RiNYDX0Ig6RR9m746WLPH5NU68rKa-Nbloy6EDtsKFmhrPeBfCimB6kLi3npqLqDAyRA0N8/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO .s",NAT GEO .s
+https://vavoo.to/play/179844839/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD (6)",NAT GEO WILD (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/oo49LSitTHeBUO4ax0N8s_F6-TBqfDOPrjjkdbNXOD9ADSlKi7wxEGjvwS5gmCI1VgecfpcOJz9dzHJDY27GB_dmiE4bZ1dB8NA8UHhKYlyHFsZt_x0KWQFVYRVfqtkiWLon3AayXLQZX2GhbaMlS3SpANAPCboNpBDqMEhLHosPybCpAHMYHb6PqtfCHAKrmn7XmItzo_KXaiF_mfPfGG_Hmdzk3s9zzAZnmszbcyY/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD .c",NAT GEO WILD .c
+https://vavoo.to/play/3428501495/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD (7)",NAT GEO WILD (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/qwqlL0e6A5ApOQpHbEHDsbiV7W2fkZSYWwxF3xSOZO-XWl8rjQFJpA552EBZ5AHiackz-3ThRy5PJEe9goPIfKOHMUHtK1RylSLol_qs2QmBqSo_06WheuhQlfARW5sM44XTeYndJV4MTk97l_ElAnjnyIb6jVV6GB4OpPwKgfhZsASB5Zryg53JqxSh-x6EFCLx0Swud4ifOyC-a3KxYX1_9BHyP2h3XtSL-RdrSJk/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD .s",NAT GEO WILD .s
+https://vavoo.to/play/3229664409/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE (6)",SKY ARTE (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/j4AeM5yNdTS94d7QpAm1GnZNJ_f_A06s5g_KPs_ub-8pVJpx8BZYgEn1FtYadQ5c1_PgWW69chNcGN75tQGJ_EZxmCDLQrZGBzpUbD33yiXGoA_oV_KwEB2pWaZyxRIup6V4-HzT4t2l70NCfIHCmEaA5-cYykQkwlNabGBZLAKRZ4GmS6NyoYP1DGPNUpjsOIT7b0QMY7mmW4u38H5nrbsrxWXAGE1FkYEvOj10Cd4/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="RAKUTEN COMEDY MOVIES .s",RAKUTEN COMEDY MOVIES .s
+https://vavoo.to/play/1806815496/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE (7)",SKY ARTE (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ZD7LSclmEu0TbzHznlib3mO7Ts9SEkBfblSbNOKyolMilyevXLPlwaQGqkQOrOHf9LchqtX75S12kY0d6oTH_GjNkFF0KHtd47L4MRbJFerMZmZBPdfhLfd8lQEFNovrgtepvCxrDd9-u7ycVKTIPkIGTEcWopqPkAMXudLZih1u0kslsUp3IGFnq3F_pH1FcXRys1fkwQXv0VUka2OiBY9BHENONunfCNS71b5RnwA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE .c",SKY ARTE .c
+https://vavoo.to/play/1902695925/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC (6)",SKY ATLANTIC (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/9o9sFdfv2jI6zACGHgn9OGE0fRE9zdtZP3w--DPQsedRjzvIjWdC8UVZAybqF6jNTZw-plRgSi4K-PB2ay6RCKL7MtjrCz3w8om988aS-PAGHeCo2BrhLRhN-25Xp7vwVpz7_eS3a5lt18itFQbscDsmfKTbsQRGWBlmhlIZzDFXPe9eFXAIDhhZPxakiKCuwN0uScgP94M5ewsTyLByyawANJ71UY6kJi90yMFAlS4/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE .s",SKY ARTE .s
+https://vavoo.to/play/1421393119/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC (7)",SKY ATLANTIC (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/qZWDcd-k35KDlUnOeWaPeNxd_HMLd1_uIJLqnCyfsGbLTT2A2pqFKr7H0m21JP9dPpkDvh1e6yab4oumegDkUfDHRZsd4Thj7vJaSxBAdksvaHk5g2V0C5itS3ypmrQdJEG39G6FKxSoUFWTFX2yeqnZx0hJbFI8Ii6V57QRACzIqAeiHauEGaKHbWcEx2xxyDmD50NSHUfl5R0x_8EHI9T-niMk7GFUITYmoagVOx8/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC .c",SKY ATLANTIC .c
+https://vavoo.to/play/1482866609/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (6)",SKY CINEMA ACTION (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/F7c1LMHDTLvoTKiws9AHSFZa4vvodH_eQHiCzfLnnPouCJE_10X9vDCOCj3PO5BcRoIfmL9AygTrSKG4xbB2vVjbogJ6TIrHNayBC3WP_G0wEKvB6TUdk19u7vcuGkrTobfzXcPZNhg4WVQu55oQA6JE7ZzffqJEgMU9I-csVaJ96FUS2-qLj46Ngm10Qk3IXWrS0HtMY7jRCGR_-YIwmz8Ri3p__6Eqr0S3F25-PfY/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC .s",SKY ATLANTIC .s
+https://vavoo.to/play/3812796171/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (7)",SKY CINEMA ACTION (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Zrbm1joq5nFZL-BEJIKxcE1d8VThoQV9OL4UpGw3fq45nFvsJR-NzZIhvXOd1LWOG4FusOaFY5CywMSpKOUwbv54lAR4coJYdXaCPzpWD4aKcIOv0LBw5o2Or0v2dLeyl21hJHiAAi70MC43L4aBM5mT4T4oULa4t7jBxd4Ma2pmmTAOJppodcPznzxIzWPkV3Ton_4ooQ6FM8Yx-5z3uG3ngfKYb-wv84F5h28zehw/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (BACKUP) .s",SKY CINEMA ACTION (BACKUP) .s
+https://vavoo.to/play/1144128726/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (BACKUP) (7)",SKY CINEMA ACTION (BACKUP) (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/qsDm-fUVngbSV4oWlc0D3W_EIMn8aF3qf2oqeOfZ6Fu_GUyucGbNL5M2kozZGZpTV_wRIDaY8T2onVFdWbCI6KX6cE5z-jNNk1g16nhizqTHvCT_vYJr20TNyaUgS90cltQRYJ01URX0PMTy1wn-Y1uwtKo2QaJ0pPBvXhlojMIO7vZ2OY3oEfADhl4jy_b92LRTcCvuig-MN2uv9E5MQu0WxONFxe1NBD8dfbsKitE/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION .c",SKY CINEMA ACTION .c
+https://vavoo.to/play/2242741766/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COLLECTION (7)",SKY CINEMA COLLECTION (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/m0exLb6VwlT7PWSPGhYLwS5M9GgSWHPSRDkUWDjOs2TPVpAjWP5ts5rSoPLCcbIy54c4xLFHejerUFKM3e9nqMB6Pu4YlxEmUMUYX9Z8M-GKt8SD7cdDm5KYabcdgQAo0EzBsH2ntTmE1a_zkD8J6WLfVp_ZBhTa2DvqmVFcRyahdkChQtO4R2vQXZNv79D7jXUoHkBcS9WGvB9SC8JXsJKQjNlmO5eLLcIb1LooiUk/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION .s",SKY CINEMA ACTION .s
+https://vavoo.to/play/3525837057/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY (6)",SKY CINEMA COMEDY (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/mqwgRp7sVrWPltDk41qXeu1GjYzyYDnaXZjcd6VH-YeqwMfYTMdVNnmXgwopXoP0As_kCjtqkHM4SVp4Wq5vzro4JdDra28IjnQ0I1nT7zCmaIzyJvsMqocjOKpBywsrLqCNxgTliSUmn-nWYM3BhYKss5C2zvlgtUIk6hVOxUcekTve81fTOsWu5E6Z4u8-khh-IiY3JjgiONTJfiFJhmsDp_21v4LpDaKL4KsMqhI/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COLLECTION .s",SKY CINEMA COLLECTION .s
+https://vavoo.to/play/500203271/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY (7)",SKY CINEMA COMEDY (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/live2/play/3525837057.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTYxMDYxMzk4ODUsXCJ2YWxpZFVudGlsXCI6MTc1NjEwNzMzOTg4NSxcInV1aWRcIjpcIlBEdGQwNitRZFZudWJyV0RhRzBtRmM1M2RXeVdCZDN1U0ZhbWxVSmhIVUU9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE1MS4xOS4yMDIuMjU1XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJVOHFlNHZtMDZ6U0pNOGxhWHZSYWJJYUdxbEREV2pEL3dCWkROM0lxaStURUVTV2Jocno4d1BKaDJIR1ROWTdCalJxR053NnUzdVJWckhRQVhFUXZYOENNR3JHMHRJVzAyR1VIR3RLSXdTdDNlTldaSkhHcUNhVlFpQmdyNnVnd1k3NnBBMDVWdVJlNDcyVnFKZVNwV2hWS2JlUHFZeThFWjZ3ZXRnZytaMTg9In0=
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY .c",SKY CINEMA COMEDY .c
+https://vavoo.to/play/3131104474/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DRAMA (6)",SKY CINEMA DRAMA (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/ud_1fXUft9q9zY-GlGIT7NDi3IKZWHOrXdMS5ekmGi-0ibDjhJg3b1_-y8r9Alll3jo7LctRshFNhEJ6xHcQ5zgg8PFzUJeYLNga0kmo1lPxhWQemM7ewLdI2cMNwH_vxs4oYvPCO6mJU7KDt_BKvbeE3luomNBQdor7v6GDZurxjYmHYaVXeGEQ7m_GpGB66UlSJVLzDNgr12h10n2DQFqLWWP_1LIOe6CYi-6QCFA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY .s",SKY CINEMA COMEDY .s
+https://vavoo.to/play/1235530177/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE (6)",SKY CINEMA DUE (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/J4-wi86fI0eB69J-K0xerIhrd0omKAhyL-QEryzg1smx64xAr-1I5i4Al49SOITT713GA3fTtqXGaqtlwB88am0L45abImfmEJVP_IcuD6xb-YpUOxcdudY3UuuHp27EbRjdgxL4rpQnrv8dfw16pW87lVzRIDed6gsif6_2hQ1vp6u-ek0VQ1-BWos21uA4w6EjxdvZSKawdy7lob8kXRy3uWoRqxe7aEGJLo9ljek/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DRAMA .c",SKY CINEMA DRAMA .c
+https://vavoo.to/play/1228534500/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE (7)",SKY CINEMA DUE (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/oJ2_CZ-sE3FXUgcnOUp7UeA93zJVHLU0AILQ9k_oXEsg3nUkF-OrdM-HAZNZAUN60ToWs65cJ1MxP9Wz_7DcJqGMm2-zZRtPyNmr6Bkk8-oKNguu-7w25ciyuGzM3ylyTvpfv9hm-wM2lW4nBngJhYeITbzVbgPSnyESLWBskH2HohpP51JvpvK5oIw1lRjIm___8Lozo96ku5Z9zJlWsPjUJuHqrDZf5_0uLPN8jKM/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE +24 .s",SKY CINEMA DUE +24 .s
+https://vavoo.to/play/2330574729/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY (6)",SKY CINEMA FAMILY (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/E7_Nhgeg1GZARFZsuaOsY6QF4B4qE04ErMfVP6Vu9HOx-v31cUnsdCnaAJOnBWYrYZhOAOus9ssNQiZ2uF8IaLQbGzLX_rCP35WRTQv7USPe9Cq_ILG6K5s7FIX0AzOOKxMegrv_SWXYi3f_9sONeatLIvJ-6oSagA3dJH6Mx9h8FtKD-uAJfPPEvjY--PMl0M3dK0Qi7d2dS-k8pYXppO4W-rULf5zsb5R2wxpPcPA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE .c",SKY CINEMA DUE .c
+https://vavoo.to/play/415795144/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY (7)",SKY CINEMA FAMILY (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/BKrw6sr-JCQK4nAawxmc2NXFe_GkprFD4gXsp7W3EVXMYWScx8dT5_Qp9-56g5XdS2qES_d7WAbAFLv4kTyTVTOJWlwIUiMdm6cCzJzeVy1GJp6BXXCjuIr2eulVChQIuPz5e2u2ti5nR-M2NwdmsnJf04cAYJeL8NThQn7awzvZZU0YOwU1fYSoo_OaO4fVjR1JCQnIFfq28Kxz9PunLYZT8LTFAJA8-Hu_Ml1dySg/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE .s",SKY CINEMA DUE .s
+https://vavoo.to/play/3216516117/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE (6)",SKY CINEMA ROMANCE (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/1zevJl_0EZHaOJYMCIfVFh4Lq50gAUxnwyhBno1m-3JBrxSItxK7TCm-2qGOK11GfsVm1ZYxwOkNzhVzvlvBEA4Xq8duJU2QAO9H3KNCjNca0kRpeF4h5hGtodlclhU35kpmV3FLf0JdjzaWGHt8_h0ymdHceK606B-yKLvckMMGALSYW-MZJFe8bQRt1c3XNtj8RdPx6tgXfMpxTx1urSO4HOWc9-dFPPahNTs-HnE/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY .c",SKY CINEMA FAMILY .c
+https://vavoo.to/play/2890008905/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE (7)",SKY CINEMA ROMANCE (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/CoS3mEw7DcQDEC3SUYeBb3X-rLxbOBw8d2icz8edLYIQpM-YNqDKF6owV_WBNiLm57lB7XLtI2YkpPPUoYq6Iw5bgocwBbhPIWvU8XQFw2VsVf-I4P_FWqj1iZdUbKTCDMhmWFLJbXdKhYd7DsBb_e30-sGiu_SXfJSk6FxlilmJgdPSqHfofSdPhQNZcFG_uyjTCjSCukWXF60iygApz_6Ucx9KsXezHAaAozwbBaU/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY .s",SKY CINEMA FAMILY .s
+https://vavoo.to/play/1281264885/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE (6)",SKY CINEMA SUSPENSE (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/b0457Qd4Mjqv4SKnMf9BK8FhPvsDRM7JPnZ-jWNwdslYt4a5kycUEBc0EGQRLfmi44k-3U0B5b0vJmNc-xF3RwjcJ9hQwrMsy44dnUBOlDsNWxkKSD1epDLSKIBhbSRlbcq0d8arkUF7VprHR0UHsjQf6ZfSzHyac-h52qAGjIZ58fpBbeLMXMQg7sXt47VwDBej_sc41CN3Su0XGVbvEmMDCaDB_5f-mIwjKWuSNgo/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE .c",SKY CINEMA ROMANCE .c
+https://vavoo.to/play/1820997555/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE (7)",SKY CINEMA SUSPENSE (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/foneCU8EHXBbONMTPkV-go5AbTzLiAPtOy4AqQN5I_ZcTXMU59pHVlnzbgk70MZ0dqJbir1eVfqlmEtrYuSXoqJQI34HoEohRSd-ej5AGB1jNWZRyx_zByA4-wgKdwCGde97KOmlpuuTJSBSHWj0V5CBYIF-tSXSoRtHB9zN1bWYpWmtOal4DF8yt70CX47ZdHYA2gkSiNL8JpYAu-mq-NCXKvmmjtHPGtMF7fGnIMM/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE .s",SKY CINEMA ROMANCE .s
+https://vavoo.to/play/3060043751/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO (6)",SKY CINEMA UNO (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Btr53S-RfY49wzGiqDyu7DdyjGlXwzrFxQbXrysjeZ3PgwH4m05DzDeSsEh-7nWfPG4AnHaYdbBynku0sBSnh7UYblcifqKnERsN-XnwatUNGPhYQUvP5XoFRlpIeRhfPdf691_c4CIw-qghjS422ZZ1H6eQ6nTB9kbpfKdgfj5cqIEQNC22f6EMqV2qUlJS2_V9rN5Qr9qft3xf8cKWoZZZLSlwsx3-8oHXtZkqUL0/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE .c",SKY CINEMA SUSPENSE .c
+https://vavoo.to/play/2872151911/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO (7)",SKY CINEMA UNO (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/udX2C8Glf5_jn9CK6IY2MjYhnbMqhMZc-Ou-6PWnpJPSOyIzFwaooK3xC6wAXw9OaH4tMc49r-9FaIknEMC_feWNJMYobBAoxf2fuByRjSCftgLmwgSkzyZhmJet0T90nbILjs4Z4BoJRt_4yTi3kbHd2WnqvJpY9Xo5q7TPnRDnzOVTQFNw-VdlSV7Oa50k6QURTmrZ20wDe1e4ZujF8tDSJeKAy8hU7COHqp7Ht6g/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE .s",SKY CINEMA SUSPENSE .s
+https://vavoo.to/play/1759625738/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO +24 (7)",SKY CINEMA UNO +24 (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/gi86VO8xoce3UlZAloEPnOBOmYLsL_KSt56GvQPbmJS-_9YrzdKQ3r6RJoYYDyXlpl0f-F7T4bxajN1RYUcdJvPDfedHvD89L1TOZwjPoFtg9FyG44xNI7SAdDCo9ToMcjSUQO-QutV67uufq8pTppZqWSRrJfWwX08YFe04yuB6qFTg9DGNxaXYg62oWvdXoordhG8s53IBIZ3VUvxCbxp-RsS9-piNirQieLV28Kk/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO +24 .s",SKY CINEMA UNO +24 .s
+https://vavoo.to/play/1699876530/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY CRIME (7)",SKY CRIME (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/vGV3KC6u7gezT4dQNREefyexYInjHqygYYiQMqf722xAQPy1ryVMpWHdhAexmHGc2NIyV5-DxIqks4Sp6uHjnKeNJbD2dRwFzO1F3e6unXxaohkCoGNGCDZ9AMAYCyHxPslwf3uS0GMnkOYmTc-N9TSSgn1PFruWOM7TaIlaL-T5LrzzZRNOm4Obwtim6pLORfeFrkxtaL_jFcCHfl1PePvuIeN1MvGJpK85CzfN7-E/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO .c",SKY CINEMA UNO .c
+https://vavoo.to/play/1968339149/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY DOCUMENTARIES (6)",SKY DOCUMENTARIES (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/pJIPh3cS-wArvMArVVhX6qQa-0hTJEcT9giAKL2YFLoJmpyqcAtm4AmMQeV-9PcqznPhHR5GVzZwjXtIvnMdHkNpfwzVJe7yX5Bqvgn5ExdzyB6TLIpv-bHv9l_K0GYH1IyLVwGkDvv-yWtVBA1o0dBHUFY3Vktzsq3nE8D8u3WXPc3Kq0BSnws38PvM1iEAU-TzED1--NaYzddUbVKsDRY6HJsiaAkHZrHRBOtBNWA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO .s",SKY CINEMA UNO .s
+https://vavoo.to/play/464281981/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY NATURE (6)",SKY NATURE (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/LZqmih4WbXmaspitVAqK_TZCht_xSieoSpB_RIJY6fksYWcStdJko0Esgi3h4aA1vJukf5LTNfWqMizfqLPGjq2hnlLISrD_R9cvEUMKGqkgVawDM9ZVcDWB_NUoHapQFlI2q_IG739svg5G9DJ0-Y--XQcaEkjszGBrStuPGdO9LsaNqyXcUpiEBWp2Rj8dXccgPMPyzX55__i5OFdJHKw-Yjs4nbiZDw1LokuVA_M/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY NATURE .c",SKY NATURE .c
+https://vavoo.to/play/3810188456/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY SERIE (6)",SKY SERIE (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/LmEGwBEIt1r_BDgKaUg9bBLsl5OdZcsPEuVNmHt-rEyB15VrlWQOU9GoBZ6APp1WUFJJxJRZNxXT0_3k1qGBK4Dnkv1_R6pORUUOEhJ0PpujH-Ae-YxzW2lqMHi98ma5mSP3ksHh-bDCcBaGBVfi6kZrT_GvUag-X9CFEv_jpG4Ck_Jqkgo3O5pDNPdgmZQvQqZ9N3imY5ReCzuHv0nrkm2vRBpZ_kho7faSbtSasMM/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY SERIE .c",SKY SERIE .c
+https://vavoo.to/play/836680112/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT (6)",SKY SPORT (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/q6vEh-qRSeBvARGZ7JaM3VhQeVep6iwIqfVuvCyKAsBjGSoO0g_u7FnSCj3GHwrWzspo_kfwk74sLp2y1RhraH24DPt9APTQj4SZaOEXOrote7PWJkRkp4JG__RV2MTheYLKfb7nVQmFIIhAdLWBGhIPCfVnxInHB9NSjDGKLwA0Pp0iHzaAlzRZR76S8QskCX9nv_xkympCVKrsKeGwMZ7ZEm9IMKhjpGlPKsqkCSQ/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT .c",SKY SPORT .c
+https://vavoo.to/play/924661659/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA (6)",SKY SPORT ARENA (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/AS1F0v8XecaIt4Y-BVXhL_y--H-_wRLf-kvBD-oN1o0m9gxD6sjNNTuvCqOAllowSF5P7a3J5GzL5i8Vd5UmD9_ObKEolFl_6efNda8duBQZTI-yEaBP9wNtw35yR9KQimKCB3tDPhMUku9V9pcPYyArNpl7A1FFKONyWRxunNuwb6ucipHcPwt5m1Ekm7T_4tWvfRIov35oVLzlItCpQvE0RwaZOUSNxFfi1juLpYE/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT 24 .c",SKY SPORT 24 .c
+https://vavoo.to/play/3007400791/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA (7)",SKY SPORT ARENA (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/GyrOYX95schSQ6qqwdCsuVP9EOtEuljwQO_iAr4uAo8ccFrvcimRVgh2Jqyb7l7EnVmb1LI2QlZcUgTwS1g48sH4Rc74dRhkmnU_Joy6R0katapuDddGdh5xaOlfyxgp1bJIWD9-LxAm943NSDGkwyDqrnfXukcl_lxQ_HFAHwqQqbQVL8Fy_GFOuqHOFM9KrS1T6vsaPOvGQUud5C-jGBIUXq2AJ4Y9sEFO8j6qTiw/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT 24 [LIVE DURING EVENTS ONLY] .s",SKY SPORT 24 [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/play/2555960713/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO (6)",SKY SPORT CALCIO (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/jAptPtF4mBTGErJtAGJ2CAq3yMaV8WNPUI8yQRlIGj0SSHWClhoLX7zYydGPrtu4jPSM4Mha5IltUKiI9j1Sb_iDksxvYuAGFyj0UZysnpsdzGrsL0edtsMSaGX0wCWqaP0rw9iOgfZg-30QB6irDtEfGsf-oQqnlUmLXhGj1a4xYEe7Ds4V4spHkRle1m73lxa5G-ih_dedsb100R7MVS-KWcibBN2xWrL-KpCdCVk/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA .c",SKY SPORT ARENA .c
+https://vavoo.to/play/1665920101/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO (7)",SKY SPORT CALCIO (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/BFwKBqBgMKQ00tsazNS_DAU5o89FbxPntVU_UoRiGOMFUzs1APNhCvkhJQB0O3i0gKqs6_JWDvVlTIyaiUiNknZt3KyX3WTMa7eAvFr_QJPg4YCYipklsUs-6yc5JsAqyZvrUrH7UuXR_on-lMgNTaT-EgDrtCMOM-Grs5aj6HOSAqGgexvKPxqeZP2XkU6vl1KsrlWWS2Xzud9yvi5Mllf0d48rLKc7VPt5Vy-9NDI/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA .s",SKY SPORT ARENA .s
+https://vavoo.to/play/449990998/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT F1 (6)",SKY SPORT F1 (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/I3n5R-Md0tYQuE0iSYC4KE28FNc43AmAWSzVAgeH4mnPCCL1m67I8mKKMjfiVuAx9ejEgpAJkKwa6cpiGYUg8NZOvqu67BlEymYXem6AGV3NlfT9QWh7P0p8ZSl8ECn2o_ofz_Hr9hMRttTrKS7ibDvVpmMU7xdmuG3Robk4qymwj-wZOwWM5c6FTpBypNUHXKCmpoBEmUKo6CAMtpgFrF-lT2MiuSBjnvwZs107jrE/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO .c",SKY SPORT CALCIO .c
+https://vavoo.to/play/4246774056/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT F1 (7)",SKY SPORT F1 (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/zrea0xOFmAUo0aXvH1TxvPc0CW5kGjj8pDhgC2WKAXGVJ-MLvm1zTf7yKpBSUEASeAzFPSbOUAKgBzSTK1DJcRw3Q6l_JfUENIfFJ6zkjt0VbG5NBBu6gdP3ouyE2DOXTWLGV669gRpAVl4sg6ABc6Mt5FZ9XKV2ltX2jWYNCO96v2AlfoF5v7OHrGF8B-bjCc4i0uIxEz1dQyVsJb8nNWO9tsDz52-kibLEo9cNhNE/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO .s",SKY SPORT CALCIO .s
+https://vavoo.to/play/2289038972/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT GOLF (7)",SKY SPORT GOLF (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/1pqgpfwsHsCc1gzr6-XdYPgGjCuEla-KJ2QNa4JfCw7Zox0pEWhZWMDXBXOBpuOk7jJID1Jjefm6liGveEQEo8F4mWtlChEckkdy3q91IaxEf2SESHXWjtjfKJGo46eW0zGzaIgFLcnpgX2tD6eAj3qQttt7ZUPpgiW4idIpcotkV8TlKvJO5JsmXgx8bl8ozQYzpggXdgT4spGpdx2O_0qomziBqSYX0xmPJwCcXp0/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT F1 .c",SKY SPORT F1 .c
+https://vavoo.to/play/3897711086/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MAX (6)",SKY SPORT MAX (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/o1E1VGEdonbiPI0ySlPlQUlW7lAfPrQ5rog7nDiYKl9FwqB4qE13TJJjAmTDsUvpyQ4QCCSuZdcQA7NzcJbyWxIGWCjfhuFYfXHh5jpnDDsEBnUJver2EkMX1AOyMf6nnyK1407qqJK_ugNOOJkWf-NPf3PQw9SWWjbt3fypKr-VXFs61JWo4CP561bKHYykNkpF8QGISW1oJJgK3_aTR18IpcMYLmpSWAphE9UFZiU/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT FOOTBALL .c",SKY SPORT FOOTBALL .c
+https://vavoo.to/play/2066326916/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTO GP (6)",SKY SPORT MOTO GP (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/yEP2SgmUJDMcDCmcht5_K7Gt-7rPNB7aKnaWAp_AYhjs-MnKaL0ZGZ8QvguYFE053WcioxAG2ID8saM3Yj1_V6qz_0KijH4K9zfJO8o7Ytlk7WaFx5-5t_oc07rqRIf4eysAsXCrUuu1dELraaIycoXo6a7ApswMaZOsLJ9NMj4SGt6POgD3a28TDx7jgOK7AeZZm-tjwB7e0HXVPFHmLjJ5S193ADZ2yARm7XoxzgE/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] .s",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] .s
+https://vavoo.to/play/3036316886/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTOGP (7)",SKY SPORT MOTOGP (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/yJYCm2B4CHN2mQpsnvKVqwwnNuJNFXFv2z2r5OFL7N7-Xgxr2XZY3HBUSvZNeooO2JCKUBbIvEsLlen7VMG9te2LQlRITCR7j4U0AQMqvgR6H0hykMVU8JlTcpIZU-gEg7pdoEuDXrV1ud6zrwyfNtZSkqyufuMBRnw3NaTgwRG9S0-6yGcWSCjj2vqjYYUT5wIIQwqUEB3zbhvgKSB7MbyHPvWBvArEJdoyqNqbth8/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT GOLF .s",SKY SPORT GOLF .s
+https://vavoo.to/play/2090703806/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA (6)",SKY SPORT NBA (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/lKmZJYy3E38hXZHYhWNsgivnKshpSZj5fpdd1HvqgaZAoWcU6vThtvCBmWYizQzXse3XCYNuvWYD1unIXmt5E0FXClCumE7sO457v3NPW9wWnAHgsLP-REphan0p0zO179Z74Vzofu7KHeYcY7trrT6VM_hka3VKm4QrUcoXBOR_CTHrS2L5vc3SYrPxpr1Tw-tERJq1OweCl5lKvr1a9R26YkQQmO2cODkLDTHSZIo/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MAX .c",SKY SPORT MAX .c
+https://vavoo.to/play/2711959620/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA (7)",SKY SPORT NBA (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ZlwqSl2_-Pysa5r4rkHlIJInoA6ccfQuCvLfSAK2Ym3Yt3CZnV8NBypeQz-L6XXWf5tKFWQ0qW2vEPdqWj-_UBa7FpvHIsgbYdFnSUrG3kfxLARkJfxqpoqmEWunji0P7YcMfP89rWzbPM27bQS9zrfD5-fwf4foSoJsvZI4WCPJnA-pLUdQGK-aH2VMsKwkBs4YkAglRa0zdzpAxXMCzFi4UB9BcQxcDQtKku0ZHIA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTO GP .c",SKY SPORT MOTO GP .c
+https://vavoo.to/play/326825326/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO (6)",SKY SPORT UNO (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/FyEHwN6mOntFEINSEz2TLPZCb2bSeFrgM-4R992DrS3B8Vc73W--jEzOEb1gaMro9bivWYPBTkAkEQILcVzQ8fb4FmTeUXSuO7bCn4zjGPRDtzOjclf4Ae-as7VZ0Y_vOUnrWOTCezUocoVcGWFvZ2CNd8NRInT_o9kZaziqzkRySKm439N0wYDgKriJcs3QHcyBgU_51tHgJGIbnG4lXO5VuoEG1uSyLdJRFgbMniM/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTOGP .s",SKY SPORT MOTOGP .s
+https://vavoo.to/play/210669162/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO (7)",SKY SPORT UNO (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/m6yAnE7e7pLB0SkhHsclSswbsxEXXKrhUo5zRybcDRkI3Rh66SBI_ltDVcxe-iZlirj7z8rciVM-TZ8AOSV-nHBwbY-Vl9uajjxxpplrQ_pV7cQt_kKTOIkGE9nMOeOsStPcriyyQJbRQlq4fOdFgfA19qEHNvTEsps_U65rhMza3Wn0Q4Xw47jFTrOBdyAKDKi_5DxpAKJc41VmbOlxs8Ul5uKe40qjzxovSq7Ak4k/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA .c",SKY SPORT NBA .c
+https://vavoo.to/play/3192996672/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 (6)",SKY TG 24 (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/rENPrcWYyp-RswlRxr55IYrQqo_cc-_rAuhAAahn1PRyNLBY0Xum5U6wxKSKBIR8Pncr1zBjzWESP4dSlQMEKDWe-0X-lNRXDm3kBKIuTYInXX3drEWIA2qYBWljKqkEM1yRFNHWEML0oIWMuPcc4H6l7Re3GW6tjRnk1cNllG6GypyBDTlxrPyxrSqw6hlacEU3sN8ESgLCz0EX91L2lsYdunO-jwx2hN4OL9Yt-5Y/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA .s",SKY SPORT NBA .s
+https://vavoo.to/play/3376031355/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 (7)",SKY TG 24 (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/CMSAKargA8ToyRaQlDbqsIHYt8QPyiCZuPgEKT_Un30w2NsD26WGpdWkcyKYTta16bQh3L4KI37sJ4cB8jMw-ITbjMO6Ub-68C3i5jgcstEWQ92JOu6a9wQqaEVivJba_LgaBy509s4wndP9Rj-ccMX-0oo-AhWzsr2JD4IKrf3GP6lSn3HE1Trqmek3jfWRzshyLaFiqjpnCN-2w68yC_j5ui20Cyeg9BYKKAyJ1q8/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT TENNIS .c",SKY SPORT TENNIS .c
+https://vavoo.to/play/318057128/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO (6)",SKY UNO (6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/DYnZ02YFoOnXE-3fJBLxW98y_o0nX1Z-IicoEq7D_9zEkps0GRe8zkYq28ESH_cYbbmATOwdRnsbUaS1VEaQJ3MUkCDFxQMkISl24xfbU0nY-O6mNmrLCcloL-7TSz64Tt-G_WQ1TZfy2xFuLvEHMe3_mx_7K3VgxulPqU4-QgZCiyKevXNkSq-vhWqffzrfG9u2-oUX5lsKJkJSigqby4LQLzVXuyL6zOrw3Gc6bDU/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT TENNIS .s",SKY SPORT TENNIS .s
+https://vavoo.to/play/2130523218/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO (7)",SKY UNO (7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/pYESuSoN5FCCykJtcNqxGJrHuUpdDeatZ68qWx7sX0MO8A-bwnlaSyhJ7oIAmjOmGhxJJwvI8ZL2e8KWbv_jWGJ8e0XdQqZWeWk1LzsgYSDrGEkEps0eBw4Nweq0B-lGSbF1gArly0U3jimK5__W_C9OHJMS-KxuQi2RupGoTD5zKbu2nPHbdxI0XytCddnooTYX7obJ0ab5u0hg_gdY8P4LZYPQIpdyGHXFD3pj-_Y/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO .c",SKY SPORT UNO .c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ms9_W9XAmbLygZLWxJIQo07FR-Bpj3SqjHMre0PznIJgrMsvsDJ80CPUB49h7pBo3fTb-V0kdw9-2SXYGBOUVpuQ3Apt4vK-RF9b2zQsg52UTAAVK4MljaGynScwviTI-lOIfLEeMETkDZEK0cnXTteBWWUZUYVwNzeleE-7GozhBP13l4__YctP9BEUcxM88if2uWi98CoFIpoK2GmFjNS3Xdd20tiVLV1sm8askN4/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO .s",SKY SPORT UNO .s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/_eBW75ozD88RjIqwAQtEZNZd6tVs0lsuRGCHTVM87FsFHa6A4v8CLfm95dlfjPfa3513NoKQbeXJLesnmxyudJSjYKNL4uVJRhBUNYtX4hbmdZtOIVe3mi3rsajxJ0lGDAaoBHXVURV-XfKGqdRUtzavNodu5YD1vG9SztLuRX4v7uSSoaddjAYrkxDCNKJSre5C_azuCGa0ibrnLBgoIDGphMNGaEbhhn5C0jPJRdI/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORTS F1 .s",SKY SPORTS F1 .s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/XawgHh_JK1Ku9xby8UF9TwRR-mskqPxSiwwzcksCJswpSCGbPeAcRPdnhMEWQyDP1pmMruL0XEcWiKCGx6mNAamKOp4JaKtBIXaFA6JgQtfscrM7Pe7A3CWWUQHcWhSAvgVQzjpJ7yGCOgJ7CEYWrL4B_5F72uAIRl9pe2Ys7SupuSKl9tU0DpOsHSw-dQXIwLycQjZ8bMun9mGX2ts5z4TvpAazbEStabEFkE_YQRo/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY SUPER TENNIS .s",SKY SUPER TENNIS .s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/8k8hDpUJf4Hu6rvGoOxO92cdBEZS0bTYIjZqxBMCy4xthvhiLITwR1mM2pXEw8v_Urlbp-Cn7U6PN_lCtM9sD3wvZ_z7WkPMdBrANHaaGBL-Xrs5esF6Hdzos8XT2Dn3RQmww7apw4JU5XHIq9W8Kdgl2nGe1b6inHteJR40xFcMj1FO_BAdpkYnFg-ogXGSEV_27cLVHlQGMvuO1bbLzmfeYty0VYtE88vshXNq6PQ/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 .c",SKY TG 24 .c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/KAlNUfjlaHh73OTlXZVTIe6i8Ioa1Zd8IKka5IH0D4WYFb19PfEQrRHbevHb7zXXCu2TAAy-n97RJfQe-bUkaiym2ZpsAHBseHZSsvn5kEdyXDTxSmjsEjTwV58ayVrKKsAjCeAQMbPJLnJqpqiy-RiPkiD5Q_QuDTMHxcU_HwiCZXzTs57Yzh8sqJLVD4fUmxP-PeoA7ayHo6KctU1kLSkWsCN6djJSvkSpXH8VZAQ/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 .s",SKY TG 24 .s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/uOVZ-2YOIrtrH18LPhWkWpzM80J_nRsNxsRzlwl_rKGsTanC-YRaTuYiQ_WBA05PXukqicAGsAGaerfcMLV9-DJdLyi0Mk4L1mGaCyuwOGJwNFRR-xbdJ1pZySdWVsmiYQszrzEL91yYV2-3MWdciJmR657CZ9vQS4F8HaWifMn6Mz1tEK-T_e_dMYICttZlFPYd7W9Ztnjt3tS2wLM4_3Y5ARVmY4kRC7std88zg1M/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO .c",SKY UNO .c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/Z-3uZxu5Lz-cjNn3qDubgzkcpvqn0_Sek4cbw6gV9cebsGhsTiCXB6cr_oPorDn9mnvfX9z7BQkUFg6I642Fow9ZYdzbd3-qgvXqifE4zeWAs5abOzWGz2aQ6uVkg7kvTUjMPB6HbtIICIorKuYRWaOuRaeitsrfQWOpm-nBagWKmsrxouPVRIL9RvhwVnGwhuqLquiftSsLDdouHUtYqFgEztE-OCfvpSG-KI0u7H0/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO .s",SKY UNO .s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/avv4Wm9e6wJgmrdKhD5TGmFpFRjuUfW0nygwjnoddcSBJ7uto-nQluUpyrEfK7N7n6wB8pYGLjK34dSPWVc9RC8ZtdLe7cSv4KsJDPdldfGw2zOVSDAhcqolDZg5soIs9kOlIxgV14DHXF7tyzl0kmRONC3P83CMJ9iucloCjeBghbG9vlhJ0Lf0UC4Q_Aw7tdtUafi60BfXbCtqUkXNKEjrcqXejrAZPIPHCDpCYVY/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="STAR COMEDY .c",STAR COMEDY .c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#EXTVLCOPT:http-origin=https://vavoo.to
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/LIswfnT5341PT5l1SCc4XntS-MyFctgTKcERCYsa0nv-80W1BtRFTB6spg3kKSI1n8_ul1HWIgq7omQOxkiGDXBcG38oY_7bgXfrGTjlYPH2nuzh7MYxjIStuSsg6oiBWQGepTplDhR1ScEXlsYp97vhcqFaRxn46py8EG-VdLHd7u0mO9UFDYwdN2cFvpcAWI8YbXS6-sn1n_KJbCnViY-QPz-zojnfMziys4PMhEo/hls/index.m3u8
+https://vavoo.to/play/322024849/index.m3u8

@@ -1,109 +1,205 @@
 #EXTM3U
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL .c",COMEDY CENTRAL .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/jyFpMhoq1G4sv0UmEZgLzJ7uRCgHGA2y535bO5VGmd1yRC3rtXnO8E-jgfHx9S-qYo5zOjhH4DXkhn0H9FffCob-8ZNeRG_p8IsqbVogTplc39wjIBSDEwkPp0tzHuLmXO0ARQvjNnrvWwy_-ME3WicIGOIO-e1GvxGkOvGEJQuN8CiUXhmnUYQ9Q0Yo89Dpl4vCC_4pjSHHVLSAuW6BS-HIIn8SBuIdO0KLlsBL2g8/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL .s",COMEDY CENTRAL .s
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/J9J73TWdAKr2HzrTOdNPZXng7UkmtkgVwAw9USyT7cPNkJYxlIEHECtk3JiOkPtT3HpV8Hoegozf6B67x_Rc5PNnzxhzKgjSAAZPgzOt33WhhoKZKYAdgn0VyDJRbdQD0pFpp_L0Q5_o3R---R-u4POItfJE0hVxycLhb3yzMC9bJCLCwGXSZ_4gcvtjMayDBQfeprxAdBDVJy-Qpij7Kei7hx9vkTHocnMTjsqqZyM/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL .c",DISCOVERY CHANNEL .c
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/tX6BEau_aMLk_Tm6i-iVtBPmINE52JFiCyVAwM2kI1tTtKUru5aj-J-J3GCNO8s3kkkqFs7VK0pWTplFEAtuLZhaLtge9AL1JINFxtI5fpvIctvo7U5apISWhg8YmfN_q93d-W-B4c9iSa-MOiX2AoingoBWBBU6OlCfJBRJ5s9aBu7EwuR-7fPnNDaBkZgg8JXMufAynB9i9lNV0zguW9vFJhCB5rBrZpEBQm97Cuc/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL .s",DISCOVERY CHANNEL .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/YcARDbJ4cq92j-7DqlhI0-lrZVRS3iaj0GQWhD-eP6HSxnNI3NZaPPDSBYS2B2hb1dthHuMTf601wCCqSC-w3L-LQpbKEUVNg1Sft5c2tbPlMH9wrAzTAfGLfJjHGfU2VyU6_J2Vl0p1yZmNuSM9dncTbLCuGsQuMwHqLXE6Dj6IQ5HWXXAZrotSjxYFW3P4IxK_rPNAAzkZJMjpM_gr3e9mirehOv2NoIavomuCYNo/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO .c",NAT GEO .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/QV0cu3tF3La_GRC2MuPNk92QwlhRVU__xcIGPkQ4JwzHUhvEIga6ThbSw5XM8yZigHL2f0kBTFh_rs_p_NgGDRjnf9C5eI4QuemwpK5XBOOCSTRGrBg6g4BLYVizSRviNWzsexVnFIYOIisSeIwdPfu01wpe92wIEvEBHwrO7MhxweH-NZeFt4Cupe1RiSFoL618rL9o7jojDpAJLg6vRPb6R0r0st-9MbRgGREhf-o/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO .s",NAT GEO .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/SWx55QjdTwicR9GnB3PtuKcmJMpA_t6jOPj-K4gUiN005hnozLVbPjqOhwl5zrkEPhKHq97v95ExjhI4-0Q-uRr35wE9QhxmtM13hJAODD6ZqUM9CYcqwYimjRt0r0kE_TGichOAkxPSHSucSCejn3Womp-OYKTK1NNPHy2KuKuMAJ03F-fF3Gr0zXktUoA0cFqfsEUM7gy-Q_Nm9vZTbud72QDtSk_daQTfU14R-QQ/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD .c",NAT GEO WILD .c
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/4Z8HvAQU8-QAKF0gYP0oSa-OG-0Ab7XvyYTEA0jSiyUcpVVeqnIAUXJYTRKyT2mKzmjtu3xATGZsD9gIvbEool7ulyTgnHHSLSrZiGK4JIFkfNa1Lmsn4h8h3Z6R3NVWEb4e7BE2Wjt7PkBYsguRm15jom-BeI4fWxEcqC4XiZr3C3Idir_lJ9pPIKbSfUzlOKlsdl-T8IR8fbUdeHdLBkWcSJJ_PiXjhz2gUBXjmqA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD .s",NAT GEO WILD .s
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/YhainpcXsdpMO4DT7DeIx3uS-FTispnNygwYwtdZvFTlLKrUhREOZH1UNBlAt9N4c3L7q90SA-fJX24dVlZphTLYSpx0CxbjQxPMJuIvtzNarZeLof69YUVh4kFRp7cOKfx6p4ckwtRklIgLY9xPtGrkTqEEOXsjxxb_DV6mY7GY86QOa4WdMYyEonUpcw3LF53JiLq9meYFnVWRxyYgQSKzT5GPhc2dVLvB8NXS2Bo/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE .c",SKY ARTE .c
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/x-a-333ScrwQzrthnMvtdNvfk4FbXMT2oT1b1KrvMP3Eu2SIq9KyZ8Ch03pSuE_TpADuEkNd4IzFJWgV0dY0rkGpmgeUHH12uh003PTvtytyqpZz4SfMmtUy0QT13r3Rk3vw8NkSzH88ch6c28i9hDmAJ-LlN6G8Oyv4VqZL-FdEhAZ1gNYhHqHEWvB-q6UbnrPXEho72eLlD61qjENxBzlMM_Hl1iGM4A7oG_TRDDY/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE .s",SKY ARTE .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/J8dWtjXJlPOZOvEfyaCWrLCR0WwRMPKSHbwIKZKXwRKHnnnzHcbbXL_LFPLfpxk2OHnitnBifWqinA-h0r9RuYWisUDHWhTPMYYdNHkXbcr-5WnEpvS6UBcv5M5ZwHoPQ_BmgtpxfxYkvf89tzpcR_JITx5JmjBuc5AvRbyptH-tlOUuAhiPo-GS79upDnguFIWcaCf8NRsau40bqdfq_lp1myAlJ-kMyUptED7QD-k/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC .c",SKY ATLANTIC .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/PHyH2b2f8pX495EIhwl1jhNmAFf5aWa_ZquBPjgwW9cwAt6vy674yZ2N1rC15t6elR-9dgzzcnldJ5ASrSpyvUS008N_sfHS1yGZjdnnScYUDyi4B19Sar7gbjM0Oq0T82ulI3tOonrCbzmwrtHFA5ZrmZZFZSosF090cuWunf2apkADkUPsmvEhQFpaxFWysY9QPlRPdCgQ_IX8Aj7WvvSxaSgJOYbgLx9M4WRNH64/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC .s",SKY ATLANTIC .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/EKnGblpKwa_Dpb8HB6_5eu-z--j04WseBq6Q7NRFMl4NU5lNnzqQtFwH5WbkdefuGSS1jdr6MG6aU3TN15fWqB8mtFGPetTXZnmdniTXgTqThyPfyRSjto7k_WromVBdTnOK2pA6bkvwFbgZPofVRlVhCd4nH_sHjOfbzVJHVXem7V8haG242cKE4TYdCpkdad3Zz0JYEovrjuJKDYQjl6yHCGOXnyU220s3o1q3rxU/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (BACKUP) .s",SKY CINEMA ACTION (BACKUP) .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/1SKAM8lkuSJ4IZp5ZqTao-5nDKlVg4A95jpteaTWgTpTRg8KyyPH9rwoE5f_gMXtkVmkdd5gCYdTyAfzw31RyHRU7ckpl6Q-nrHd6ZvnEuYayJ7SoVk5Hhy0JunYvW9BBKStkVgGkrqXzgDclJkUYRZPh0i_vTVvwjKxL5RxiogvsQBuq-OzywYT-mEtBC2Of63iOXxWdd2kzW7palDTasN4vlEm3kl--V_7PxIwxqA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION .c",SKY CINEMA ACTION .c
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/-rIuYaVLeLePXF6YjZpOizjIpHt4HtnsGluv8jepB5zD3bn6deR6BxP_Nj5NheGKpZTNO7V2v3I2FJvRodsYwpUjt0fah2QLtJV7dEImRA3E6iarJOw6ue0hOiGHHnoaWmoMl2VQdF4_t1EXja6tmnRVplxxHiS8d7on_ZnuLNqnMbrhxQNxIlA-ako0HSRVFFy_Unet3BWas0iDfUE6rxI6LA8Os6nRKXdUAGuq_g4/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION .s",SKY CINEMA ACTION .s
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/i58clCjAj1OYUihgl9-GnOP51PfkMORxX3CO4tBKA377dqMxF19SSbLpra0rDsHg0tNF5lGiEDryUpuoFDwHfO2C4dO0EBKvPo88wTQwto_NK_BKaj5u7dui0FsUvYs652eAk_Hc4MOpugpA4_gTXzeJt0zOrN1-yylRdP_XG1Nh5vmDyUPC0esV44z0aGlAiv0eU4In0q-DHpRuJv73jYm6kuTgdpUQ8AKzllCqKtY/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COLLECTION .s",SKY CINEMA COLLECTION .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/jK-3ByhLMwX6d9osCFaaFQhI97c4NZcTPW8yM3tUI1htk6-X3wimhJa_wsYbX_Ff55YGk_afzoWkoUfNedS4x51Lw0EImMGf495slBYyKYEwSRfNqObLlV4FkmNwoS8o94MWeXJbPYcyaQTRxIQdUCck4Gk8MfeKPEuxOt9GUTO7ORtfj3IupR5fWHWh49kO4EQr1_tR8aY7CxCdpXyHtVRN55zTzjFbI8bMM4vsFzc/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY .c",SKY CINEMA COMEDY .c
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/v-0DtTUpG55sv5lDcZWWYFTAFpCyPSJm3hDQQ59j_8XQNAueMF9u-0d0vqo3NJHO46wz-bf92-YTCFG-sFJsXP0EJCyOa8chFcw8oFLbLSVyiuLVZYUovi-pPPebcP1FEAZ_c7pOlerqS-BWhEWiVrFfBhettpLUO9moxzrNq-0NwcUCPuXW6-0jp7ThJczAb_AJqQCnLexp3GqdquZnoEEsfpLPKMsANsKdpDAWCG4/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY .s",SKY CINEMA COMEDY .s
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/JcLa571IHNntuww1En55eHDjVmnj1NpPb2T9v19Beod1kJYOz9oRvocdw6rnBGOvYf59E-jbOegpo9X-Xaz26CIbGJHwN_8oa9QQKsTQvC_0ghWR5FjUkpiXqS9IWoMVZ5WjIl6fYTleQfLsT7-HZAD8fWh24D1PieTsVMwJmNOtP-moeHHrrf0DMy_3UJzcYyhRrIEtGhJi_BeBsxNjgq0XbMxK4n60_xZy9epuuqI/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DRAMA .c",SKY CINEMA DRAMA .c
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/ZSRUaXTOHYlH7rG5fTUfzVz5uWbk2FFLqW6QxTPGmeFS2lUdanMqj-3HIKCQ8ELZ61R-pIeDWi9tuCRHDDWTRQft-wIbFk_CH5x8qoMK7xj1EwULaZPhJ51fz5UeQg_LmRiSgl-SU7gE9TAofWTyR-SBuESxYNaSNvg6lMjANB88GcUWpHGPDEyr3VTBRYxQYmuNO1fr2ZeWIsi8AC269WTAqIqOhDdbSEe-2q9RwGw/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE +24 .s",SKY CINEMA DUE +24 .s
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/QI7zJsD9UdVjGq4BXRUOK1uu_lv_4P03mIo_XB066JNcah3tjKLTW1lU4WKfib2xCJcCNnVC9Nl8VP9RefIzjByDHLhYGweu546-cp4T-wukM4EIaa1EeF894TcL4ZAOvTx4DKA4LZMSTpTckZxtfDSJCIkDoEg32vaDvNA2aaIcHQzu2fB_9bLuOoIVP9yWKVtdy7-MmicST9rTBSB_BS9X8K1jubWCo3fstj1D1Xc/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE .c",SKY CINEMA DUE .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/E9LOgfeHKr7hIpu5eHjhyOc9RqyXAgo_mCud9NG6GhwdbjyONlW2qd-H33QxHhIfbWm6u-YMHaOzQTS-RurKEYISnLaBnYXlWLAv-ALgmczTwRGhvPqXkSOysGcCmX72BdLIgDqVMhM3jgi6MbjYKVquVvRoA8iuO7If34_43Y5aYPTTQM66qGFCg3k3G2hQez-gXt7QRoy9ly5PewqjcDoqunHfH_RDw1Cjvqi7rpg/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE .s",SKY CINEMA DUE .s
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/FxMvvgVvRDOvH2ike7AGho8RLV-uC8sdakf-kXW0Z4kxGGriJhppBWa9onHfZKep9PORj_V2KQney1ZTJcj9DuvIM4Z6ZUDzlBeI8Xj4yxcWuBHzr4iVGzt5AjTde_6qP8riNKu5QZsv4rlyoFvT1CKKpNazWtwSrwfBCae4QJxDcqZhhzA3pzr1fQIajG090pyVvAcO_Li-Lzz2GBjru04DKlBpclgm6uXuPtxgIq0/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY .c",SKY CINEMA FAMILY .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/3mruHNGq5XRkz7SnXA37GS_ziC9i1Op4aB4_bmJLMBVUQ9cOFxh5qYGZWIVRBReEVYpcHvSTFci6p3Fz_wYHriAmiU5Px4icM3OEHQ5NemqzQdo0Cw0No2sKO-ovYaqWzXbO5YMyawfKTcq1j-oEYZxVOAPnOG38MsIm6E554TWiH5IXn0sN8eNLZUvPsCxQuXN2jbwTUm_8tusKlCamOiBAiv4sD7ZER1HlQlFnNvk/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY .s",SKY CINEMA FAMILY .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/iad7RSXgynM7mlnOQ6QCkuZur0gQ_2hOAc5xUU-tOz4uOflJSNTldvQTvtsA0x6K71RakXoaCuvIOS_32Ksck-EfVq5D3KszLU5JN8C2IPYfY9BGBb6CUDgiFHVzlTIQBMh6dV6fLZ4hduCq9Ml1ZSXfV6Kqg6dyubNS_v8rDZR_vV_I2qRo5O2WgoMWlLgJCxFmIZPAttD4esgTu1rflu8q3YSirvwXsl-73mEODvs/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE .c",SKY CINEMA ROMANCE .c
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/4y012mNA0q9H_br9XWg3yo7hygSJ7_kdx4Bnc8G_ADh-7Gfzpe1RWeGaWX1Jok0LsH-0ia5sjhaiKpKZgBgaRb8-9txADh_btkMzSnfCvJUTtsbPRPsyQuOqKqgjzfQSY7xPfqWh4y69og8gx1tcK-1aqX1cgabByhQYP_A1w-22CwfYUWntWQomoccXJZG_mBeNTRPUUqIU-KVYNyIjJvomOPEKAkNm4_ljBI_Tbxs/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE .s",SKY CINEMA ROMANCE .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/0bXQSzo0_hmW9ZMZ8oJk3eQ2vXJO_XAgmr2qndGvU8RuI-1ctPUWMVRKxUZbXzRgh0DKDaBxbWCZgvNMyOazs1uV3tLbh0zrSd_Ikv5-z62d41lgluASYoJQBxe6LLXMrjioQb3CzBcTyC9i-bOXkFvTzODwIjpXrQC8NYc14nX5T7Rmq3yefWTN8geTlW1r_EVqHuk86i9zlgpVRlELnOfqeyXVAD6Ws-0AXHyPSNA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE .c",SKY CINEMA SUSPENSE .c
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/bFwmP9ZPVIzgoInzz9qHxdjUlmbSW0EA3H8b0Ohl5wW2Pf0Fkl4Rwz52nHo9TBRNYKlcvTu9QUTrmQh25B_4evSS_c78fQ_eUIpoYdGMCNs9jzyRQpFWF4mQdlZ8rWjoQUTMna6s3dKHvvbc3EppbP32Zn2rxirnTXcmoLGRgpkFgovblSEgBJiz1Mv_tAow1GkWjFObEv_sdipTrnEZfqcM-kav5Y1gBv9wh5jd0Ns/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE .s",SKY CINEMA SUSPENSE .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/E8-M0TbtBVVkKrf6qqzy4tGUMTJEqLHWbU0daBgker4zuosFRJvKCYbpqBbLtogK1U-7y-CRmqOuYC-5-_qGt0b_vPsB2q6QWgNIVv_sxfSGTq0iVIh-0e-5tD8TF8ETwfMCz_sXKQdtZWui-rZYLOOEUPMq9L6jiaIRhErnAGpDQkDDyjY26eT1kcvcphqdwRplWWgZV7sJoAg7FT2dnXbVkvDsOtrh7n86dAmL7Vc/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO +24 .s",SKY CINEMA UNO +24 .s
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/PiAwCWSvG6CMIH-1Nddne8Qpk1B_ZTS6iJys7hPqKjnB7dn9QqgY3TQJL4IyQKqbZ-OXNQE6o-x_Y1s_6K8Oeq7AzoNbrnRJzsjgNW_CP76PI2B6WaD7U01sL4rSdyV7XQACLUfVqrW0DpTlHXLtcdibAd5qpbl5ktIL4Fc3ltcvR0jBJ1p-B_mlzhNZsPDzGcyPbGnu5mUsv0GvuMwfjg6nLF_O3GKhMf8XAxezHBY/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO .c",SKY CINEMA UNO .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/tNQArYEpL8S60iCEYaD-sKEUyAUZo8n6CwXk9vSQzgtw93BdEGKXrc5dRAPb-ROnusCbrCMqHUADMXq4hIARPJzuDiPT6X34X0hgbxGiQlf5bMLbMgNLi3ae2ICWGTNIfdVxKL6806z9iflZ2Sn8v7u2SYvc5UIo5f0MmoX52Js3jBTLU9rLwSEq8WJn19sNdWTSj-G12cj4ETzr1iiiebJdM2hduoK1rDxMyZu3NMI/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO .s",SKY CINEMA UNO .s
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/y_TlACrSS-zl50A66LORV7j8D-T2pLytM8gcezc3nfR_aDlUmxOusONzn6SeqvciJs7ceVyAinGIsm6IMQyer2YhA5KGU_KltAtZoGPl-_k0j8Ja7IbqWkRoWtyAJnvJJfyPoR96hp7O1hK1GcmCu3n9XEuPf87ynRfBm_qIG218u6CRCh4j8tZVtlkWIeQuq9Yl85a7-yTsFI-FWZ-tIQ7namT86JgP7RTqs19am9I/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY CRIME .s",SKY CRIME .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/hdAOV_oBEgtPO50YhcIR_2a0Z5LAXu3OSPqYpxWevEVmZBeAKyGyiUiuC1zUrU2Vz5LQbbdcBtaM6AznLnlQW7tVvcBDiwcYFc1lV3a_imTjk1IjVEQJOYgm2zuwrBb6KMJNZEg48i-F32xuVMfKHigbbzXSOCsyvfESpqv75XywEzUPZcldju6rUofEKO8un02wF7t0TyaF1KR41OFkXwV94GRSHWZoI9L8WfLr7R0/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY DOCUMENTARIES .c",SKY DOCUMENTARIES .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/cadutI3QOghFlhFNOX0D8oFXjAPD2enNeV68m6XQhYxmIa_95O0W4SLRsxEnxIQLFuo3D9aq-4jd4eTC-wtW6leemIPjseEPkKunw60X4zukg2tgw9JHLsXFHeRga1TMihmlhPxSeFoXJ65Iw5lsQJDvpWSwRuMiL7cm_lvkgoGDXkb4UhQc-F7aijlDvr7s-UIGzt4oHBTdpTA94eLensDgBPkVAsHjEspOvDwkVyc/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY NATURE .c",SKY NATURE .c
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/xOH9Rwp82OMTksN4x5RJZTweszWWOVwFnEeVY4RL_oSgk571UCGO85piejvkV9butxqiISp7kAm3G7H25_QYf1Mq24yXvwG6oaAVKPP4CPsh310OkkFVIHcsmNxTh1avlc-0HSpuzpViztdHVOA1rWx8S6OtU5UfUYxvRKGDqII6HIYGuCYLRtN4X4wDkB7ZV3GAAjXg9YquB29IYqN-lmiE9M4j3b9xywkEcvrMHIw/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY SERIE .c",SKY SERIE .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/SkmLUeTEK99QqR1IYXrYxoN-dkjkkmJSO1fvJbVqXKxVUpFjIFONuKC8X_yjMgAMNnJnbqXYhn0toNQjddY8WO_Iv7fpaqIqYIUnKYlfd6htDMqNhsSay-ZovMrsxaUGD8ZhwTJRYBplU-eoKh3g5EonRt7UbLnxnw-gBxCQ2oBv3E0iy_MI_UMvABeLSBk0QrvSAzi3SOYPxMhxEOI1hIGKvaFDSW4CniC4qOXrDkA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT .c",SKY SPORT .c
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/aFu4SMv2waWidAGaLqjNsKBwuNiELG3Dgmb_HVYEJXQ9IWYAvZ1nB4_PsM8fYKTkruXhmOm0aFkGrWcHYqhfErHMLMSx77ToJrZkEl6s7XxfFYtTfINqIhBqL1sBzLyYB8GPtin8h8q7hnz550aWoJYKjAC0sAzjHPIX7SLsQEir9QHqlclXTr9QFmtrO6nS49GjB1GxY6ir97zG0-EQLLAL_kS-yCU8BPLALqG1qV0/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA .c",SKY SPORT ARENA .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/QUGVa-EQ0wkfj6Y9D4mgTPULtdgObrL-Mc6erWnadyHDF0NW9FEFCwFmRAYKCwjsg2Zll5D5VqaDjVrC47my5J1kNAz6peDPWNsx5AaW-KLA02eXYkHKgBkrPYPaUBgxFFXGQd5wJwpKwF8dgl1OKeGRlz4Jos9tXndv_J-cM7A-IJX1fFajXYvHge9cYKtL8O2ZB_KxmM41bk3F_CnXjDThY4VyFnFgdXcmfUoIlCo/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA .s",SKY SPORT ARENA .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/tmIabncSvHqT4ZMUTUyMuD_kzpTr9Ly8p_XiAgFSfMJOCcn9ILBiyWU4fbBdmKXh87XKZqNdfKPr5jAEhYVItfy9ad7MeMPBivAp0DptOu4YMgIyhb4nwHvxPv6ekiHfPSe5Vcl6OAqhXM05wylom1ZQ9yGYGNv0AnqgEh9lC0l9Ggdu5KL-tLrOpsKWPZNlGBYWpH9NCb3mXF0DweLft5E8D6ndOomOwjFY3KN53lk/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO .c",SKY SPORT CALCIO .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/_5rYPSHzrD0c9TIWbrHbXhYBfj7N6vqvN3xdOZRLvjSPxrMHNsNUQN3bVLkujYJN9bPJcClydb6igZeB21S5Liow4LiqeCcgv2wwJqpluKEmbcrfbtHYKXIr4a9c9MxfY_rRAgh6yMuhUFBDHuuhFees_dQ5cJxKuRw075mcMcubaRRbtkposwkvkioXhw6G4SQbQ06fF8IBLJIOc1MzrSVJzjH2Jhp_mEh0g5_cd3A/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO .s",SKY SPORT CALCIO .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/mNguDFwiYYSnw84ATPiYx1_arAOuZyV7HdjiLtjhYDtu3DlfKs8M5Pe6QKgqc0ymX3l8SzGCIYJf6Erj_Z1AJ-vw6bht83n9SWOVbXvwxfcEfDPgaQ-V7LaY2VkajZW5G0WqDjyxxS17Y5cd6QRoHyFMHz2wyqjON-BrKr-dC9v5sZoa65qztP5-jq_5ENIhjo6LK_3IGloJzYowzM2TfCRzH3P4uGbKqRNnzaTJ_o0/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT F1 .c",SKY SPORT F1 .c
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/qBNt_5jfw1ribKlDsQFcSOheqPwMGmaAjrWhnj2LT-DbG0tceYokwdCqIem4IuVoAH6rK5FQQt-S2mrz9uC0LWNI6ZA5U7wgWBt1ANa9SFcHQrBt8oht3ux9yy_Z00rIGWuNN4VcZaFUEiGkaUhW02s2lvwFfZh1UAOL9JaN8_qwJBCfXf61CYKSgDZ7zPRls5Dv9H-PUfwuMmiDdMDx1m_r96yBeNpCGvfPh-3QH08/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT F1 .s",SKY SPORT F1 .s
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/JmLqsO5mG-WJKbRrUoJaIVLORNna0DykUk5QaeNKDSwKTc7yf3v7JAA8hfS3fCeXSI634aYdmPHoTXXbfxkFtcqbLQEO_ROY3I9j2BLHUqwjLDScxrzgCmNSPoZ-KvIdI2zAIg_gAoPJelxswbUxNLh2hEHnHQITZ1o0pWWvFe2GQQge-JZgGQYCJANaX-TZfWx_Y8B_GJs7m8WIH1KdFNZ0FOXN7-zUO8lV6spWEXg/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT GOLF .s",SKY SPORT GOLF .s
-https://vavoo.to/live2/play/3897711086.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTYxMTIxNDI3NTAsXCJ2YWxpZFVudGlsXCI6MTc1NjExMzM0Mjc1MCxcInV1aWRcIjpcIi9xK3Y0MENWT2kyMVZiTUFPZTU4NDN0RDAzeDhYazlVNEo2ZFV2NUNDU2M9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE1MS4xOS4yMDIuMjU1XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJGZWdJdWxLWDA2TGRLRWk5dTJLaVFtNUk1Qlk4NlgzRmhwL3BJUHFpRDlKOFRDTjNmSGs2VkxicEc3Ky9uNlN6TjNBRDZZOHVRZlFVdGhIWUN3L05XeVVaNG1ieEo5bDhMSDNPV08zUlhnNHJuK1ZpQ0VRb3o5UlhiZUVxNkxxZEZlU1BlWS9pdHNmeUZHSkpBdTl4cnM0S2Z1ZjlIcloyaHFYUDdyRkRaVWc9In0=
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MAX .c",SKY SPORT MAX .c
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/DZgfcqMRQszsQcrn6I3UO7lJvzY7mTUNlVUlZu-46sEG3FrrX9odWrt5rowwK-k5mIK5dU4UsnA35f391MG8KhFEzJRKsxmFMXdlLA2OA81oQjOQJElz6mQhwayEWUiPpGCwlGJ9WF1mKTdl7_C5XLAECE5iVpeuE5TBWMNmauW03IZduFG9Sp0HU9oqykqh-kUKAQNXW62skBRH-YrBAQ3rWztjuDs669qDIVcegno/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTO GP .c",SKY SPORT MOTO GP .c
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/RUqLAs3KjfO8vfGhd8fCn_gRZZMV1W5g7kEvJOqMpfrjRhczDK2h83aTZ-4oKoS78ZdHc8Xe5YhdiWNc9_l2gMUxoxMbyeZp5roe_DaXbLkZInPSLLvG46sVbIw8YdEEk0VV6GBJcgIr9x0LKN85CAVImqF3huROEuJ-mmXDuOe0tN2UjpcLuVjBn8XoY8HHGyztE68EWXoPPF90QaP5lUj53BNj673aJgOpcZWMUEc/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTOGP .s",SKY SPORT MOTOGP .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/IKgoxrozsoYltQ_j7AreDSBjC8uUXnJkbph_RIIV02BL_-LpeaxCzGKid7aWByswF6h9hRSQYZULFH6-HKoQDzQ4wm-zaAWUMJm_hkxRza5VG3J7wZ-fgn-Zqc0hHaYlAonclrjbcCCChjKedRmQaXS7cOyypMPAnTuxfzAc9-2jFLc4C3n1J2p53io8p6eDnFYhc7ZtqjB-rTDbjjl_VNgcyFgZXYe0U-thEO6Mi7M/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA .c",SKY SPORT NBA .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ONLeyrYOH8dCKRcGPE03lT6FJy-6jFexIvxl-Hz0btyxHtvF6wyZGxafTsKvBXkOOIjbAZby62l9kY19FO0gkiE6OhIKqyhRiQebjYQpMdShFJXHmmQ9bFC8g-bMRmxArKDzBZUZAkLgwjYhqdqCfYcJqfqtOjXpa8S-RhJ0Vvjuto8wXE61qlJ7BQYItZKxYwFWGvZfQ0sINUNoUst2omntrao8K6MD6WS0VpeYteY/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA .s",SKY SPORT NBA .s
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/X8eJMv8KHzZL7eNnkmYhtDXPbzD3eiPHZ45ayih01cQMjGj-VG14N6FA62fnCjfxDZLLOhSu36vt1hrRiXnntiWROuL4tSWzDYlv52mRwsfPy65NC-FctpdUX5SlIMMRymD3BZEiQQ3S_s7Y6LNKsqwBPXqVc_5SJ38X0DiIWSZ8hUIrATxMfrNtX0Z4jcxqGSQYl9jGGAWNyFtYQc9-b13itWJovKwhi7rNbfnUPyA/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO .c",SKY SPORT UNO .c
-https://vavoo.to/live2/play/210669162.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3NTYxMTIxNjM1OTgsXCJ2YWxpZFVudGlsXCI6MTc1NjExMzM2MzU5OCxcInV1aWRcIjpcIkZGQ3pHcjh0YWJWNzBuQU9oQjgveHFUbGo4dWt3aXJSbWpzaS9rdnI4Wm89XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjE1MS4xOS4yMDIuMjU1XCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjZcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJHbmtsZnRRSlhBM084Zk45WVB4eGgvNGpFSzZjanZLaGR3NjYrNi9ycFljbmRjeWw4RWE1TklTR1dqTDBoN1NWeEoxQ3d5UTdhQzN3SmZacENDWXZWUFlISW9McEhkV3RpMXpmNVpIczFOaWZKeWlza2NtOE9tWCtHQzZNWjExTGdrUFlLMFFpeFpCd0hVRWdWeXJ5MTNFWHZJYVlxZ3VwMzBWeVFOalAwbmc9In0=
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO .s",SKY SPORT UNO .s
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/HHkvhvJWCWSofr-tyzxlVb3PbyLloUBODrNqKIGdoE8SeWrR4Y3W8lXbiurF39TziGSc02dULajJ5B4DOnsWsMQrBcKoqgwTfXItX1kX1siA1AdNaWWfJvljDuJFah_Iqw5ehRUZPfORmJ-Ibojh6wvYHvPuF8zae37v_TFNUTz4RPdNzeVKWSaaH2z7yIymisRRgNWgu1yHkHmt6rBeYufXI9HZ0AlGu8Dg9aLtrUg/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 .c",SKY TG 24 .c
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/GqpU37TlaFwj5DAXHhdxDEfcQC-fAitT1uCjXss6R8VAfIH_1JgYuZ1j2-zni0bh-2BhAbjCTnwVV1LRUsGEW5R-p6vtdZHWzR7YSHS0hKlUAz4efapW_hYl2LvC-9xSbTyYF4qMlnFxpMrwPrljKmy-mXYLk7690e4Mhprz3GqQEN3fmpFw5XPW-31Uy-FAoOOqq0rmr_KCuApCqRiJZg-HhU7_4g8JfVDZSYyEVXY/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 .s",SKY TG 24 .s
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/dLQ3c4dZGRxypEG0MWeJ_00_-P6KMvXTr3SKikBxoCIidLsbuSBwsJ_DojHmGDvsvkLcUZWq_A1QDNQE7v-ebnzeISpKBPKqnHWPHGXZZXaXUG1gOoMNC_R_aeH9C4Dw2RW9wwf15VpxEJMAoulTKhXjkbmKXSQXkCccRWnRlGAeD3_Cb33u1LJAkOQWqiSoVo-lUGztviFvGbgOag9a4uqWROmQmmtFefc4niMrk38/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO .c",SKY UNO .c
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/thOLOIktDSWjR-OQVT8Cvkgof45yZQBD7GIM_jHKtwEWXjRvvoD2MRLIBC-ZLNUt7h33Lql0pO_mriLroi7kmIJYl56eLhYDrMLFY_4WdC7QZzRedYrdf6l7T7j-v5PGTB2B_J_H7jTrsxZ3KYtr-Ub2SOsKapap8uLca14MHU4r347hbRYcik6WnXUFCn9SKfbXmOv2seCpsn2ttru8iRKf8ZAUaMva4oPJ8tOjdHc/hls/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO .s",SKY UNO .s
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/UghC16EGxNornmtKb03HiVvTR59NDGNT2b0RUwqQb3xjfLrUUli8JQqkU7IImy2BG0vuzHgZO1V8C7PsdrXYfr73oaWjo2LitGauX4u1zyg0H7uz-Q6oou6Yysu48Do11T30D8-9z6MilpoN9uRzkVzB29B8IKABEyau6pSu_DlisDYLY9BwYvxj4Qsqa9SscCkaDC6HNQfBIjJrEq_5gLFxfI-NODZQkWbpLJmMLdI/hls/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL (7)",COMEDY CENTRAL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/433893159/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL (6)",DISCOVERY CHANNEL (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1955739367/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="DISCOVERY CHANNEL (7)",DISCOVERY CHANNEL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3554841914/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO (6)",NAT GEO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1735702308/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO (7)",NAT GEO (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/179844839/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD (6)",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3428501495/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="NAT GEO WILD (7)",NAT GEO WILD (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3229664409/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE (6)",SKY ARTE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1806815496/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ARTE (7)",SKY ARTE (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1902695925/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC (6)",SKY ATLANTIC (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1421393119/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY ATLANTIC (7)",SKY ATLANTIC (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1482866609/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (6)",SKY CINEMA ACTION (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3812796171/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (7)",SKY CINEMA ACTION (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1144128726/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ACTION (BACKUP) (7)",SKY CINEMA ACTION (BACKUP) (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2242741766/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COLLECTION (7)",SKY CINEMA COLLECTION (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3525837057/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY (6)",SKY CINEMA COMEDY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/500203271/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA COMEDY (7)",SKY CINEMA COMEDY (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3131104474/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DRAMA (6)",SKY CINEMA DRAMA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1235530177/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE (6)",SKY CINEMA DUE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1228534500/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE (7)",SKY CINEMA DUE (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2330574729/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY (6)",SKY CINEMA FAMILY (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/415795144/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY (7)",SKY CINEMA FAMILY (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3216516117/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE (6)",SKY CINEMA ROMANCE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2890008905/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA ROMANCE (7)",SKY CINEMA ROMANCE (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1281264885/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE (6)",SKY CINEMA SUSPENSE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1820997555/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA SUSPENSE (7)",SKY CINEMA SUSPENSE (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3060043751/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO (6)",SKY CINEMA UNO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2872151911/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO (7)",SKY CINEMA UNO (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1759625738/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA UNO +24 (7)",SKY CINEMA UNO +24 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1699876530/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY CRIME (7)",SKY CRIME (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1968339149/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY DOCUMENTARIES (6)",SKY DOCUMENTARIES (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/464281981/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY NATURE (6)",SKY NATURE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3810188456/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY SERIE (6)",SKY SERIE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/836680112/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT (6)",SKY SPORT (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/924661659/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA (6)",SKY SPORT ARENA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3007400791/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT ARENA (7)",SKY SPORT ARENA (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2555960713/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO (6)",SKY SPORT CALCIO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1665920101/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT CALCIO (7)",SKY SPORT CALCIO (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/449990998/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT F1 (6)",SKY SPORT F1 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/4246774056/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT F1 (7)",SKY SPORT F1 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2289038972/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT GOLF (7)",SKY SPORT GOLF (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3897711086/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MAX (6)",SKY SPORT MAX (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2066326916/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTO GP (6)",SKY SPORT MOTO GP (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3036316886/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT MOTOGP (7)",SKY SPORT MOTOGP (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2090703806/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA (6)",SKY SPORT NBA (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2711959620/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT NBA (7)",SKY SPORT NBA (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/326825326/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO (6)",SKY SPORT UNO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/210669162/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="SPORT" tvg-name="SKY SPORT UNO (7)",SKY SPORT UNO (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3192996672/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 (7)",SKY TG 24 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/318057128/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO (6)",SKY UNO (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2130523218/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO (7)",SKY UNO (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/322024849/index.m3u8

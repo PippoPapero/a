@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL (6)",COMEDY CENTRAL (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3658277450/index.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="COMEDY CENTRAL (7)",COMEDY CENTRAL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -79,6 +83,10 @@ https://vavoo.to/play/1228534500/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2330574729/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA DUE +24 (7)",SKY CINEMA DUE +24 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1078650168/index.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="SKY CINEMA FAMILY (6)",SKY CINEMA FAMILY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -115,6 +123,10 @@ https://vavoo.to/play/1759625738/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1699876530/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY CRIME (6)",SKY CRIME (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3005227700/index.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY CRIME (7)",SKY CRIME (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -191,6 +203,10 @@ https://vavoo.to/play/210669162/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3192996672/index.m3u8
+#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 (6)",SKY TG 24 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3376031355/index.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY TG 24 (7)",SKY TG 24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -199,7 +215,3 @@ https://vavoo.to/play/318057128/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2130523218/index.m3u8
-#EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="INTRATTENIMENTO" tvg-name="SKY UNO (7)",SKY UNO (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/322024849/index.m3u8

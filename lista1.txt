@@ -159,7 +159,7 @@ https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
 #KODIPROP:inputstream.adaptive.file_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium859/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium859/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Uno",Sky Cinema Uno
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:MimeType=application/x-mpegURL
@@ -173,14 +173,14 @@ https://windnew.newkso.ru/wind/premium860/mono.m3u8
 #KODIPROP:inputstream.adaptive.file_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium866/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium866/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Family",Sky Cinema Family
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:MimeType=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.file_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://windnew.newkso.ru/wind/premium865/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium865/mono.m3u8
 #EXTINF: -1 tvg-id="none" tvg-logo="none" group-title="CINEMA" tvg-name="Sky Cinema Comedy",Sky Cinema Comedy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:MimeType=application/x-mpegURL

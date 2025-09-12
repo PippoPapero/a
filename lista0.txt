@@ -88,6 +88,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 group-title="Rai" tvg-id="RaiYoyo.it" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png",Rai Yoyo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 group-title="Rai" tvg-name="TGR Sicilia" tvg-chno="499" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png", TGR Sicilia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668707&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 group-title="RSI" tvg-name="Rsi La1" tvg-chno="500" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png", RSI La1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd

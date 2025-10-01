@@ -3,8 +3,16 @@
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 #EXTINF:-1 group-title="Altro" tvg-chno="029" tvg-id="LA7D.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png",LA7d
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
-#EXTINF:-1 group-title="Altro" tvg-chno="036" tvg-id="RTL102.5TV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png",RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="Altro" tvg-chno="500" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png", RSI La1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 group-title="Altro" tvg-chno="501" tvg-name="Rsi La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png", RSI La2
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 group-title="Altro" tvg-chno="008" tvg-id="Tv8.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 group-title="Altro" tvg-chno="026" tvg-id="CieloTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1 group-title="Altro" tvg-chno="050" tvg-id="SkyTG24.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
 #EXTINF:-1 group-title="Discovery" tvg-chno="009" tvg-id="Nove.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
@@ -84,21 +92,5 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 group-title="Rai" tvg-chno="058" tvg-id="RaiSport+HD.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png",Rai Sport + HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 group-title="Rai" tvg-chno="101" tvg-id="Rai4K.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png",Rai 4K (HbbTV)
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 group-title="Rai" tvg-chno="202" tvg-id="RaiRadio2.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png",Rai Radio 2 Visual
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 group-title="Rai" tvg-chno="499" tvg-name="TGR Sicilia" tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png", TGR Sicilia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668707&output=7&forceUserAgent=rainet/4.0.5
-
-#EXTINF:-1 group-title="RSI" tvg-chno="500" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png", RSI La1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 group-title="RSI" tvg-chno="501" tvg-name="Rsi La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png", RSI La2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-
-#EXTINF:-1 group-title="Sky" tvg-chno="008" tvg-id="Tv8.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 group-title="Sky" tvg-chno="026" tvg-id="CieloTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 group-title="Sky" tvg-chno="050" tvg-id="SkyTG24.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d

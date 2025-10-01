@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Altro" tvg-chno="007" tvg-id="La7.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",LA7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
-#EXTINF:-1 group-title="Altro" tvg-chno="029" tvg-id="LA7D.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png",LA7d
+#EXTINF:-1 group-title="Altro" tvg-chno="029" tvg-id="La7Cinema.it" tvg-logo="https://www.la7.it/img/la7cinema_pal.jpg",LA7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 group-title="Altro" tvg-chno="500" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1280px-RSI_La_1_2012.svg.png", RSI La1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd

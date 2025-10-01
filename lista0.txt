@@ -3,9 +3,9 @@
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 #EXTINF:-1 group-title="Altro" tvg-chno="029" tvg-id="La7Cinema.it" tvg-logo="https://www.la7.it/img/la7cinema_pal.jpg",LA7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
-#EXTINF:-1 group-title="Altro" tvg-chno="500" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/330px-RSI_La_1_2012.svg.png", RSI La1
+#EXTINF:-1 group-title="Altro" tvg-chno="500" tvg-name="Rsi La1" tvg-logo="https://il.srgssr.ch/image-service/dynamic/7156bf6.svg", RSI La1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 group-title="Altro" tvg-chno="501" tvg-name="Rsi La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/330px-RSI_La_2_2012.svg.png", RSI La2
+#EXTINF:-1 group-title="Altro" tvg-chno="501" tvg-name="Rsi La2" tvg-logo="https://il.srgssr.ch/image-service/dynamic/f732e34.svg", RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 group-title="Altro" tvg-chno="008" tvg-id="Tv8.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d

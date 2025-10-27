@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RakutenTvBabySharkTv.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/dc09b67f-ecd9-4ef0-81b5-abf2f63ed26e-baby-shark-tv-1643365877.png" tvg-name="RakutenTv - Baby Shark Tv" tvg-chno="3200" group-title="RakutenTv-Bambini",RakutenTv - Baby Shark Tv
+plugin://plugin.video.wltvhelper/play/rakuten/baby-shark-tv$ENG
+#EXTINF:-1 tvg-id="RakutenTvPlanetaJuniorIta.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/03bf675c-ff07-40f2-a074-e37f4694b352.png" tvg-name="RakutenTv - Bernard L'orso" tvg-chno="3201" group-title="RakutenTv-Bambini",RakutenTv - Bernard L'orso
+plugin://plugin.video.wltvhelper/play/rakuten/planeta-junior-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvCarCityAdventures.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2b9ffb5d-1e8e-4fe7-9636-f16f6d8b49b4.png" tvg-name="RakutenTv - Car City Adventures" tvg-chno="3202" group-title="RakutenTv-Bambini",RakutenTv - Car City Adventures
+plugin://plugin.video.wltvhelper/play/rakuten/car-city-adventures-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvFamilyRakutenTv.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/572b42e6-e483-4850-bba4-c0a0196562e6.png" tvg-name="RakutenTv - Family" tvg-chno="3203" group-title="RakutenTv-Bambini",RakutenTv - Family
+plugin://plugin.video.wltvhelper/play/rakuten/family-rakuten-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvFilmriseForensicFilesIta.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b1c15fda-ebd8-47f9-b77f-7cd64eb593bb.png" tvg-name="RakutenTv - Forensic Files" tvg-chno="3204" group-title="RakutenTv-Crime e Mistério",RakutenTv - Forensic Files
+plugin://plugin.video.wltvhelper/play/rakuten/filmrise-forensic-files-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvGamberoRosso.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/12adf0b1-bb27-4cf1-b5d3-3e3186c1a726.png" tvg-name="RakutenTv - Gambero Rosso" tvg-chno="3205" group-title="RakutenTv-Cucina",RakutenTv - Gambero Rosso
+plugin://plugin.video.wltvhelper/play/rakuten/gambero-rosso$ITA
+#EXTINF:-1 tvg-id="RakutenTvGustoTvNew.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f2a786f8-023b-489f-9529-1b6dbb0904fa-gusto-tv-1652347326.png" tvg-name="RakutenTv - Gusto Tv" tvg-chno="3206" group-title="RakutenTv-Cucina",RakutenTv - Gusto Tv
+plugin://plugin.video.wltvhelper/play/rakuten/gusto-tv-new$ENG
+#EXTINF:-1 tvg-id="RakutenTvCgtnDocumentary.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7ebb7426-d0c4-45fd-84c1-27cea41aaca4.png" tvg-name="RakutenTv - Cgtn Documentary" tvg-chno="3207" group-title="RakutenTv-Documentari",RakutenTv - Cgtn Documentary
+plugin://plugin.video.wltvhelper/play/rakuten/cgtn-documentary$ENG
+#EXTINF:-1 tvg-id="RakutenTvWeatherSpyNew.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/bfb62e18-ecb5-4923-8337-f74abec8ecb9.png" tvg-name="RakutenTv - Weather Spy" tvg-chno="3208" group-title="RakutenTv-Documentari",RakutenTv - Weather Spy
+plugin://plugin.video.wltvhelper/play/rakuten/weather-spy-new$ENG
+#EXTINF:-1 tvg-id="RakutenTvWedoBigStoriesIta.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3ab29db3-e1fc-4f48-922b-fabc5429870a.png" tvg-name="RakutenTv - Wedo Big Stories" tvg-chno="3209" group-title="RakutenTv-Documentari",RakutenTv - Wedo Big Stories
+plugin://plugin.video.wltvhelper/play/rakuten/wedo-big-stories-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvRisateAllItaliana.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9df17feb-82d6-4cb2-adf5-f81691633c23.png" tvg-name="RakutenTv - Alberto Sordi & Co" tvg-chno="3210" group-title="RakutenTv-Film",RakutenTv - Alberto Sordi & Co
+plugin://plugin.video.wltvhelper/play/rakuten/risate-all-italiana$ENG
+#EXTINF:-1 tvg-id="RakutenTvActionRakutenTv.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ad61d914-07e1-48a0-ac06-376e3458fab0.png" tvg-name="RakutenTv - Azione" tvg-chno="3211" group-title="RakutenTv-Film",RakutenTv - Azione
+plugin://plugin.video.wltvhelper/play/rakuten/action-rakuten-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvBizzarroMovies.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c051d6f7-8618-4975-8051-7fbf8be18520.png" tvg-name="RakutenTv - Bizzarro Movies" tvg-chno="3212" group-title="RakutenTv-Film",RakutenTv - Bizzarro Movies
+plugin://plugin.video.wltvhelper/play/rakuten/bizzarro-movies$ITA
+#EXTINF:-1 tvg-id="RakutenTvBrividyCinemaIta.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a3bcc508-85aa-4909-8ce2-1ebe16f8c009.png" tvg-name="RakutenTv - Brividy Cinema" tvg-chno="3213" group-title="RakutenTv-Film",RakutenTv - Brividy Cinema
+plugin://plugin.video.wltvhelper/play/rakuten/brividy-cinema-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvCgCinemaDAutore.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/aee63bda-c0b5-405a-ae53-6068bc3b450d.png" tvg-name="RakutenTv - Cg Grandi Film" tvg-chno="3214" group-title="RakutenTv-Film",RakutenTv - Cg Grandi Film
+plugin://plugin.video.wltvhelper/play/rakuten/cg-cinema-d-autore$ITA
+#EXTINF:-1 tvg-id="RakutenTvWesternEPeplum.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/eca89661-10ae-422a-94e9-4bc50160306d.png" tvg-name="RakutenTv - Cinewestern" tvg-chno="3215" group-title="RakutenTv-Film",RakutenTv - Cinewestern
+plugin://plugin.video.wltvhelper/play/rakuten/western-e-peplum$ITA
+#EXTINF:-1 tvg-id="RakutenTvComicitaPiccanteMovies.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/600909a3-97ee-4627-a72f-cb18357c2e0b.png" tvg-name="RakutenTv - Comicità Piccante Movies" tvg-chno="3216" group-title="RakutenTv-Film",RakutenTv - Comicità Piccante Movies
+plugin://plugin.video.wltvhelper/play/rakuten/comicita-piccante-movies$ITA
+#EXTINF:-1 tvg-id="RakutenTvComedyRakutenTv.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/464c711d-9a58-4c6f-aa8f-1d9b63f775ae.png" tvg-name="RakutenTv - Commedia" tvg-chno="3217" group-title="RakutenTv-Film",RakutenTv - Commedia
+plugin://plugin.video.wltvhelper/play/rakuten/comedy-rakuten-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvDarkMatterItNew.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a91742cf-a88d-4278-89bd-33b34c779f5e.png" tvg-name="RakutenTv - Dark Matter" tvg-chno="3218" group-title="RakutenTv-Film",RakutenTv - Dark Matter
+plugin://plugin.video.wltvhelper/play/rakuten/dark-matter-it-new$ITA
+#EXTINF:-1 tvg-id="RakutenTvDramaRakutenTv.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee0f81f9-f72d-42d5-ba68-099c25af72bc.png" tvg-name="RakutenTv - Dramma" tvg-chno="3219" group-title="RakutenTv-Film",RakutenTv - Dramma
+plugin://plugin.video.wltvhelper/play/rakuten/drama-rakuten-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvSciFiRakutenTv.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/65c838a6-6797-4f62-a107-9cb53b0d132c.png" tvg-name="RakutenTv - Fantascienza" tvg-chno="3220" group-title="RakutenTv-Film",RakutenTv - Fantascienza
+plugin://plugin.video.wltvhelper/play/rakuten/sci-fi-rakuten-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvAsianCinemaRakutenTv.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b3096a60-e152-4af9-8e80-ea8d9ce87f45.png" tvg-name="RakutenTv - Film Asiatici" tvg-chno="3221" group-title="RakutenTv-Film",RakutenTv - Film Asiatici
+plugin://plugin.video.wltvhelper/play/rakuten/asian-cinema-rakuten-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvTopMoviesRakutenTv.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/fcff93e1-6a9a-4b4c-bdbe-527b74fcde17.png" tvg-name="RakutenTv - Film Top" tvg-chno="3222" group-title="RakutenTv-Film",RakutenTv - Film Top
+plugin://plugin.video.wltvhelper/play/rakuten/top-movies-rakuten-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvGrjngo.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/db97aecb-a261-4783-ad91-2285164c4df4.png" tvg-name="RakutenTv - Grjngo - Film Western" tvg-chno="3223" group-title="RakutenTv-Film",RakutenTv - Grjngo - Film Western
+plugin://plugin.video.wltvhelper/play/rakuten/grjngo-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvRomanceRakutenTv.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3224810c-d9a7-4e20-870c-f9d7d3eaa1d9.png" tvg-name="RakutenTv - Romance" tvg-chno="3224" group-title="RakutenTv-Film",RakutenTv - Romance
+plugin://plugin.video.wltvhelper/play/rakuten/romance-rakuten-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvTrailers.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e21ecbee-e7f8-40f1-a4b7-0747eaa93659.png" tvg-name="RakutenTv - Trailers" tvg-chno="3225" group-title="RakutenTv-Film",RakutenTv - Trailers
+plugin://plugin.video.wltvhelper/play/rakuten/trailers$ITA
+#EXTINF:-1 tvg-id="RakutenTvJukinFailArmyNew.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/417f6bbf-4b14-456f-8e6b-2d753d7e4c40.png" tvg-name="RakutenTv - Fail Army" tvg-chno="3226" group-title="RakutenTv-Intrattenimento",RakutenTv - Fail Army
+plugin://plugin.video.wltvhelper/play/rakuten/jukin-fail-army-new$ENG
+#EXTINF:-1 tvg-id="RakutenTvPeopleAreAwesomeNew.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2c13f2a2-7742-4510-8958-6d64f72e5da8.png" tvg-name="RakutenTv - People Are Awesome" tvg-chno="3227" group-title="RakutenTv-Intrattenimento",RakutenTv - People Are Awesome
+plugin://plugin.video.wltvhelper/play/rakuten/people-are-awesome-new$ENG
+#EXTINF:-1 tvg-id="RakutenTvRevry.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b33404bb-7a2c-4829-bcf7-2c0dd89dcf17.png" tvg-name="RakutenTv - Revry" tvg-chno="3228" group-title="RakutenTv-Intrattenimento",RakutenTv - Revry
+plugin://plugin.video.wltvhelper/play/rakuten/revry$ENG
+#EXTINF:-1 tvg-id="RakutenTvThePetCollectiveNew.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c7373c20-c6a7-475f-b389-1492e92457e2.png" tvg-name="RakutenTv - The Pet Collective" tvg-chno="3229" group-title="RakutenTv-Intrattenimento",RakutenTv - The Pet Collective
+plugin://plugin.video.wltvhelper/play/rakuten/the-pet-collective-new$ENG
+#EXTINF:-1 tvg-id="RakutenTvBrindiamo.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/64221926-5e74-449b-8a07-3769e3f6d6b6-brindiamo-1646234416.png" tvg-name="RakutenTv - Brindiamo!" tvg-chno="3230" group-title="RakutenTv-Lifestyle",RakutenTv - Brindiamo!
+plugin://plugin.video.wltvhelper/play/rakuten/brindiamo$ITA
+#EXTINF:-1 tvg-id="RakutenTvDaystarSpa.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/106a80cb-fed4-4ef0-be5b-dbe590a88ea4.png" tvg-name="RakutenTv - Daystar Español" tvg-chno="3231" group-title="RakutenTv-Lifestyle",RakutenTv - Daystar Español
+plugin://plugin.video.wltvhelper/play/rakuten/daystar-spa$SPA
+#EXTINF:-1 tvg-id="RakutenTvDaystarEng.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7347ca15-717e-4a4f-a767-9c2473eaf49e.png" tvg-name="RakutenTv - Daystar Tv" tvg-chno="3232" group-title="RakutenTv-Lifestyle",RakutenTv - Daystar Tv
+plugin://plugin.video.wltvhelper/play/rakuten/daystar-eng$ENG
+#EXTINF:-1 tvg-id="RakutenTvFashionTv.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/838ea64b-a331-4322-971a-3c8c52ac1124-fashion-tv-1643624523.png" tvg-name="RakutenTv - Fashion Tv" tvg-chno="3233" group-title="RakutenTv-Lifestyle",RakutenTv - Fashion Tv
+plugin://plugin.video.wltvhelper/play/rakuten/fashion-tv$ENG
+#EXTINF:-1 tvg-id="RakutenTvPerCasoTv.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5e45d6a1-4727-4a59-b0eb-e72d30ff40e2.png" tvg-name="RakutenTv - Per Caso Tv" tvg-chno="3234" group-title="RakutenTv-Lifestyle",RakutenTv - Per Caso Tv
+plugin://plugin.video.wltvhelper/play/rakuten/per-caso-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvStingrayNaturescape.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33122010-bbb3-4449-89d6-80de568178cc.png" tvg-name="RakutenTv - Stingray Naturescape" tvg-chno="3235" group-title="RakutenTv-Lifestyle",RakutenTv - Stingray Naturescape
+plugin://plugin.video.wltvhelper/play/rakuten/stingray-naturescape$ENG
+#EXTINF:-1 tvg-id="RakutenTvTheDesignNetworkNew.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/fc527509-8dba-4ef9-81e1-c143204ed49e.png" tvg-name="RakutenTv - The Design Network" tvg-chno="3236" group-title="RakutenTv-Lifestyle",RakutenTv - The Design Network
+plugin://plugin.video.wltvhelper/play/rakuten/the-design-network-new$ENG
+#EXTINF:-1 tvg-id="RakutenTvTravelxpEng.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e274a80e-f8ad-4cbd-b83b-02985eca9823.png" tvg-name="RakutenTv - Travelxp" tvg-chno="3237" group-title="RakutenTv-Lifestyle",RakutenTv - Travelxp
+plugin://plugin.video.wltvhelper/play/rakuten/travelxp-eng$ENG
+#EXTINF:-1 tvg-id="RakutenTvDeluxeLoungeHd.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c7d58e17-959f-4aa9-8724-eaf6f22ea2d5.png" tvg-name="RakutenTv - Deluxe Lounge Hd" tvg-chno="3238" group-title="RakutenTv-Musica",RakutenTv - Deluxe Lounge Hd
+plugin://plugin.video.wltvhelper/play/rakuten/deluxe-lounge-hd$ZXX
+#EXTINF:-1 tvg-id="RakutenTvNow70S.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9cbf62fa-4ee8-4f22-9cbc-21061cc44f3b.png" tvg-name="RakutenTv - Now 70S" tvg-chno="3239" group-title="RakutenTv-Musica",RakutenTv - Now 70S
+plugin://plugin.video.wltvhelper/play/rakuten/now-70s$ENG
+#EXTINF:-1 tvg-id="RakutenTvNow80S.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0b130f43-b13e-4561-94c4-0edc75c80e07.png" tvg-name="RakutenTv - Now 80S" tvg-chno="3240" group-title="RakutenTv-Musica",RakutenTv - Now 80S
+plugin://plugin.video.wltvhelper/play/rakuten/now-80s$ENG
+#EXTINF:-1 tvg-id="RakutenTvNow90S00s.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/46d363d2-b6fe-45fb-a2f1-c9c5a8b8c155.png" tvg-name="RakutenTv - Now 90S00s" tvg-chno="3241" group-title="RakutenTv-Musica",RakutenTv - Now 90S00s
+plugin://plugin.video.wltvhelper/play/rakuten/now-90s00s$ENG
+#EXTINF:-1 tvg-id="RakutenTvNowRock.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/9a82889b-3845-47da-a232-21a01e16deca.png" tvg-name="RakutenTv - Now Rock" tvg-chno="3242" group-title="RakutenTv-Musica",RakutenTv - Now Rock
+plugin://plugin.video.wltvhelper/play/rakuten/now-rock$ENG
+#EXTINF:-1 tvg-id="RakutenTvQelloConcertsByStingray.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/fb6d99f4-35ec-46e0-9870-2cfe97cab88a-qello-concerts-by-stingray-1651649672.png" tvg-name="RakutenTv - Qello Concerts By Stingray" tvg-chno="3243" group-title="RakutenTv-Musica",RakutenTv - Qello Concerts By Stingray
+plugin://plugin.video.wltvhelper/play/rakuten/qello-concerts-by-stingray$ENG
+#EXTINF:-1 tvg-id="RakutenTvQwestTv.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e416d800-d9aa-438f-a527-04dcaba97ec0.png" tvg-name="RakutenTv - Qwest Tv" tvg-chno="3244" group-title="RakutenTv-Musica",RakutenTv - Qwest Tv
+plugin://plugin.video.wltvhelper/play/rakuten/qwest-tv$ENG
+#EXTINF:-1 tvg-id="RakutenTvRadioItaliaTrend.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/df4761b5-47a2-448e-a8db-6f44e337c8f7-radio-italia-trend-1643622224.png" tvg-name="RakutenTv - Radio Italia Trend" tvg-chno="3245" group-title="RakutenTv-Musica",RakutenTv - Radio Italia Trend
+plugin://plugin.video.wltvhelper/play/rakuten/radio-italia-trend$ITA
+#EXTINF:-1 tvg-id="RakutenTvStingrayGreatestHits.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8d53b4e1-36cd-4243-a8ee-51bb7999f09e.png" tvg-name="RakutenTv - Stingray Greatest Hits" tvg-chno="3246" group-title="RakutenTv-Musica",RakutenTv - Stingray Greatest Hits
+plugin://plugin.video.wltvhelper/play/rakuten/stingray-greatest-hits$ENG
+#EXTINF:-1 tvg-id="RakutenTvStingrayHitList.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/02de7106-2746-4129-9ef4-aa2f1b767634-stingray-hitlist-1643294954.png" tvg-name="RakutenTv - Stingray: Hitlist" tvg-chno="3247" group-title="RakutenTv-Musica",RakutenTv - Stingray: Hitlist
+plugin://plugin.video.wltvhelper/play/rakuten/stingray-hit-list$ENG
+#EXTINF:-1 tvg-id="RakutenTvStingrayRememberThe80S.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/097e5a61-18cf-4483-a032-c4e4ac187964.png" tvg-name="RakutenTv - Stingray: Remember The 80'S" tvg-chno="3248" group-title="RakutenTv-Musica",RakutenTv - Stingray: Remember The 80'S
+plugin://plugin.video.wltvhelper/play/rakuten/stingray-remember-the-80-s$ZXX
+#EXTINF:-1 tvg-id="RakutenTvTraceUrban.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ba6dc147-e433-42dd-8d74-c3de7e244d28.png" tvg-name="RakutenTv - Trace Urban" tvg-chno="3249" group-title="RakutenTv-Musica",RakutenTv - Trace Urban
+plugin://plugin.video.wltvhelper/play/rakuten/trace-urban$ZXX
+#EXTINF:-1 tvg-id="RakutenTvVevoPop9000.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/04b97246-1ba1-4f33-9f95-972a50c41ef0.png" tvg-name="RakutenTv - Vevo '90S & '00S" tvg-chno="3250" group-title="RakutenTv-Musica",RakutenTv - Vevo '90S & '00S
+plugin://plugin.video.wltvhelper/play/rakuten/vevo-pop-90-00-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvVevoPop.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ea830044-b978-4b1d-b04a-9e03fbd78555.png" tvg-name="RakutenTv - Vevo Pop" tvg-chno="3251" group-title="RakutenTv-Musica",RakutenTv - Vevo Pop
+plugin://plugin.video.wltvhelper/play/rakuten/vevo-pop-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvAfricanewsEng.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8e7c8df9-a7ff-4ed9-a8c1-760f8064ac0a.png" tvg-name="RakutenTv - Africanews" tvg-chno="3252" group-title="RakutenTv-Notizie",RakutenTv - Africanews
+plugin://plugin.video.wltvhelper/play/rakuten/africanews-eng$ENG
+#EXTINF:-1 tvg-id="RakutenTvBloombergOriginalsNew.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8da643c7-9c7c-4a73-84b1-96824c200c6e.png" tvg-name="RakutenTv - Bloomberg Originals" tvg-chno="3253" group-title="RakutenTv-Notizie",RakutenTv - Bloomberg Originals
+plugin://plugin.video.wltvhelper/play/rakuten/bloomberg-originals-new$ENG
+#EXTINF:-1 tvg-id="RakutenTvBloombergTvPlus.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/eda4d06b-6685-44ea-887d-985839dd1463.png" tvg-name="RakutenTv - Bloomberg Tv+" tvg-chno="3254" group-title="RakutenTv-Notizie",RakutenTv - Bloomberg Tv+
+plugin://plugin.video.wltvhelper/play/rakuten/bloomberg-tv-plus$ENG
+#EXTINF:-1 tvg-id="RakutenTvCgtn.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7668fa21-f6d9-4cc5-9f74-cccd94e4c202.png" tvg-name="RakutenTv - Cgtn" tvg-chno="3255" group-title="RakutenTv-Notizie",RakutenTv - Cgtn
+plugin://plugin.video.wltvhelper/play/rakuten/cgtn$ENG
+#EXTINF:-1 tvg-id="RakutenTvEuronewsLiveIta.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c7e34b46-5c2e-46b9-8589-b14eff9cc5c0.png" tvg-name="RakutenTv - Euronews In Diretta" tvg-chno="3256" group-title="RakutenTv-Notizie",RakutenTv - Euronews In Diretta
+plugin://plugin.video.wltvhelper/play/rakuten/euronews-live-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvFrance24En.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0fe0be21-9f4b-4c4a-96f7-9a0767278a66.png" tvg-name="RakutenTv - France 24 Fast English" tvg-chno="3257" group-title="RakutenTv-Notizie",RakutenTv - France 24 Fast English
+plugin://plugin.video.wltvhelper/play/rakuten/france-24-en$ENG
+#EXTINF:-1 tvg-id="RakutenTvNewsworldIta.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ff0238cd-1696-4845-bba8-6be09d777b76.png" tvg-name="RakutenTv - Newsworld" tvg-chno="3258" group-title="RakutenTv-Notizie",RakutenTv - Newsworld
+plugin://plugin.video.wltvhelper/play/rakuten/newsworld-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvRevryNews.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/edf6d18f-c3af-4686-9596-991b7ed65410.png" tvg-name="RakutenTv - Revry News" tvg-chno="3259" group-title="RakutenTv-Notizie",RakutenTv - Revry News
+plugin://plugin.video.wltvhelper/play/rakuten/revry-news$ENG
+#EXTINF:-1 tvg-id="RakutenTvTheReuters60.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6f3cdcb7-ad53-489a-b2f2-7e234189f90a.png" tvg-name="RakutenTv - The Reuters 60" tvg-chno="3260" group-title="RakutenTv-Notizie",RakutenTv - The Reuters 60
+plugin://plugin.video.wltvhelper/play/rakuten/the-reuters-60$DEU
+#EXTINF:-1 tvg-id="RakutenTvUraniaNews.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/0df2c424-cb7b-4d4a-92c6-5ec1032d2401.png" tvg-name="RakutenTv - Urania News" tvg-chno="3261" group-title="RakutenTv-Notizie",RakutenTv - Urania News
+plugin://plugin.video.wltvhelper/play/rakuten/urania-news$ITA
+#EXTINF:-1 tvg-id="RakutenTvAndromeda.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4e94284d-f26a-47e5-b85c-caabab3ee457.png" tvg-name="RakutenTv - Andromeda" tvg-chno="3262" group-title="RakutenTv-Programmi TV",RakutenTv - Andromeda
+plugin://plugin.video.wltvhelper/play/rakuten/andromeda-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvFilmriseHighwayToHeaven.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e862da16-3850-47d3-8b4a-bacee1eb2d14.png" tvg-name="RakutenTv - Autostop Per Il Cielo" tvg-chno="3263" group-title="RakutenTv-Programmi TV",RakutenTv - Autostop Per Il Cielo
+plugin://plugin.video.wltvhelper/play/rakuten/filmrise-highway-to-heaven-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvBbcDrama.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/c85763d6-ae7c-43f5-bdc3-5cb379ea3fe8-bbc-drama-1643286347.png" tvg-name="RakutenTv - Bbc Drama" tvg-chno="3264" group-title="RakutenTv-Programmi TV",RakutenTv - Bbc Drama
+plugin://plugin.video.wltvhelper/play/rakuten/bbc-drama-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvFilmriseSciFi.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/ba0fa0a9-7e17-497e-abcc-9405dbb3a7f5-filmrise-sci-fi-1643623368.png" tvg-name="RakutenTv - Filmrise Sci-Fi" tvg-chno="3265" group-title="RakutenTv-Programmi TV",RakutenTv - Filmrise Sci-Fi
+plugin://plugin.video.wltvhelper/play/rakuten/filmrise-sci-fi-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvInazumaElevenGo.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b5d635cb-cd17-46c6-ad60-476d36c1e8d2.png" tvg-name="RakutenTv - Inazuma Eleven Collection" tvg-chno="3266" group-title="RakutenTv-Programmi TV",RakutenTv - Inazuma Eleven Collection
+plugin://plugin.video.wltvhelper/play/rakuten/inazuma-eleven-go$ITA
+#EXTINF:-1 tvg-id="RakutenTvInuyasha.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/20976274-fe3c-4e43-a8a5-ce26ab3ea7ec.png" tvg-name="RakutenTv - Inuyasha" tvg-chno="3267" group-title="RakutenTv-Programmi TV",RakutenTv - Inuyasha
+plugin://plugin.video.wltvhelper/play/rakuten/inuyasha$ITA
+#EXTINF:-1 tvg-id="RakutenTvMrBean.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ebc05fde-7e37-411d-a12b-17422acd6f18.png" tvg-name="RakutenTv - Mr. Bean" tvg-chno="3268" group-title="RakutenTv-Programmi TV",RakutenTv - Mr. Bean
+plugin://plugin.video.wltvhelper/play/rakuten/mr-bean-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvMrBeanLiveAction.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/85d4251c-ee72-4b3f-ac56-a0dfaa099d96.png" tvg-name="RakutenTv - Mr. Bean - Live Action" tvg-chno="3269" group-title="RakutenTv-Programmi TV",RakutenTv - Mr. Bean - Live Action
+plugin://plugin.video.wltvhelper/play/rakuten/mr-bean-live-action$ENG
+#EXTINF:-1 tvg-id="RakutenTvRakutenVikiNew.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06.png" tvg-name="RakutenTv - Rakuten Viki" tvg-chno="3270" group-title="RakutenTv-Programmi TV",RakutenTv - Rakuten Viki
+plugin://plugin.video.wltvhelper/play/rakuten/rakuten-viki-new$ENG
+#EXTINF:-1 tvg-id="RakutenTvFilmriseRelicHunterIta.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7bc75aec-72ce-48f9-b8de-9d2c37f1e59f.png" tvg-name="RakutenTv - Relic Hunter" tvg-chno="3271" group-title="RakutenTv-Programmi TV",RakutenTv - Relic Hunter
+plugin://plugin.video.wltvhelper/play/rakuten/filmrise-relic-hunter-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvRisateDalSudIta.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a263f27b-4bb0-4231-9b02-7760e5275cd5.png" tvg-name="RakutenTv - Risate Dal Sud" tvg-chno="3272" group-title="RakutenTv-Programmi TV",RakutenTv - Risate Dal Sud
+plugin://plugin.video.wltvhelper/play/rakuten/risate-dal-sud-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvSeriallyCrimeIta.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ba1f66ad-32bb-4e42-b512-8c73ca04afe3.png" tvg-name="RakutenTv - Serially Crime" tvg-chno="3273" group-title="RakutenTv-Programmi TV",RakutenTv - Serially Crime
+plugin://plugin.video.wltvhelper/play/rakuten/serially-crime-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvCrimeRakutenTv.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b7076ef4-2ace-4ad6-8984-2a370a01bcd0.png" tvg-name="RakutenTv - Serie Crime" tvg-chno="3274" group-title="RakutenTv-Programmi TV",RakutenTv - Serie Crime
+plugin://plugin.video.wltvhelper/play/rakuten/crime-rakuten-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvSoapLatino.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/dd74898e-538b-4050-bd8f-3dd4ce56dc78.png" tvg-name="RakutenTv - Soap Latino" tvg-chno="3275" group-title="RakutenTv-Programmi TV",RakutenTv - Soap Latino
+plugin://plugin.video.wltvhelper/play/rakuten/soap-latino-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvSoapTurco.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7daf2268-8aad-4418-81e0-2a6141ff1f3d.png" tvg-name="RakutenTv - Soap Turco" tvg-chno="3276" group-title="RakutenTv-Programmi TV",RakutenTv - Soap Turco
+plugin://plugin.video.wltvhelper/play/rakuten/soap-turco-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvBbcTopGear.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/35c458d4-f002-4e05-a77a-184ad42e7f6f.png" tvg-name="RakutenTv - Top Gear" tvg-chno="3277" group-title="RakutenTv-Programmi TV",RakutenTv - Top Gear
+plugin://plugin.video.wltvhelper/play/rakuten/bbc-top-gear-it$ITA
+#EXTINF:-1 tvg-id="RakutenTvYuGiOhNewIta.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ddcaa511-1cdf-42e4-9f6c-ce45a509eedc.png" tvg-name="RakutenTv - Yu-Gi-Oh!" tvg-chno="3278" group-title="RakutenTv-Programmi TV",RakutenTv - Yu-Gi-Oh!
+plugin://plugin.video.wltvhelper/play/rakuten/yu-gi-oh-new-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvHellSKitchenItItv.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/393ca282-5fd9-46d8-8057-3b7949dd3c4f.png" tvg-name="RakutenTv - Hell's Kitchen" tvg-chno="3279" group-title="RakutenTv-Reality",RakutenTv - Hell's Kitchen
+plugin://plugin.video.wltvhelper/play/rakuten/hell-s-kitchen-it-itv$ITA
+#EXTINF:-1 tvg-id="RakutenTvFifaPlusItNew.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3182546a-6827-4fd2-a035-9eb5b8d4ebdf.png" tvg-name="RakutenTv - Fifa+" tvg-chno="3280" group-title="RakutenTv-Sport",RakutenTv - Fifa+
+plugin://plugin.video.wltvhelper/play/rakuten/fifa-plus-it-new$ITA
+#EXTINF:-1 tvg-id="RakutenTvFuelTvNew.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7215f877-03fa-406e-8b2e-2422eae88563.png" tvg-name="RakutenTv - Fuel Tv" tvg-chno="3281" group-title="RakutenTv-Sport",RakutenTv - Fuel Tv
+plugin://plugin.video.wltvhelper/play/rakuten/fuel-tv-new$ENG
+#EXTINF:-1 tvg-id="RakutenTvGloryKickboxing.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f7ff571e-aa81-41ce-a131-cf6f9a5cb3de.png" tvg-name="RakutenTv - Glory Kickboxing" tvg-chno="3282" group-title="RakutenTv-Sport",RakutenTv - Glory Kickboxing
+plugin://plugin.video.wltvhelper/play/rakuten/glory-kickboxing$ENG
+#EXTINF:-1 tvg-id="RakutenTvGolfTv.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f68aa489-9ccc-42de-8920-ca527491a1bb.png" tvg-name="RakutenTv - Golf Television" tvg-chno="3283" group-title="RakutenTv-Sport",RakutenTv - Golf Television
+plugin://plugin.video.wltvhelper/play/rakuten/golf-tv$ITA
+#EXTINF:-1 tvg-id="RakutenTvHardKnocksFightingChampionship.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/2cd5ed64-21ce-4cfb-a28a-fa9572175a8e-hard-knocks-fighting-championship-1643622480.png" tvg-name="RakutenTv - Hard Knocks Fighting Championship" tvg-chno="3284" group-title="RakutenTv-Sport",RakutenTv - Hard Knocks Fighting Championship
+plugin://plugin.video.wltvhelper/play/rakuten/hard-knocks-fighting-championship$ENG
+#EXTINF:-1 tvg-id="RakutenTvInter247Ita.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/bb49ed71-bf84-480e-9336-4cfaba55d253.png" tvg-name="RakutenTv - Inter 24/7" tvg-chno="3285" group-title="RakutenTv-Sport",RakutenTv - Inter 24/7
+plugin://plugin.video.wltvhelper/play/rakuten/inter-24-7-ita$ITA
+#EXTINF:-1 tvg-id="RakutenTvMotoretro.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ae81570b-8092-41e2-b54b-f28a30a9845d.png" tvg-name="RakutenTv - Motoretrò" tvg-chno="3286" group-title="RakutenTv-Sport",RakutenTv - Motoretrò
+plugin://plugin.video.wltvhelper/play/rakuten/motoretro$ITA
+#EXTINF:-1 tvg-id="RakutenTvMotorsportTvEn.it" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/79d2582f-4a7f-484a-80eb-6fbbac04eb71.png" tvg-name="RakutenTv - Motorsport.Tv" tvg-chno="3287" group-title="RakutenTv-Sport",RakutenTv - Motorsport.Tv
+plugin://plugin.video.wltvhelper/play/rakuten/motorsport-tv-en$ENG
+#EXTINF:-1 tvg-id="RakutenTvMotorvisionTv.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e9e72f98-b4ce-4c11-8fdf-1ddbb978ce12.png" tvg-name="RakutenTv - Motorvision.Tv" tvg-chno="3288" group-title="RakutenTv-Sport",RakutenTv - Motorvision.Tv
+plugin://plugin.video.wltvhelper/play/rakuten/motorvision-tv$ENG
+#EXTINF:-1 tvg-id="RakutenTvPflMma.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ae31d5ea-3057-4a8e-b3ac-a492f71b25f9.png" tvg-name="RakutenTv - Pfl Mma" tvg-chno="3289" group-title="RakutenTv-Sport",RakutenTv - Pfl Mma
+plugin://plugin.video.wltvhelper/play/rakuten/pfl-mma$ENG
+#EXTINF:-1 tvg-id="RakutenTvRacerInternational.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/72a78bf8-e524-4c3b-aa8a-0cb53f10b1cd.png" tvg-name="RakutenTv - Racer International" tvg-chno="3290" group-title="RakutenTv-Sport",RakutenTv - Racer International
+plugin://plugin.video.wltvhelper/play/rakuten/racer-international$ENG
+#EXTINF:-1 tvg-id="RakutenTvRedBullTvEn.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/600fa23a-29c5-4682-a549-f56f89fce569.png" tvg-name="RakutenTv - Red Bull Tv" tvg-chno="3291" group-title="RakutenTv-Sport",RakutenTv - Red Bull Tv
+plugin://plugin.video.wltvhelper/play/rakuten/red-bull-tv-en$ENG
+#EXTINF:-1 tvg-id="RakutenTvSportItalia.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/ae70b6f8-8adb-4146-becd-4e069f5277c0-sport-italia-1643297885.png" tvg-name="RakutenTv - Sport Italia" tvg-chno="3292" group-title="RakutenTv-Sport",RakutenTv - Sport Italia
+plugin://plugin.video.wltvhelper/play/rakuten/sport-italia$ITA
+#EXTINF:-1 tvg-id="RakutenTvTopBarcaEng.it" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3775e03f-ec73-4f33-994d-9a62df6e2cda.png" tvg-name="RakutenTv - Top Barça" tvg-chno="3293" group-title="RakutenTv-Sport",RakutenTv - Top Barça
+plugin://plugin.video.wltvhelper/play/rakuten/top-barca-eng$ENG
+#EXTINF:-1 tvg-id="RakutenTvBilliardsTv.it" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f700e9a8-f1dc-4b40-8f3f-a387cfceb0d8-world-billiards-tv-1654685118.png" tvg-name="RakutenTv - World Billiards Tv" tvg-chno="3294" group-title="RakutenTv-Sport",RakutenTv - World Billiards Tv
+plugin://plugin.video.wltvhelper/play/rakuten/billiards-tv$ENG
+#EXTINF:-1 tvg-id="RakutenTvWorldPokerTour.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8baa58b6-ae65-46ae-a7ef-d4d0c1d2c8b9.png" tvg-name="RakutenTv - World Poker Tour" tvg-chno="3295" group-title="RakutenTv-Sport",RakutenTv - World Poker Tour
+plugin://plugin.video.wltvhelper/play/rakuten/world-poker-tour$ENG

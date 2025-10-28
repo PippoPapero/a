@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570017_f~0_g~1_s~19f301d0-a0c0-40da-a41a-993d804fce4a_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~58_x~74592b48fdd4db2cffda09086c04ec5f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721208_f~0_g~1_s~d67da236-92ee-4174-8fa5-8e08cfebd7cc_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~58_x~03cdb8b841c7d51739bf94256a6b2646/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="CINEMA" tvg-chno="700" tvg-name="Sky Cinema Collection" tvg-id="None" tvg-logo="None",Sky Cinema Collection
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -14,7 +14,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570017_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11155d8a1fe0b211137c206354e16d2a:7f07d0ef693893a84162d51c1c7259f3
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570022_f~0_g~1_s~1b69f71e-1fb2-4cfe-938f-4d2d8b072553_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~65_x~33a2ef3d239e9af0f35a8cbb5a1c5df5/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721212_f~0_g~1_s~37b61e8d-1a18-4998-8e49-639846fec8c6_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~65_x~81af3e2361b87de00584756cf70507e2/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="CINEMA" tvg-chno="700" tvg-name="Sky Cinema Action" tvg-id="None" tvg-logo="None",Sky Cinema Action
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -22,7 +22,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570022_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11150443883da4df27e25110d10fca31:83b6390471a083e00f8f3aff2a271be9
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570031_f~0_g~1_s~e3c8bd95-2f4a-4c9a-8049-5a2ca4c7f10c_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~61_x~f12fd20d136f2a302e59647d0415b12c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721218_f~0_g~1_s~bf8cad8a-ef8b-4fcb-a282-17e5debf0a5f_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~61_x~ec36ef3409b7ceddab0d5282cba645c5/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="CINEMA" tvg-chno="700" tvg-name="Sky Cinema Romance" tvg-id="None" tvg-logo="None",Sky Cinema Romance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -30,7 +30,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570031_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115dbeea57d2fadedc278956bcbfb02:3eee23f97ae49a81c03356599a614fca
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570046_f~0_g~1_s~01359a22-b63c-4f3b-9cf7-b8704b1574f6_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~62_x~4a5ef93ded4f76fdcb463005d0d3e371/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaromance)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721226_f~0_g~1_s~cf20086d-3e27-4661-8134-4615394836fa_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~62_x~c03b35e4a9795bbc6dde8e7a592646ab/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaromance)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="CINEMA" tvg-chno="700" tvg-name="Sky Cinema Family" tvg-id="None" tvg-logo="None",Sky Cinema Family
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -38,7 +38,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570046_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115074065832f74af7e279e1203adce:20ece4131fbec82ac7ff056838512143
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570040_f~0_g~1_s~052b8fda-2deb-4202-8e0f-ce789dc81843_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~61_x~9c43b678feb6781463dc463e5101ffaf/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemafamily)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721222_f~0_g~1_s~361e14ab-41c6-41ef-9742-0fed49347f9f_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~61_x~761c208cb97f15ebbf0d1be831c32161/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemafamily)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="CINEMA" tvg-chno="700" tvg-name="Sky Cinema Comedy" tvg-id="None" tvg-logo="None",Sky Cinema Comedy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -46,7 +46,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570040_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115676eca79233f2919b53f1a1709b8:72298a31b1b015b52adc03ab222494c2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570023_f~0_g~1_s~3f5f9ffe-9ba4-4b57-a96a-c2509872d304_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~61_x~e381f4fb807f10f92e5680fd87ca80d5/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721213_f~0_g~1_s~5a4e1bc1-ff2a-4118-98ca-5955448c01f1_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~61_x~bbf8370db47d1f793a25870abab6877b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="CINEMA" tvg-chno="700" tvg-name="Sky Cinema Suspense" tvg-id="None" tvg-logo="None",Sky Cinema Suspense
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -54,7 +54,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570023_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115d04562a1c328a84b2dab41244cba:5cf8c65d4177349308d7043384880659
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570048_f~0_g~1_s~0352e318-1507-406a-8c09-a6007b402c81_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~63_x~3e6fa88767dbcae5366e71639a3ae359/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemasuspense)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721227_f~0_g~1_s~f2d7e8ab-ce68-4b3e-b0b9-8cd81e2136f0_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~63_x~2ef964374172c4a3f5c3fa0ca54a58cb/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemasuspense)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="CINEMA" tvg-chno="700" tvg-name="Sky Cinema Due" tvg-id="None" tvg-logo="None",Sky Cinema Due
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -62,7 +62,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570048_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11152c4ea1a3bffdd277ce333e54631a:17f0c028800dbcb294b9aebbae1f7e0c
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570032_f~0_g~1_s~4844b07e-ff6f-4db9-9170-730d1a2fa10d_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~58_x~e00f4b400ae4f85d505f9e0e8be43f0a/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadue)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721219_f~0_g~1_s~41aa8434-d787-4bf8-9bf6-28bd06ec24e8_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~58_x~8fdb1544fba6a59b959e75f7a4c12b26/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadue)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="CINEMA" tvg-chno="700" tvg-name="Sky Cinema Drama" tvg-id="None" tvg-logo="None",Sky Cinema Drama
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -70,7 +70,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570032_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11155ad807b90b9570fb8cce067f6166:74c4430ed8142190e52d4b303286696f
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570042_f~0_g~1_s~1b2ebb12-3e22-42aa-830a-5eb21eb3cb17_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~8467c0cd1e8fdcbf285cfb9124c21c0b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadrama)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721224_f~0_g~1_s~f264d15e-db76-4678-8d7f-7868d4980116_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~c2a4e30e6f0d71d37b8defa4a337f03c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadrama)/master_2hr-aac.mpd
 
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Comedy Central" tvg-id="None" tvg-logo="None",Comedy Central
 #KODIPROP:inputstream=inputstream.adaptive
@@ -79,7 +79,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570042_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11155778dc9b7dde1e396a9110f09208:c030cf978cbdc4a4c84fc68ab467942b
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570061_f~0_g~1_s~c0bbe70f-82a7-4b98-87dc-cb4cfbd960f4_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~59_x~da0927c1c23d2e1e80dfbd25b4e378e3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(comedycentral)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721234_f~0_g~1_s~00401a91-53af-4b62-b8ca-c42b4b952eba_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~59_x~7781c13557a072ce97a312643b3c5f10/nowitlin1/Content/CMAF_CTR_S1/Live/channel(comedycentral)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky Atlantic" tvg-id="None" tvg-logo="None",Sky Atlantic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -87,7 +87,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570061_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115f02862576b34b467ad4c54a09cfc:bac42e800a5c437b606e2af5b291c607
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570016_f~0_g~1_s~d89a40a4-ca96-4fc2-b539-12fd60be0fc0_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~57_x~ed551b9bf369859fd8f4f162a0b995c2/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyatlantic)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721208_f~0_g~1_s~47908f06-2753-446c-8c30-8795093df151_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~57_x~a65554f50a74072745b4214fe643587c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyatlantic)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky Crime" tvg-id="None" tvg-logo="None",Sky Crime
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -95,7 +95,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570016_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115aa47cfa18cf73cb6f936cff1f8ee:a27e7383d481596cc34334336d3e7219
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570041_f~0_g~1_s~bdef7476-ffa7-495c-b63b-272b07e68443_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~54_x~dc972e1f052289d8039e23817bce5cb7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycrime)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721223_f~0_g~1_s~30cfc3be-96b9-437b-b3d8-c55e234e2498_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~54_x~dd9bbe0c7baac332077aed0fbe260984/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycrime)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky Uno" tvg-id="None" tvg-logo="None",Sky Uno
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -103,7 +103,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570041_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=111510584262913847ddcce74d224b1e:7586138d1db9eba6d01fdc3d38daec9e
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570013_f~0_g~1_s~6a2223ff-7889-4a6a-8f72-5952217b8c94_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~52_x~334dee017423329746466b36e7da6a79/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721206_f~0_g~1_s~54d4f0c6-d93d-447c-9269-2c134f422c1e_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~52_x~e539b4db3e956b1cfa79f3c0d170b236/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="History" tvg-id="None" tvg-logo="None",History
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -111,7 +111,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570013_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11158db9a2522642c8da56416d94c6a3:edb6a56266dde53f013d170d46b0b265
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570049_f~0_g~1_s~380ae4eb-109f-4946-9fb4-46e3cfe2e834_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~e51577a4469e51eba7fba5e41b72ca42/nowitlin1/Content/CMAF_CTR_S1/Live/channel(historychannel)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721227_f~0_g~1_s~8e362ab6-6f4c-48e5-b55a-8ad0312d3ad4_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~92a1f281b14e8551c83fe8e2faa913d1/nowitlin1/Content/CMAF_CTR_S1/Live/channel(historychannel)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky TG24" tvg-id="None" tvg-logo="None",Sky TG24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -119,7 +119,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570049_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115df8d6727807787e98c0ceae1ee6c:f4b9e52e3f31f1fa41850de4799ca4e3
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570010_f~0_g~1_s~6476d934-49ed-4dd4-8c1f-2deadd2a460a_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~50_x~d1f75610707fb4145ae0695acce78ef4/nowitlin1/Content/CMAF_CTR_S1/Live/channel(tg24)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721205_f~0_g~1_s~961f1f51-5899-4676-8fa6-202836f2d04e_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~50_x~929eefa65a27b2c9ab6ba7487dc4cf5e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(tg24)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky Serie" tvg-id="None" tvg-logo="None",Sky Serie
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -127,7 +127,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570010_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115bf01aeadce32fcec6a220375a3fa:9df360a2a22411897cd8b1bc48c0afc0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570024_f~0_g~1_s~4d9636e3-af77-49aa-a3ee-5dca8a3f5d90_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~54_x~2dc8a64c4d465f8b12b1540b890d4d8f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyserie)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721213_f~0_g~1_s~ac4d019e-6168-49d2-8d7e-f09ae9498992_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~54_x~a4fe4663963ba6f975758a0c532cec24/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyserie)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky Investigation" tvg-id="None" tvg-logo="None",Sky Investigation
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -135,7 +135,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570024_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11153dd8de63f9748252104afd6b7405:255e0c5bb81bde9602d8746080496e04
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570025_f~0_g~1_s~d00659da-a71f-47ca-bacf-89ff3808871f_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~62_x~3a0d8ce8992fefeba7a09cf0528eae80/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyinvestigation)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721214_f~0_g~1_s~d369627c-ff88-4b33-91d1-c332866bf326_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~62_x~c6190ac56a7aa4168a9965b6b9c53977/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyinvestigation)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky Nature" tvg-id="None" tvg-logo="None",Sky Nature
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -143,7 +143,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570025_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=111553a2ff74eff230c8bb72efc0504c:80ec2c7f64b97098f4f65a15d828ce6a
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570049_f~0_g~1_s~b1dacc10-412c-47de-8ff3-d1e59bbeb5e2_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~55_x~718e12ba723415f8e2c1cd3dfa2986bd/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skynature)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721228_f~0_g~1_s~b0cdd68e-dd17-4465-bc47-22375331cf68_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~55_x~96cf0a74d4de365a4aafffd665e8599f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skynature)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky Documentaries" tvg-id="None" tvg-logo="None",Sky Documentaries
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -151,7 +151,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570049_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=111556afa3ac362bbf6d6237a0096793:b80627550521e85d0997e3447245f7ff
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570034_f~0_g~1_s~ac5466bd-7c90-4ad6-9009-88f9fd213b15_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~62_x~d44b7dc930d0e5d99a0ec4194db2da40/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skydocumentaries)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721219_f~0_g~1_s~28121c91-d61d-4c3c-88e9-982a8da9abf5_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~62_x~daae3baa6221afab399c80b2f0984443/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skydocumentaries)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky Arte" tvg-id="None" tvg-logo="None",Sky Arte
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -159,7 +159,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570034_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11158d61157893c665c5ec942528d020:2d4b7343dd929afbbd61ef0aa37366d9
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570052_f~0_g~1_s~82a861e6-3ae1-4a62-beb2-0f7b18fb21bf_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~53_x~edc1c3937d34cd30fb0d65d50c7364eb/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyarte)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721229_f~0_g~1_s~e4347643-ab6b-41e2-af77-9db98cc72dda_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~53_x~43e6ea74b0ac7d01b713eb3549824b94/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyarte)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="MTV" tvg-id="None" tvg-logo="None",MTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -167,7 +167,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570052_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=111559b5e50a4be12901e456034285a3:2fedd4c9c3be1b7f90e86c7bc44131f8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570061_f~0_g~1_s~6a275c3d-4612-4b99-ae3c-5ce8ca5bfc4d_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~49_x~9983cee68e25964bc927267e64f282ae/nowitlin1/Content/CMAF_CTR_S1/Live/channel(mtv)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721233_f~0_g~1_s~13168bd0-670e-4f83-9b1c-d22fe489d45a_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~49_x~812d3c26fa725aaae20fc98087364ad0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(mtv)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="INTRATTENIMENTO" tvg-chno="700" tvg-name="Sky Adventure" tvg-id="None" tvg-logo="None",Sky Adventure
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -175,7 +175,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570061_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11158035ffbf17eebd02027e96383161:7e1ea10428e8c5cdfdac6c55b23018d2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570054_f~0_g~1_s~e435ff6f-a7aa-4e95-b2a0-ca95892be44a_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~58_x~fd72ebe4301e92405a813a46de5aea0a/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyadventure)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721230_f~0_g~1_s~26e08152-b5b1-4851-b2db-602aa34d589e_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~58_x~141089177c5f0c12155b3b8da5f893a5/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyadventure)/master_2hr-aac.mpd
 
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport Calcio" tvg-id="None" tvg-logo="None",Sky Sport Calcio
 #KODIPROP:inputstream=inputstream.adaptive
@@ -184,7 +184,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570054_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115557c32a99c0292957201fed8b967:8d43a8c2d91a57d9b93216a90f4aacf8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570019_f~0_g~1_s~4758145a-2bd8-4e1c-b7bb-33b05af97c00_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~ad8082e5582f4e11646103078a177db1/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721210_f~0_g~1_s~94c4bc3b-2842-4834-ae45-c312509294cb_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~9eea7e0da64b479e0eaf944380bf4a08/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport Uno" tvg-id="None" tvg-logo="None",Sky Sport Uno
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -192,7 +192,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570019_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=111537191dac218ee933fd1545cc3a59:65e0cfbfdf13084c8f4d8a55686dbc89
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570014_f~0_g~1_s~ad175615-6061-4c0e-b614-feabf3d5fe6f_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~57_x~1c0f9f45adaef6f794a41b4f4b7d4d52/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721207_f~0_g~1_s~7e8e7009-0015-4a3b-ac65-a2552725feac_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~57_x~f3d6cdaf41d5e0ad7c27f0955d3ac38e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport Max" tvg-id="None" tvg-logo="None",Sky Sport Max
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -200,7 +200,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570014_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11150528fa753f46b39c4202c74bdfb3:7560cc67684db74c405cad3f25ef9bcc
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570027_f~0_g~1_s~a791331f-c84d-44fa-8a04-6b3159b80da5_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~57_x~61a5ea342efdbcaf60ee2519aa6d6040/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmax)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721215_f~0_g~1_s~5e3e2d69-1393-494f-bb8f-1fd5d2d22dce_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~57_x~f816d894bf4e7ef1b40fc39ab14666d0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmax)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport Arena" tvg-id="None" tvg-logo="None",Sky Sport Arena
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -208,7 +208,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570027_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115d8fa4d58215c8e98fa6528c28af7:b40ef843e111c85e5eac882ac8b27474
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570026_f~0_g~1_s~88a6e533-0172-4620-9ce7-88b58671f8e2_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~59_x~353b4f3dc3bee16b4104d10aa312efb6/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportarena)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721214_f~0_g~1_s~ba5b002c-b7c6-41af-b771-0c52df7effe8_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~59_x~7d34691f1795b9c17299f569ada01174/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportarena)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport F1" tvg-id="None" tvg-logo="None",Sky Sport F1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -216,7 +216,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570026_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11152607638629ad611e9c7b56027f26:4f72e66c514c575dd92abf5ebe42497b
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570018_f~0_g~1_s~90c61bd9-1f71-453d-a38b-5a92875f1d5e_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~56_x~9c1b561b521a33bb567cd737189f9979/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761699610_f~0_g~1_s~ac6cfd6d-9549-4472-b523-8237e149ed13_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~56_x~87c863bcb6a10df78559c8ab204f8b7d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport MotoGP" tvg-id="None" tvg-logo="None",Sky Sport MotoGP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -224,7 +224,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570018_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115baf8d4d706ec00c35e64aa24d1f4:e033824ef8f6e6b380ea2ab266f6bd7b
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570021_f~0_g~1_s~b1ae3836-d442-46cb-96ac-55e33f189d91_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~9098bdb2b13ca65acd05504bf57ec04b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmotogp)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721211_f~0_g~1_s~083568e4-f1d8-4c93-843e-41de667286ee_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~f904072a49c0f906cfe5c910d2b52150/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmotogp)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport Tennis" tvg-id="None" tvg-logo="None",Sky Sport Tennis
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -232,7 +232,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570021_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11159f219c9cabf81a6d04ba8293b724:c1f35717ddcc01baa32d20cb21d11ab6
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570019_f~0_g~1_s~fff8a7ae-1236-4d8d-bd50-db2adbfb56b6_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~4de38f8eb696e9c8f8fd0373e4708861/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysporttennis)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721210_f~0_g~1_s~b7674ca6-53bf-488c-93d5-c6a2efca3ad7_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~49ca5dd39b08b83aab6782e1329ff752/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysporttennis)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport Legend" tvg-id="None" tvg-logo="None",Sky Sport Legend
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -240,7 +240,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570019_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115ab583cc0ac5ea1b1ff431f71e41b:a903b8627bcf0d766286a0b7bc3f62ee
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570029_f~0_g~1_s~c14ad0c3-d278-48a4-9336-0a22da5c5f3d_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~740e410595c21eb52bcaeafcf1987136/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportlegend)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721216_f~0_g~1_s~23367164-966a-4582-9eb2-bb0374e7efb7_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~bed6f951dceb6208d53f162a0678f084/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportlegend)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport Mix" tvg-id="None" tvg-logo="None",Sky Sport Mix
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -248,7 +248,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570029_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11154f2676665a7cae240224c4441a0e:16d10bdf22675db106a343927278c25f
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570030_f~0_g~1_s~0d3c0a9c-708f-4adb-ae81-097c779bc1e7_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~57_x~5532aebbe1e660ebbf7f190d523e0a32/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmix)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721217_f~0_g~1_s~4f71996d-4fc9-4f49-9a5a-9e4e3d1ffabc_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~57_x~cbc3dbda56f92ba58b0d3cec1a420573/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmix)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport Basket" tvg-id="None" tvg-logo="None",Sky Sport Basket
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -256,7 +256,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570030_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=111561054e6d687cfba720b052be310b:4936c477f04209e0486edaa2fb12078d
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570028_f~0_g~1_s~fe39fd16-a33d-4d2d-bb2f-1d6c527c3b24_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~c9c3b0df0a2e855c32c2953b83d8f5da/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportbasket)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721216_f~0_g~1_s~8be5d626-063a-41af-9a48-35d21f0e6007_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~60_x~6113d78200d134049ecd22ee0d00390f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportbasket)/master_2hr-aac.mpd
 #EXTINF: -1  group-title="SPORT" tvg-chno="700" tvg-name="Sky Sport Golf" tvg-id="None" tvg-logo="None",Sky Sport Golf
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.file_type=mpd
@@ -264,5 +264,5 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570028_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=111513e749aabe351134b0761a9b4eb2:67fb819283c33696be718a4c8d28e9b5
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://amstaff.city/&Origin=https://amstaff.city&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761570059_f~0_g~1_s~c13019d0-0e46-4963-927a-357917c70038_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~58_x~f3ab43aaa8c0030279905c1333582405/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportgolf)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1761721232_f~0_g~1_s~0a2cbfe0-4c48-4066-9fdb-b77d3bec23d5_u~a7b120b192ab0efeb5361552fcf3bdb6f764419c4a230644b3986c4eca442618d2c28c214e4186502bbb29a48cfc7c3f_k~A_l~58_x~d2ecb85bf9e4e10c2096a97ad0a150a9/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportgolf)/master_2hr-aac.mpd
 

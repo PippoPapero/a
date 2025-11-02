@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U   
 #EXTINF:-1 group-title="Xxx" tvg-name="Adultiptv.Net Anal" tvg-id="Adultiptv.Net Anal" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Adultiptv.Net Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="Xxx" tvg-name="Adultiptv.Net Asian" tvg-id="Adultiptv.Net Asian" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Adultiptv.Net Asian

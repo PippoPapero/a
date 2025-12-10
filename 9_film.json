@@ -19,169 +19,229 @@
 "Cinema Orientale": {
 "name":"Cinema Orientale" 
 "type":"movie" 
-}
+},
 },
   "channels": [
-{"category": "Cinema Orientale","name": "Project A - Operazione pirati","info": {
-"plot": "A Hong Kong, alla fine del secolo scorso, i pirati infestano i mari, senza che la polizia inglese o cinese riescano a fermarli. Dragon Ma si rassegna a combatterli da solo, in compagnia del fido amico Fei."
-"cast": "['Jackie Chan', 'Sammo Kam-Bo Hung', 'Biao Yuen', 'Dick Wei', 'Mars', 'Isabella Wong', 'Tai-Bo', 'Hoi-San Kwan', 'Wai Wong', 'Hoi-Sang Lee']"
-"year": 1983
-"genre": ["Action & Adventure"]
+{"category": "Cinema Orientale",
+"name": "Project A - Operazione pirati",
+"info": {
+"plot": "A Hong Kong, alla fine del secolo scorso, i pirati infestano i mari, senza che la polizia inglese o cinese riescano a fermarli. Dragon Ma si rassegna a combatterli da solo, in compagnia del fido amico Fei.,"
+"cast": "['Jackie Chan', 'Sammo Kam-Bo Hung', 'Biao Yuen', 'Dick Wei', 'Mars', 'Isabella Wong', 'Tai-Bo', 'Hoi-San Kwan', 'Wai Wong', 'Hoi-Sang Lee'],"
+"year": 1983,
+"genre": ["Action & Adventure"],
 "duration": 6630.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a6693b1ec100136f3a14/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "The Knight Of Shadows","info": {
-"plot": "Pu Songling è un leggendario cacciatore di demoni a cui viene chiesto di indagare sulle sparizioni di alcune ragazze del villaggio. Quando scopre che i crimini sono stati commessi da delle entità malvagie, Pu Songling combatte contro i demoni."
-"cast": "None"
-"year": 2019
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a6693b1ec100136f3a14/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "The Knight Of Shadows",
+"info": {
+"plot": "Pu Songling è un leggendario cacciatore di demoni a cui viene chiesto di indagare sulle sparizioni di alcune ragazze del villaggio. Quando scopre che i crimini sono stati commessi da delle entità malvagie, Pu Songling combatte contro i demoni.,"
+"cast": "None,"
+"year": 2019,
+"genre": ["Action & Adventure"],
 "duration": 7560.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/611b88f2ddc8e90013a472ff/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Il regno di Wuba","info": {
-"plot": "La regina dei mostri, che è incinta, prima di morire affida al giovane Tianyin il suo piccolo, destinato a diventare il nuovo re della sua specie. Così, Tianyin dovrà proteggerlo dai cacciatori di mostri che cercano di catturarlo."
-"cast": "['Baihe Bai', 'Boran Jing', 'Wu Jiang']"
-"year": 2016
-"genre": ["Sci-Fi & Fantasy"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/611b88f2ddc8e90013a472ff/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Il regno di Wuba",
+"info": {
+"plot": "La regina dei mostri, che è incinta, prima di morire affida al giovane Tianyin il suo piccolo, destinato a diventare il nuovo re della sua specie. Così, Tianyin dovrà proteggerlo dai cacciatori di mostri che cercano di catturarlo.,"
+"cast": "['Baihe Bai', 'Boran Jing', 'Wu Jiang'],"
+"year": 2016,
+"genre": ["Sci-Fi & Fantasy"],
 "duration": 7612.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874d2541210c6c9191fa522/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Le avventure di Wuba 2 - Il principe zucchino","info": {
-"plot": "Il piccolo Wuba, destinato al trono, si rimette in viaggio in una Cina favolosa, al confine tra il mondo degli uomini e quello dei mostri, separandosi dai propri genitori ma trovando nuovi alleati lungo la strada."
-"cast": "['Tony Chiu-Wai Leung', 'Baihe Bai', 'Boran Jing']"
-"year": 2018
-"genre": ["Sci-Fi & Fantasy"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874d2541210c6c9191fa522/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Le avventure di Wuba 2 - Il principe zucchino",
+"info": {
+"plot": "Il piccolo Wuba, destinato al trono, si rimette in viaggio in una Cina favolosa, al confine tra il mondo degli uomini e quello dei mostri, separandosi dai propri genitori ma trovando nuovi alleati lungo la strada.,"
+"cast": "['Tony Chiu-Wai Leung', 'Baihe Bai', 'Boran Jing'],"
+"year": 2018,
+"genre": ["Sci-Fi & Fantasy"],
 "duration": 7171.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6909baf105e444b5ed53b75c/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Rob-B-Hood - Tre Rapinatori e un Bebè","info": {
-"plot": "Thongs e Octopus accettano un lavoro dal loro padrone di casa, in cambio di una lauta ricompensa: rapire un bambino. Ben presto, il bebè risveglia forti sentimenti paterni nei due truffatori, portando a complicazioni quando si tratta di riconsegnarlo."
-"cast": "None"
-"year": 2006
-"genre": ["Comedy"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6909baf105e444b5ed53b75c/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Rob-B-Hood - Tre Rapinatori e un Bebè",
+"info": {
+"plot": "Thongs e Octopus accettano un lavoro dal loro padrone di casa, in cambio di una lauta ricompensa: rapire un bambino. Ben presto, il bebè risveglia forti sentimenti paterni nei due truffatori, portando a complicazioni quando si tratta di riconsegnarlo.,"
+"cast": "None,"
+"year": 2006,
+"genre": ["Comedy"],
 "duration": 8760.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/611b89a3ddc8e90013a48087/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Kung Fu Yoga","info": {
-"plot": "Un professore di archeologia di fama mondiale, esperto di kung fu, conduce la propria squadra alla ricerca di un antico tesoro indiano perduto, che si contende con una squadra di mercenari."
-"cast": "['Jackie Chan', 'Disha Patani', 'Sonu Sood', 'Eric Tsang', 'Amyra Dastur', 'Yixing Zhang', 'Miya Muqi', 'Yuxian Shang', 'Wen Jiang', 'Aarif Lee']"
-"year": 2017
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/611b89a3ddc8e90013a48087/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Kung Fu Yoga",
+"info": {
+"plot": "Un professore di archeologia di fama mondiale, esperto di kung fu, conduce la propria squadra alla ricerca di un antico tesoro indiano perduto, che si contende con una squadra di mercenari.,"
+"cast": "['Jackie Chan', 'Disha Patani', 'Sonu Sood', 'Eric Tsang', 'Amyra Dastur', 'Yixing Zhang', 'Miya Muqi', 'Yuxian Shang', 'Wen Jiang', 'Aarif Lee'],"
+"year": 2017,
+"genre": ["Action & Adventure"],
 "duration": 6988.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a4773b1ec100136c91f6/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Noryang","info": {
-"plot": "Inverno del 1598, la storia dell'ultima battaglia navale di Yi Sun-shin durante l'invasione giapponese della Corea, avvenuta nello stretto di Noryang."
-"cast": "['Jeong-Tae Choi', 'Choi Deok-moon', 'Jeong Jae-yeong', 'Yeo Jin-goo', 'Kim Beom-soo', 'Ahn Bo-hyun', 'Jung Gi-sub', 'Park Hoon', 'Sung-Ung Hwang', 'Moon Jeong-Hee']"
-"year": 2023
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a4773b1ec100136c91f6/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Noryang",
+"info": {
+"plot": "Inverno del 1598, la storia dell'ultima battaglia navale di Yi Sun-shin durante l'invasione giapponese della Corea, avvenuta nello stretto di Noryang.,"
+"cast": "['Jeong-Tae Choi', 'Choi Deok-moon', 'Jeong Jae-yeong', 'Yeo Jin-goo', 'Kim Beom-soo', 'Ahn Bo-hyun', 'Jung Gi-sub', 'Park Hoon', 'Sung-Ung Hwang', 'Moon Jeong-Hee'],"
+"year": 2023,
+"genre": ["Action & Adventure"],
 "duration": 10073.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/67a5c23109607d687e1310fe/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Dragon Blade - La Battaglia degli Imperi","info": {
-"plot": "Sulla via della seta, il generale Huo An fa in modo che regni la pace tra i popoli che la utilizzano. Un giorno arriva una legione romana comandata dal generale Lucio. Tra Huo e Lucio, dopo un iniziale diffidenza, nascerà un rapporto di sincero rispetto."
-"cast": "None"
-"year": 1970
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/67a5c23109607d687e1310fe/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Dragon Blade - La Battaglia degli Imperi",
+"info": {
+"plot": "Sulla via della seta, il generale Huo An fa in modo che regni la pace tra i popoli che la utilizzano. Un giorno arriva una legione romana comandata dal generale Lucio. Tra Huo e Lucio, dopo un iniziale diffidenza, nascerà un rapporto di sincero rispetto.,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Action & Adventure"],
 "duration": 6614.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874f5798eef10068fdff8ac/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "The Myth - Il risveglio di un eroe","info": {
-"plot": "Jack è un archeologo, tormentato da sogni su una sua ipotetica vita da guerriero nell'antica Cina. Quando, per lavoro, deve individuare l'esatta collocazione del mausoleo del primo imperatore cinese, Jack scopre che i suoi sogni non sono immaginari."
-"cast": "None"
-"year": 1970
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874f5798eef10068fdff8ac/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "The Myth - Il risveglio di un eroe",
+"info": {
+"plot": "Jack è un archeologo, tormentato da sogni su una sua ipotetica vita da guerriero nell'antica Cina. Quando, per lavoro, deve individuare l'esatta collocazione del mausoleo del primo imperatore cinese, Jack scopre che i suoi sogni non sono immaginari.,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Action & Adventure"],
 "duration": 8261.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874f4111210c6c9195476b1/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "L'Impero e la Gloria - Roaring Currents","info": {
-"plot": "Nel 1597, durante la seconda invasione giapponese della Corea, la flotta nipponica si prepara a sferrare un nuovo attacco. L’ammiraglio Yi Sun-shin raduna le 12 navi superstiti. Rifiutando la resa, mette in atto un piano audace per affrontare il nemico."
-"cast": "None"
-"year": 1970
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874f4111210c6c9195476b1/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "L'Impero e la Gloria - Roaring Currents",
+"info": {
+"plot": "Nel 1597, durante la seconda invasione giapponese della Corea, la flotta nipponica si prepara a sferrare un nuovo attacco. L’ammiraglio Yi Sun-shin raduna le 12 navi superstiti. Rifiutando la resa, mette in atto un piano audace per affrontare il nemico.,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Action & Adventure"],
 "duration": 7172.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874f4141210c6c91954e8f2/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Fabricated City","info": {
-"plot": "Kwon Yoo nella vita normale è un nullafacente, ma in quella virtuale è un leader. Quando verrà arrestato ingiustamente per omicidio, saranno i suoi amici conosciuti in rete, un gruppo chiamato Resurrection, a cercare di scagionarlo."
-"cast": "None"
-"year": 1970
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874f4141210c6c91954e8f2/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Fabricated City",
+"info": {
+"plot": "Kwon Yoo nella vita normale è un nullafacente, ma in quella virtuale è un leader. Quando verrà arrestato ingiustamente per omicidio, saranno i suoi amici conosciuti in rete, un gruppo chiamato Resurrection, a cercare di scagionarlo.,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Action & Adventure"],
 "duration": 8055.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874f84adf1220b5358cff93/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Operation Chromite","info": {
-"plot": "Durante la Guerra di Corea, per contrastare l'avanzata nordcoreana, MacArthur orchestra l'operazione segreta Chromite, infiltrando spie tra le linee nemiche."
-"cast": "None"
-"year": 1970
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874f84adf1220b5358cff93/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Operation Chromite",
+"info": {
+"plot": "Durante la Guerra di Corea, per contrastare l'avanzata nordcoreana, MacArthur orchestra l'operazione segreta Chromite, infiltrando spie tra le linee nemiche.,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Action & Adventure"],
 "duration": 6567.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874e49edf1220b53586f846/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "City hunter - Il film","info": {
-"plot": "Per il detective Ryu Saeba si presenta un caso all'apparenza semplice: ritrovare la figlia di un magnate, scomparsa improvvisamente. Nel suo compito è spalleggiato dalla fedele Kaori, innamorata di lui e molto gelosa."
-"cast": "['Chingmy Yau', 'Gary Daniels', 'Jackie Chan', 'Joey Wang', 'Kumiko Goto', 'Leon Lai', 'Pal Sinn', 'Richard Norton', 'Tzui-Pin Wen', 'Wai-Kwong Lo']"
-"year": 1993
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874e49edf1220b53586f846/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "City hunter - Il film",
+"info": {
+"plot": "Per il detective Ryu Saeba si presenta un caso all'apparenza semplice: ritrovare la figlia di un magnate, scomparsa improvvisamente. Nel suo compito è spalleggiato dalla fedele Kaori, innamorata di lui e molto gelosa.,"
+"cast": "['Chingmy Yau', 'Gary Daniels', 'Jackie Chan', 'Joey Wang', 'Kumiko Goto', 'Leon Lai', 'Pal Sinn', 'Richard Norton', 'Tzui-Pin Wen', 'Wai-Kwong Lo'],"
+"year": 1993,
+"genre": ["Action & Adventure"],
 "duration": 6275.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a4553b1ec100136c6e1b/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Alienoid","info": {
-"plot": "Sul finire della dinastia Goryeo, si apre un varco spazio-tempo e tre linee temporali si intrecciano tra loro. Le tre hanno come protagonisti un samurai, un alieno imprigionato nel corpo di un essere umano e i suoi temibili inseguitori."
-"cast": "None"
-"year": 1970
-"genre": ["Sci-Fi & Fantasy"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a4553b1ec100136c6e1b/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Alienoid",
+"info": {
+"plot": "Sul finire della dinastia Goryeo, si apre un varco spazio-tempo e tre linee temporali si intrecciano tra loro. Le tre hanno come protagonisti un samurai, un alieno imprigionato nel corpo di un essere umano e i suoi temibili inseguitori.,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Sci-Fi & Fantasy"],
 "duration": 9311.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874ccb16cc84ff3ed8fee13/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Twin Dragons","info": {
-"plot": "Jackie Chan e Maggie Cheung sono al centro di una scatenata avventura su due gemelli separati alla nascita: John, direttore d’orchestra in America, e Boomer, meccanico rissoso di Hong Kong. Dopo trent’anni si ritrovano, e le conseguenze saranno esplosive."
-"cast": "None"
-"year": 1970
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874ccb16cc84ff3ed8fee13/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Twin Dragons",
+"info": {
+"plot": "Jackie Chan e Maggie Cheung sono al centro di una scatenata avventura su due gemelli separati alla nascita: John, direttore d’orchestra in America, e Boomer, meccanico rissoso di Hong Kong. Dopo trent’anni si ritrovano, e le conseguenze saranno esplosive.,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Action & Adventure"],
 "duration": 5706.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/687503f6fd92ab53e8eebabf/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Kill Zone - Ai confini della giustizia","info": {
-"plot": "Lee è un poliziotto vecchio stile di Hong Kong. Quando la figlia viene rapita in Thailandia, si mette sulle sue tracce. Si ritrova a far squadra con l'investigatore cinese Kit e l'agente thailandese Tak per ritrovarla e sgominare una banda criminale."
-"cast": "None"
-"year": 1970
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/687503f6fd92ab53e8eebabf/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Kill Zone - Ai confini della giustizia",
+"info": {
+"plot": "Lee è un poliziotto vecchio stile di Hong Kong. Quando la figlia viene rapita in Thailandia, si mette sulle sue tracce. Si ritrova a far squadra con l'investigatore cinese Kit e l'agente thailandese Tak per ritrovarla e sgominare una banda criminale.,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Action & Adventure"],
 "duration": 7473.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/67b87bac3243424c50c964a5/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Once upon a time in China","info": {
-"plot": "Un maestro di arti marziali affronta una pericolosa banda di criminali al soldo di un gruppo di trafficanti di schiavi."
-"cast": "None"
-"year": 1970
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/67b87bac3243424c50c964a5/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Once upon a time in China",
+"info": {
+"plot": "Un maestro di arti marziali affronta una pericolosa banda di criminali al soldo di un gruppo di trafficanti di schiavi.,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Action & Adventure"],
 "duration": 8463.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793934e841320001395a687/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Once upon a time in China II","info": {
-"plot": "Un maestro di arti marziali deve proteggere i propri studenti e la propria zia dai membri di una setta dediti a un culto malvagio."
-"cast": "['Jet Li', 'Rosamund Kwan', 'Mok Siu-Chung', 'Tielin Zhang', 'Xiong Xinxin', 'Paul Fonoroff', 'Shi-Kwan Yen', 'David Chiang', 'Donnie Yen', 'Ka-Kui Ho']"
-"year": 1992
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793934e841320001395a687/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Once upon a time in China II",
+"info": {
+"plot": "Un maestro di arti marziali deve proteggere i propri studenti e la propria zia dai membri di una setta dediti a un culto malvagio.,"
+"cast": "['Jet Li', 'Rosamund Kwan', 'Mok Siu-Chung', 'Tielin Zhang', 'Xiong Xinxin', 'Paul Fonoroff', 'Shi-Kwan Yen', 'David Chiang', 'Donnie Yen', 'Ka-Kui Ho'],"
+"year": 1992,
+"genre": ["Action & Adventure"],
 "duration": 7029.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a6fe3b1ec100136fc00f/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Once upon a time in China III","info": {
-"plot": "Un maestro di arti marziali si reca a Pechino alla ricerca del proprio padre e si trova coinvolto in una congiura ai danni dell'imperatrice."
-"cast": "['Jet Li', 'Rosamund Kwan', 'Mok Siu-Chung', 'John Wakefield', 'Jin Chiu', 'Tak-Yan Wong', 'Xiong Xinxin', 'Shun Lau', 'Cunzhuang Ge', 'Chunzhong Zhang']"
-"year": 1992
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a6fe3b1ec100136fc00f/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Once upon a time in China III",
+"info": {
+"plot": "Un maestro di arti marziali si reca a Pechino alla ricerca del proprio padre e si trova coinvolto in una congiura ai danni dell'imperatrice.,"
+"cast": "['Jet Li', 'Rosamund Kwan', 'Mok Siu-Chung', 'John Wakefield', 'Jin Chiu', 'Tak-Yan Wong', 'Xiong Xinxin', 'Shun Lau', 'Cunzhuang Ge', 'Chunzhong Zhang'],"
+"year": 1992,
+"genre": ["Action & Adventure"],
 "duration": 6971.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a6df3b1ec100136faa45/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
-{"category": "Cinema Orientale","name": "Little big soldier","info": {
-"plot": "Un soldato della dinastia Liang si risveglia sul campo di battaglia dopo essersi finto morto. L’unico altro sopravvissuto è un giovane generale di Wei che decide di rapire non sapendo che è l’erede al trono e suo fratello lo cerca per ucciderlo!"
-"cast": "None"
-"year": 1970
-"genre": ["Action & Adventure"]
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6793a6df3b1ec100136faa45/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
+,{"category": "Cinema Orientale",
+"name": "Little big soldier",
+"info": {
+"plot": "Un soldato della dinastia Liang si risveglia sul campo di battaglia dopo essersi finto morto. L’unico altro sopravvissuto è un giovane generale di Wei che decide di rapire non sapendo che è l’erede al trono e suo fratello lo cerca per ucciderlo!,"
+"cast": "None,"
+"year": 1970,
+"genre": ["Action & Adventure"],
 "duration": 6060.0
 },
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/622b16479c0c17001b8bb474/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=8687e531-a8ef-4b35-8cd3-c24c318a0fa08687e531-a8ef-4b35-8cd3-c24c318a0fa0&userId="}, 
+"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/622b16479c0c17001b8bb474/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.9300&deviceLon=14.0900&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=26794ac8-d00b-45a5-9d31-3fc521c61c9126794ac8-d00b-45a5-9d31-3fc521c61c91&userId="
+} 
 ]
 
 }

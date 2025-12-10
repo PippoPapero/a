@@ -19,8 +19,8 @@
 "Cinema Orientale": {
 "name":"Cinema Orientale" 
 "type":"movie" 
-},
 }
+},
   "channels": [
 {"category": "Cinema Orientale","name": "Project A - Operazione pirati","info": {
 "plot": "A Hong Kong, alla fine del secolo scorso, i pirati infestano i mari, senza che la polizia inglese o cinese riescano a fermarli. Dragon Ma si rassegna a combatterli da solo, in compagnia del fido amico Fei."

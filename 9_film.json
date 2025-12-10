@@ -17,20 +17,4 @@
       "url": "url/to/channel/stream<"
     }
   ]
-    "main2": {
-      "name": "General channels 2"
-    }
-  "channels": [
-    {
-      "category": "main2",
-      "name": "Sample Channel 3",
-      "name:es": "Spanish name of channel1",
-      "url": "url/to/channel/stream"
-    },
-    {
-      "category": "main2",
-      "name": "Sample Channel 4",
-      "url": "url/to/channel/stream"
-    }
-  ]
 }

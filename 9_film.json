@@ -2,6 +2,7 @@
   "categories": {
     "main": {
       "name": "General channels",
+      "type" : "movies",
       "name:es": "Generale"
     }
   },

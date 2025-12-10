@@ -1,11 +1,10 @@
 {
-  "provider": {
-    "epg": "url/to/epg/xml.gz"
-  },
   "categories": {
     "main": {
-      "name": "General channels",
-      "name:es": "Generale"
+      "name": "General channels"
+    },
+    "main2": {
+      "name": "General channels 2"
     }
   },
   "channels": [
@@ -18,6 +17,17 @@
     {
       "category": "main",
       "name": "Sample Channel 2",
+      "url": "url/to/channel/stream"
+    }
+    {
+      "category": "main2",
+      "name": "Sample Channel 3",
+      "name:es": "Spanish name of channel1",
+      "url": "url/to/channel/stream"
+    },
+    {
+      "category": "main2",
+      "name": "Sample Channel 4",
       "url": "url/to/channel/stream"
     }
   ]

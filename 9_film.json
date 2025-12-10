@@ -1,21 +1,21 @@
 {
-"categories": {
-"Azione": {
-"name":"Azione 1",
-"type":"movie" 
-}},
-[
-{"category": "Azione",
-"name": "In the name of the King",
-"info": {
-"plot": "La vita di Farmer viene sconvolta quando delle creature mostruose irrompono nel suo villaggio distruggendolo, uccidendo suo figlio e rapendo sua moglie. Farmer decide di partire subito con due compagni all'inseguimento dei Krug per salvare sua moglie.",
-"cast": ["Jason Statham", "Leelee Sobieski", "John Rhys-Davies"],
-"year": 2009,
-"genre": ["Action & Adventure"],
-"duration": 8065.0
-},
-"url": "https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/episode/6874d5239017101f05acdef3/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=37.8100&deviceLon=13.8500&deviceMake=firefox&deviceModel=firefox&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=eeb556f2-1f70-423a-b957-ddf7c8e4bc06eeb556f2-1f70-423a-b957-ddf7c8e4bc06&userId="
-} 
-]
-
+  "categories": {
+    "main": {
+      "name": "General channels",
+      "name:es": "Generale"
+    }
+  },
+  "channels": [
+    {
+      "category": "main",
+      "name": "Sample Channel 1",
+      "name:es": "Spanish name of channel1",
+      "url": "url/to/channel/stream"
+    },
+    {
+      "category": "main",
+      "name": "Sample Channel 2",
+      "url": "url/to/channel/stream"
+    }
+  ]
 }

@@ -1,7 +1,4 @@
 {
-  "provider": {
-    "epg": "url/to/epg/xml.gz"
-  },
   "categories": {
     "main": {
       "name": "General channels",

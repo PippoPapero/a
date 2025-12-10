@@ -2,9 +2,6 @@
   "categories": {
     "main": {
       "name": "General channels"
-    },
-    "main2": {
-      "name": "General channels 2"
     }
   },
   "channels": [
@@ -17,8 +14,12 @@
     {
       "category": "main",
       "name": "Sample Channel 2",
-      "url": "url/to/channel/stream"
+      "url": "url/to/channel/stream<"
     },
+    "main2": {
+      "name": "General channels 2"
+    }
+  "channels": [
     {
       "category": "main2",
       "name": "Sample Channel 3",

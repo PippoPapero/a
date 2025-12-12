@@ -1,21 +1,51 @@
-{
-  "categories": {
-    "main": {
-      "name": "General channels",
-      "name:es": "Generale"
-    }
-  },
-  "channels": [
-    {
-      "category": "main",
-      "name": "Sample Channel 1",
-      "name:es": "Spanish name of channel1",
-      "url": "url/to/channel/stream"
+[
+  {
+    "name": "Test video",
+    "name:lv": "Testa video",
+    "category": "Action",
+    "info": {
+      "poster": "http://poster/image.jpg",
+      "rating": "5.5",
+      "genre": [
+        "drama",
+        "history"
+      ]
     },
-    {
-      "category": "main",
-      "name": "Sample Channel 2",
-      "url": "url/to/channel/stream"
-    }
-  ]
-}
+    "video": "http://video/file.mp4"
+  },
+  {
+    "name": "Test serial",
+    "category": "Drama",
+    "info": {
+      "genre": [
+        "drama",
+        "history"
+      ]
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "info": {
+          "genre": [
+            "drama",
+            "history"
+          ]
+        },
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Intro",
+            "info": {
+              "plot": "Something happens...",
+              "cast": [
+                "John Dow1",
+                "Jane Dow2"
+              ]
+            },
+            "video": "http://episodes/file.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]

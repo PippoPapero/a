@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Altro" tvg-chno="007" tvg-id="La7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",LA7
+#EXTINF:-1 group-title="Altro" tvg-chno="007" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzr-nxCQ_qPlMKH1TMnbj3UXDo395HH8cqmQ&s" tvg-id="La7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",LA7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 #EXTINF:-1 group-title="Altro" tvg-chno="029" tvg-id="La7Cinema" tvg-logo="https://www.la7.it/img/la7cinema_pal.jpg",LA7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
@@ -14,7 +14,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 #EXTINF:-1 group-title="Altro" tvg-chno="050" tvg-id="SkyTG24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 group-title="Discovery" tvg-chno="009" tvg-id="Nove" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png",NOVE
+#EXTINF:-1 group-title="Discovery" tvg-chno="009" group-logo="https://bilder.fernsehserien.de/gfx/pics/1408/Discovery-w-970.jpg.jpg" tvg-id="Nove" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-chno="031" tvg-id="RealTime" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
@@ -35,7 +35,7 @@ https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Discovery" tvg-chno="059" tvg-id="MotorTrendTV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
-#EXTINF:-1 group-title="Mediaset" tvg-chno="004" tvg-id="Rete4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png",Rete 4
+#EXTINF:-1 group-title="Mediaset" tvg-chno="004" group-logo="https://www.davidemaggio.it/app/uploads/2021/05/Mediaset-Infinity.jpg" tvg-id="Rete4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 group-title="Mediaset" tvg-chno="005" tvg-id="Canale5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
@@ -66,7 +66,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 group-title="Mediaset" tvg-chno="055" tvg-id="MediasetExtra" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png",Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Rai" tvg-chno="001" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/960px-Logo_of_RAI_%282016%29.svg.png" tvg-id="Rai1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png",Rai 1
+#EXTINF:-1 group-title="Rai" tvg-chno="001" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlExiBxIACQ8hmtS6j5okdijr9ZPMMjFf4Zw&s" tvg-id="Rai1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 group-title="Rai" tvg-chno="002" tvg-id="Rai2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png",Rai 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5

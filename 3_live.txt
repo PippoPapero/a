@@ -39,229 +39,311 @@ https://amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w1-n2/
 https://12c898047ca54008a2014edf2411f165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_80Anni2aGuerraMondiale/playlist.m3u8
 
 #EXTINF:-1 tvg-chno=850 tvg-id="60802b37709d6b0007b0c549" tvg-name="Pluto TV Natura" group-title="Pluto_Documentari" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Natura
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=215 tvg-id="608aa5e995132a00075f7005" tvg-name="Pluto TV Film Thriller" group-title="Pluto_Film" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Film Thriller
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=148 tvg-id="608aa777b907770007e5d05d" tvg-name="Pluto TV Serie Crime" group-title="Pluto_Serie" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Serie Crime
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa777b907770007e5d05d/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa777b907770007e5d05d/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=270 tvg-id="608aa7d8359b270007861489" tvg-name="Pluto TV Cinema Italiano" group-title="Pluto_Film" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Cinema Italiano
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=835 tvg-id="608aa8a5709d6b0007b132fe" tvg-name="Pluto TV Documentari" group-title="Pluto_Documentari" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Documentari
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=125 tvg-id="60b9ff2722bfa400072676ef" tvg-name="Pluto TV Serie" group-title="Pluto_Serie" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Serie
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=845 tvg-id="610a9ebe8c2ac2000734776e" tvg-name="Naturescape" group-title="Pluto_Documentari" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/610a9ebe8c2ac2000734776e/logo.png?fit=fill&fm=png&h=80&w=280",Naturescape
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=360 tvg-id="61728bb9ee3773000840c1fa" tvg-name="Pluto TV Sci-Fi" group-title="Pluto_Serie" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Sci-Fi
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=146 tvg-id="625e6cc905e09f00073addee" tvg-name="Squadra Speciale Cobra 11" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/625e6cc905e09f00073addee/logo.png?fit=fill&fm=png&h=80&w=280",Squadra Speciale Cobra 11
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=190 tvg-id="634926e4b51d2d00077819a2" tvg-name="Renegade" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/634926e4b51d2d00077819a2/logo.png?fit=fill&fm=png&h=80&w=280",Renegade
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634926e4b51d2d00077819a2/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634926e4b51d2d00077819a2/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=815 tvg-id="63c923944207be0007fd0887" tvg-name="Pluto TV Viaggi" group-title="Pluto_Documentari" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Viaggi
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c923944207be0007fd0887/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c923944207be0007fd0887/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=840 tvg-id="65253fdf3fd33c00080214a3" tvg-name="Pluto TV Storia" group-title="Pluto_Documentari" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Storia
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=305 tvg-id="6536608b4f123d000876b78b" tvg-name="Gli Immortali | Van Damme vs Lundgren" group-title="Pluto_Film" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/6536608b4f123d000876b78b/logo.png?fit=fill&fm=png&h=80&w=280",Gli Immortali | Van Damme vs Lundgren
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6536608b4f123d000876b78b/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=340 tvg-id="6581a09edfed030008e12b39" tvg-name="Star Trek: The Original Series" group-title="Pluto_Serie" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/6581a09edfed030008e12b39/logo.png?fit=fill&fm=png&h=80&w=280",Star Trek: The Original Series
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6581a09edfed030008e12b39/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6581a09edfed030008e12b39/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=345 tvg-id="65cb73d33ba51e00084cabad" tvg-name="Star Trek: Voyager" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/logo.png?fit=fill&fm=png&h=80&w=280",Star Trek: Voyager
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=185 tvg-id="65cb77853ba51e00084cba02" tvg-name="Mission Impossible" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/65cb77853ba51e00084cba02/logo.png?fit=fill&fm=png&h=80&w=280",Mission Impossible
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb77853ba51e00084cba02/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb77853ba51e00084cba02/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=300 tvg-id="65f865a62873090008d06382" tvg-name="Duri a Morire" group-title="Pluto_Film" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/65f865a62873090008d06382/logo.png?fit=fill&fm=png&h=80&w=280",Duri a Morire
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f865a62873090008d06382/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f865a62873090008d06382/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=385 tvg-id="66177d18c8311c0008d077d0" tvg-name="Storie Criminali" group-title="Pluto_Serie" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/logo.png?fit=fill&fm=png&h=80&w=280",Storie Criminali
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66177d18c8311c0008d077d0/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66177d18c8311c0008d077d0/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=285 tvg-id="66335489307fa300082bd6e4" tvg-name="Pluto TV Eros" group-title="Pluto_Film" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/66335489307fa300082bd6e4/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Eros
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66335489307fa300082bd6e4/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66335489307fa300082bd6e4/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=100 tvg-id="66a0eea88561260008b1c5d0" tvg-name="Carabinieri" group-title="Pluto_Serie" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/logo.png?fit=fill&fm=png&h=80&w=280",Carabinieri
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a0eea88561260008b1c5d0/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a0eea88561260008b1c5d0/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=142 tvg-id="66a8c7aefe11e500085b1587" tvg-name="Cherif" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/66a8c7aefe11e500085b1587/logo.png?fit=fill&fm=png&h=80&w=280",Cherif
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a8c7aefe11e500085b1587/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a8c7aefe11e500085b1587/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=143 tvg-id="66a8c8b3d2d50d000821fc4c" tvg-name="Tandem" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/66a8c8b3d2d50d000821fc4c/logo.png?fit=fill&fm=png&h=80&w=280",Tandem
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a8c8b3d2d50d000821fc4c/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a8c8b3d2d50d000821fc4c/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=141 tvg-id="66d7120815d2c60008cec006" tvg-name="Flashpoint" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/66d7120815d2c60008cec006/logo.png?fit=fill&fm=png&h=80&w=280",Flashpoint
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d7120815d2c60008cec006/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d7120815d2c60008cec006/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=145 tvg-id="66d9a98961dbf00008efb5fc" tvg-name="Sulle tracce del crimine" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/66d9a98961dbf00008efb5fc/logo.png?fit=fill&fm=png&h=80&w=280",Sulle tracce del crimine
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d9a98961dbf00008efb5fc/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d9a98961dbf00008efb5fc/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=144 tvg-id="66d9aa4315d2c60008d4ac40" tvg-name="Alice Nevers" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/66d9aa4315d2c60008d4ac40/logo.png?fit=fill&fm=png&h=80&w=280",Alice Nevers
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d9aa4315d2c60008d4ac40/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d9aa4315d2c60008d4ac40/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=375 tvg-id="66d9ab4bf0f17500084e9b7e" tvg-name="Pluto TV True Crime" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV True Crime
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d9ab4bf0f17500084e9b7e/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66d9ab4bf0f17500084e9b7e/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=280 tvg-id="671754d8e482950008962aaf" tvg-name="Cinema Poliziottesco" group-title="Pluto_Film" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/671754d8e482950008962aaf/logo.png?fit=fill&fm=png&h=80&w=280",Cinema Poliziottesco
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/671754d8e482950008962aaf/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/671754d8e482950008962aaf/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=290 tvg-id="6786235bd648bf0008c2780a" tvg-name="Pluto TV Cinema Orientale" group-title="Pluto_Film" tvg-logo="https://images.pluto.tv/channels/6786235bd648bf0008c2780a/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Cinema Orientale
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6786235bd648bf0008c2780a/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6786235bd648bf0008c2780a/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=120 tvg-id="67d9836ba1609bdb523f0c9d" tvg-name="Relic Hunter" group-title="Pluto_Serie" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/67d9836ba1609bdb523f0c9d/logo.png?fit=fill&fm=png&h=80&w=280",Relic Hunter
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d9836ba1609bdb523f0c9d/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d9836ba1609bdb523f0c9d/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=355 tvg-id="67ed14aaf7c5d70b9089c3bf" tvg-name="Pluto TV Serie Sci-Fi" group-title="Pluto_Serie" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Serie Sci-Fi
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ed14aaf7c5d70b9089c3bf/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ed14aaf7c5d70b9089c3bf/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 #EXTINF:-1 tvg-chno=295 tvg-id="68750875759366af05a151ce" tvg-name="Pluto TV Film Storici" group-title="Pluto_Film" group-logo="https://pluto.tv/assets/images/og_logo-9b0a05e9dd3d2b733200569711359887.png" tvg-logo="https://images.pluto.tv/channels/68750875759366af05a151ce/logo.png?fit=fill&fm=png&h=80&w=280",Pluto TV Film Storici
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68750875759366af05a151ce/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c610c160-e6ec-11f0-8ade-dcf50505a97fc610c160-e6ec-11f0-8ade-dcf50505a97f&deviceLat=36.8400&deviceLon=14.7900&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=932a9d2e-90fa-470a-b504-54b9264f3ba4&userId=
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68750875759366af05a151ce/master.m3u8?advertisingId=none&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f404f302-e941-11f0-88e5-dcf50505a97ff404f302-e941-11f0-88e5-dcf50505a97f&deviceLat=40.9000&deviceLon=14.4200&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=IT&sid=84f3d9df-a7fe-4dc3-a193-2faaa6da7e34&userId=
 
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno HD" group-title="Cinem" tvg-logo="https://i.postimg.cc/sXyVbLqd/download.png",Sky Cinema Uno HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35399.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno" group-title="Cinem" tvg-logo="https://i.postimg.cc/sXyVbLqd/download.png",Sky Cinema Uno
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35398.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Stories.it" tvg-name="Sky Cinema Stories HD" group-title="Cinem" tvg-logo="https://i.postimg.cc/28Nz6BPY/Sky-Cinema-Due.png",Sky Cinema Stories HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35390.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Stories.it" tvg-name="Sky Cinema Stories" group-title="Cinem" tvg-logo="https://i.postimg.cc/28Nz6BPY/Sky-Cinema-Due.png",Sky Cinema Stories
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35389.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection HD" group-title="Cinem" tvg-logo="https://i.postimg.cc/NMhNTTm8/Sky-Cinema-Collection.png",Sky Cinema Collection HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35386.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema..Collection.it" tvg-name="Sky Cinema  Collection" group-title="Cinem" tvg-logo="https://i.postimg.cc/NMhNTTm8/Sky-Cinema-Collection.png",Sky Cinema  Collection
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35385.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family HD" group-title="Cinem" tvg-logo="https://i.postimg.cc/Nf1rfXjq/Cinema-Family-1-SD.png",Sky Cinema Family HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35382.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family" group-title="Cinem" tvg-logo="https://i.postimg.cc/Nf1rfXjq/Cinema-Family-1-SD.png",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35381.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action HD" group-title="Cinem" tvg-logo="https://i.postimg.cc/CLZmvm7C/Sky-Cinema-Action.png",Sky Cinema Action HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35378.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action" group-title="Cinem" tvg-logo="https://i.postimg.cc/CLZmvm7C/Sky-Cinema-Action.png",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35377.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy HD" group-title="Cinem" tvg-logo="https://i.postimg.cc/x1BCvTCy/Cinema-Comedy-HD.png",Sky Cinema Comedy HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35374.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy" group-title="Cinem" tvg-logo="https://i.postimg.cc/x1BCvTCy/Cinema-Comedy-HD.png",Sky Cinema Comedy
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35373.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense HD" group-title="Cinem" tvg-logo="https://i.postimg.cc/h4HcZ3gc/sky-cinemasuspense.webp",Sky Cinema Suspense HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35370.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense" group-title="Cinem" tvg-logo="https://i.postimg.cc/h4HcZ3gc/sky-cinemasuspense.webp",Sky Cinema Suspense
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35369.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance HD" group-title="Cinem" tvg-logo="https://i.postimg.cc/TPytsQTv/Sky-Cinema-Romance.png",Sky Cinema Romance HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35366.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance" group-title="Cinem" tvg-logo="https://i.postimg.cc/TPytsQTv/Sky-Cinema-Romance.png",Sky Cinema Romance
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35365.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama HD" group-title="Cinem" tvg-logo="https://i.postimg.cc/XYBFSPBL/sky-cinemadrama.webp",Sky Cinema Drama HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35362.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama" group-title="Cinem" tvg-logo="https://i.postimg.cc/XYBFSPBL/sky-cinemadrama.webp",Sky Cinema Drama
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/84201.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Uno.it" tvg-name="Sky Uno HD" group-title="Intra" tvg-logo="https://i.postimg.cc/Z58TVZCt/Sky-Uno-HD.png",Sky Uno HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/156252.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Uno.it" tvg-name="Sky Uno" group-title="Intra" tvg-logo="https://i.postimg.cc/Z58TVZCt/Sky-Uno-HD.png",Sky Uno
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/156251.ts
 #EXTINF:-1 tvg-chno=0 tvg-id=".Sky.Uno.Plus.it" tvg-name=" Sky Uno Plus HD" group-title="Intra" tvg-logo="https://i.postimg.cc/R0T97Wst/download.jpg", Sky Uno Plus HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/356400.ts
 #EXTINF:-1 tvg-chno=0 tvg-id=".Sky.Uno.Plus.it" tvg-name=" Sky Uno Plus" group-title="Intra" tvg-logo="https://i.postimg.cc/R0T97Wst/download.jpg", Sky Uno Plus
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/356399.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Atlantic.it" tvg-name="Sky Atlantic HD" group-title="Intra" tvg-logo="https://i.postimg.cc/QdQT52DV/Sky-Atlantic-HD.png",Sky Atlantic HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/6555.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Atlantic.it" tvg-name="Sky Atlantic" group-title="Intra" tvg-logo="https://i.postimg.cc/QdQT52DV/Sky-Atlantic-HD.png",Sky Atlantic
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/27183.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Investigation.it" tvg-name="Sky Investigation HD" group-title="Intra" tvg-logo="https://i.postimg.cc/tgLfnnNh/Sky-Investigation-logo.webp",Sky Investigation HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/6551.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Investigation.it" tvg-name="Sky Investigation" group-title="Intra" tvg-logo="https://i.postimg.cc/tgLfnnNh/Sky-Investigation-logo.webp",Sky Investigation
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/96737.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Serie.it" tvg-name="Sky Serie HD" group-title="Intra" tvg-logo="https://i.postimg.cc/G2dfjw62/Sky-Serie-logo.webp",Sky Serie HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/173106.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Serie.it" tvg-name="Sky Serie" group-title="Intra" tvg-logo="https://i.postimg.cc/G2dfjw62/Sky-Serie-logo.webp",Sky Serie
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/173105.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Collection.it" tvg-name="Sky Collection HD" group-title="Intra" tvg-logo="https://i.postimg.cc/52jtY9R9/sky-collection-removebg-preview.png",Sky Collection HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/352413.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Collection.it" tvg-name="Sky Collection" group-title="Intra" tvg-logo="https://i.postimg.cc/52jtY9R9/sky-collection-removebg-preview.png",Sky Collection
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/352414.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Adventure.it" tvg-name="Sky Adventure HD" group-title="Intra" tvg-logo="https://i.postimg.cc/SQBLnYRX/Sky-Adventure-Logo-1080p.png",Sky Adventure HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/340029.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Nature.it" tvg-name="Sky Nature HD" group-title="Intra" tvg-logo="https://i.postimg.cc/054YR6ss/sky-nature.jpg",Sky Nature HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/173227.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Documentaries.it" tvg-name="Sky Documentaries HD" group-title="Intra" tvg-logo="https://i.postimg.cc/d30c8H0z/Sky-Documentaries.png",Sky Documentaries HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/173109.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Documentaries.it" tvg-name="Sky Documentaries" group-title="Intra" tvg-logo="https://i.postimg.cc/d30c8H0z/Sky-Documentaries.png",Sky Documentaries
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/173108.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="History.it" tvg-name="History HD" group-title="Intra" tvg-logo="https://i.postimg.cc/448GQ99p/History-HD.png",History HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/6608.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Arte.it" tvg-name="Sky Arte HD" group-title="Intra" tvg-logo="https://i.postimg.cc/cCf5jPJK/Sky-Arte-HD.png",Sky Arte HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/6605.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Crime.it" tvg-name="Sky Crime HD" group-title="Intra" tvg-logo="https://i.postimg.cc/T3QbYhDQ/CI-Crime-Investigation-HD.png",Sky Crime HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/6614.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Crime.it" tvg-name="Sky Crime" group-title="Intra" tvg-logo="https://i.postimg.cc/T3QbYhDQ/CI-Crime-Investigation-HD.png",Sky Crime
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/29141.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Nick.Jr.it" tvg-name="Sky Nick Jr" group-title="Intra" tvg-logo="https://i.postimg.cc/HnhTr4BT/Nick-Jr.png",Sky Nick Jr
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/6624.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.24.it" tvg-name="Sky Sport 24 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/0Qhm2ppg/Sky-Sport-24-HD.png",Sky Sport 24 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/260106.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.24.it" tvg-name="Sky Sport 24" group-title="Sports" tvg-logo="https://i.postimg.cc/0Qhm2ppg/Sky-Sport-24-HD.png",Sky Sport 24
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/27191.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Uno..it" tvg-name="Sky Sport Uno  HD" group-title="Sports" tvg-logo="https://i.postimg.cc/xdpYm5xZ/Sky-Sport-1-HD.png",Sky Sport Uno  HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/144643.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport Uno" group-title="Sports" tvg-logo="https://i.postimg.cc/xdpYm5xZ/Sky-Sport-1-HD.png",Sky Sport Uno
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/27192.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Arena.it" tvg-name="Sky Sport Arena HD" group-title="Sports" tvg-logo="https://i.postimg.cc/bYBT5tWj/Sky-Sport-Arena-HD.png",Sky Sport Arena HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/14297.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Arena.it" tvg-name="Sky Sport Arena" group-title="Sports" tvg-logo="https://i.postimg.cc/bYBT5tWj/Sky-Sport-Arena-HD.png",Sky Sport Arena
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/35082.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.F1.it" tvg-name="Sky Sport F1 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/Hk26ssBY/Sky-Sport-F1-HD.png",Sky Sport F1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/6577.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.F1.it" tvg-name="Sky Sport F1" group-title="Sports" tvg-logo="https://i.postimg.cc/Hk26ssBY/Sky-Sport-F1-HD.png",Sky Sport F1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/27195.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.MotoGP.it" tvg-name="Sky Sport MotoGP HD" group-title="Sports" tvg-logo="https://i.postimg.cc/j2HzgZ1x/Sky-Moto-GP-HD.png",Sky Sport MotoGP HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/6576.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.MotoGP.it" tvg-name="Sky Sport MotoGP" group-title="Sports" tvg-logo="https://i.postimg.cc/j2HzgZ1x/Sky-Moto-GP-HD.png",Sky Sport MotoGP
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/27194.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Golf..it" tvg-name="Sky Sport Golf  HD" group-title="Sports" tvg-logo="https://i.postimg.cc/rsCZvXYP/golf.jpg",Sky Sport Golf  HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/269771.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Golf..it" tvg-name="Sky Sport Golf " group-title="Sports" tvg-logo="https://i.postimg.cc/rsCZvXYP/golf.jpg",Sky Sport Golf 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/269772.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis HD" group-title="Sports" tvg-logo="https://i.postimg.cc/506JSr6z/Sky-Sport-Tennis-svg.png",Sky Sport Tennis HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/77973.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis" group-title="Sports" tvg-logo="https://i.postimg.cc/506JSr6z/Sky-Sport-Tennis-svg.png",Sky Sport Tennis
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/96742.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Basket.it" tvg-name="Sky Sport Basket HD" group-title="Sports" tvg-logo="https://i.postimg.cc/hjw26z6q/Sky-Sport-NBA-HD.png",Sky Sport Basket HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/14296.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Basket.it" tvg-name="Sky Sport Basket" group-title="Sports" tvg-logo="https://i.postimg.cc/hjw26z6q/Sky-Sport-NBA-HD.png",Sky Sport Basket
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/96743.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Max.it" tvg-name="Sky Sport Max HD" group-title="Sports" tvg-logo="https://i.postimg.cc/YSTnTDdY/Sky-Sport-Football-HD.png",Sky Sport Max HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/14299.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Max.it" tvg-name="Sky Sport Max" group-title="Sports" tvg-logo="https://i.postimg.cc/YSTnTDdY/Sky-Sport-Football-HD.png",Sky Sport Max
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/27199.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Mix.it" tvg-name="Sky Sport Mix HD" group-title="Sports" tvg-logo="https://i.postimg.cc/d3y8WwHt/Sky-Sport-Mix-Logo-2022-svg.webp",Sky Sport Mix HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/237674.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Mix.it" tvg-name="Sky Sport Mix" group-title="Sports" tvg-logo="https://i.postimg.cc/d3y8WwHt/Sky-Sport-Mix-Logo-2022-svg.webp",Sky Sport Mix
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/354101.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Legend.it" tvg-name="Sky Sport Legend HD" group-title="Sports" tvg-logo="https://i.postimg.cc/m29wjNJN/Sky-Sport-Legend-Logo-2025-svg.webp",Sky Sport Legend HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/237675.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Legend.it" tvg-name="Sky Sport Legend" group-title="Sports" tvg-logo="https://i.postimg.cc/m29wjNJN/Sky-Sport-Legend-Logo-2025-svg.webp",Sky Sport Legend
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/354100.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.24.2.Fonte.it" tvg-name="Sky Sport 24 HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/yd4CJHnf/Sky-Sport-24-Logo-2020-svg.png",Sky Sport 24 HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345429.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.24.2.Fonte.it" tvg-name="Sky Sport 24 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/yd4CJHnf/Sky-Sport-24-Logo-2020-svg.png",Sky Sport 24 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345428.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Uno.2.Fonte.it" tvg-name="Sky Sport Uno HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/tCQSK1Ps/Sky-Sport-Uno-Logo-2020-svg.webp",Sky Sport Uno HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345426.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Uno.2.Fonte.it" tvg-name="Sky Sport Uno 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/tCQSK1Ps/Sky-Sport-Uno-Logo-2020-svg.webp",Sky Sport Uno 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345425.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Max.2.Fonte.it" tvg-name="Sky Sport Max HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/BZz9X5yt/Sky-Sport-Max-2023-logo.png",Sky Sport Max HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345423.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Max.2.Fonte.it" tvg-name="Sky Sport Max 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/BZz9X5yt/Sky-Sport-Max-2023-logo.png",Sky Sport Max 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345422.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Arena.2.Fonte.it" tvg-name="Sky Sport Arena HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/NjHrW4hX/Sky-Sport-Arena-Logo-2020-svg.png",Sky Sport Arena HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345420.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Arena.2.Fonte.it" tvg-name="Sky Sport Arena 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/NjHrW4hX/Sky-Sport-Arena-Logo-2020-svg.png",Sky Sport Arena 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345419.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Basket.2.Fonte.it" tvg-name="Sky Sport Basket HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/Zq9BrxHn/Sky-Sport-Basket-Logo-2025-svg.png",Sky Sport Basket HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345417.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Basket.2.Fonte.it" tvg-name="Sky Sport Basket 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/Zq9BrxHn/Sky-Sport-Basket-Logo-2025-svg.png",Sky Sport Basket 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345416.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Tennis.2.Fonte.it" tvg-name="Sky Sport Tennis HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/cL10y18N/Sky-Sport-Tennis-svg.png",Sky Sport Tennis HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345414.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Tennis.2.Fonte.it" tvg-name="Sky Sport Tennis 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/cL10y18N/Sky-Sport-Tennis-svg.png",Sky Sport Tennis 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345413.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.MotoGP.2.Fonte.it" tvg-name="Sky Sport MotoGP HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/pVnDzRrx/Sky-Sport-Moto-GP-Logo-2020-svg.png",Sky Sport MotoGP HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345411.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.MotoGP.2.Fonte.it" tvg-name="Sky Sport MotoGP 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/pVnDzRrx/Sky-Sport-Moto-GP-Logo-2020-svg.png",Sky Sport MotoGP 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345410.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.F1.2.Fonte.it" tvg-name="Sky Sport F1 HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/WpQwHtCh/Sky-Sport-F1-Logo-2020-svg.webp",Sky Sport F1 HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345408.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.F1.2.Fonte.it" tvg-name="Sky Sport F1 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/WpQwHtCh/Sky-Sport-F1-Logo-2020-svg.webp",Sky Sport F1 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345407.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Legend.2.Fonte.it" tvg-name="Sky Sport Legend HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/2SJDqCCq/Sky-Sport-Legend-Logo-2025-svg-1.webp",Sky Sport Legend HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345600.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Legend.2.Fonte.it" tvg-name="Sky Sport Legend 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/2SJDqCCq/Sky-Sport-Legend-Logo-2025-svg-1.webp",Sky Sport Legend 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345599.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Mix.2.Fonte.it" tvg-name="Sky Sport Mix HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/nL76C7d5/Sky-Sport-Mix-Logo-2022-svg-1.webp",Sky Sport Mix HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345597.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Mix.2.Fonte.it" tvg-name="Sky Sport Mix 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/nL76C7d5/Sky-Sport-Mix-Logo-2022-svg-1.webp",Sky Sport Mix 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345596.ts
 #EXTINF:-1 tvg-chno=0 tvg-id="Sky.Sport.Golf.2.Fonte.it" tvg-name="Sky Sport Golf HD 2 Fonte" group-title="Sports" tvg-logo="https://i.postimg.cc/Jnjz767w/Sky-Sport-Golf-Logo-2022-svg.png",Sky Sport Golf HD 2 Fonte
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/345405.ts
